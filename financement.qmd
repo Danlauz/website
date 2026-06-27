@@ -14,11 +14,11 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Subvention Découverte du CRSNG (RGPIN-2026-06184). — **195 000 $**
+**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Subvention Découverte du CRSNG (RGPIN-2026-06184). — **195 000 $ / 5 ans**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Supplément Tremplin vers la découverte du CRSNG (DGECR-2026-00265). — **12 500 $**
+**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Supplément Tremplin vers la découverte du CRSNG (DGECR-2026-00265). — **12 500 $ / 1 an**
 :::
 
 ::: {.publication-item}
@@ -27,7 +27,7 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimisation des stratégies d'exploration minière par apprentissage par renforcement.* Accélération Mitacs (IT47670), partenaire Orano Mining. — **85 000 $** · *octroyée, puis annulée*
+**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimisation des stratégies d'exploration minière par apprentissage par renforcement.* Accélération Mitacs (IT47670), partenaire Orano Mining. — **85 000 $ / 1 an** · *octroyée, puis annulée*
 :::
 
 ### Co-chercheur
@@ -41,21 +41,21 @@ Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C.
 ### Chercheur principal
 
 ::: {.publication-item}
-**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Étude de cas multidisciplinaire en génie géologique en troisième année* (GLQ3100, GLQ3401, GLQ3425). Fonds d'actions pédagogiques stratégiques (FAPS). — **10 528,72 $**
+**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Étude de cas multidisciplinaire en génie géologique en troisième année* (GLQ3100, GLQ3401, GLQ3425). Fonds d'actions pédagogiques stratégiques (FAPS). — **10 528,72 $ / 1 an**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2025). *Études de cas réels pour l'estimation des ressources minières : une approche expérientielle* (GLQ3401, GLQ3651). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 973,63 $**
+**Lauzon, D.** (2025). *Études de cas réels pour l'estimation des ressources minières : une approche expérientielle* (GLQ3401, GLQ3651). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 973,63 $ / 1 an**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *De la théorie aux données réelles : apprendre la géostatistique par l'expérience* (GLQ3401, GLQ3651). Projet de création ou d'adaptation d'une REL disciplinaire (Fabrique REL). — **14 790,87 $**
+**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *De la théorie aux données réelles : apprendre la géostatistique par l'expérience* (GLQ3401, GLQ3651). Projet de création ou d'adaptation d'une REL disciplinaire (Fabrique REL). — **14 790,87 $ / 1 an**
 :::
 
 ### Co-chercheur
 
 ::: {.publication-item}
-Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisation d'algèbre linéaire et outils de collaboration inter-programmes* (MTH1008, MTH1009). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 051,00 $**
+Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisation d'algèbre linéaire et outils de collaboration inter-programmes* (MTH1008, MTH1009). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 051,00 $ / 1 an**
 :::
 
 ## Demandes en évaluation
@@ -73,3 +73,12 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisat
 ::: {.publication-item}
 **Lauzon, D.**, Pasquier, P., Prieto Espinoza, M. (2027–2030). *Méthodes statistiques pour la caractérisation des signatures hydrogéochimiques et du rabattement à long terme des eaux souterraines induits par les activités minières.* Subvention FRQNT – Programme de recherche en partenariat sur le développement durable du secteur minier IV. Partenaires : BGC Engineering Inc. et Agnico Eagle Mines. — **300 000 $ / 3 ans**
 :::
+
+## Bilan des subventions
+
+| Statut | Chercheur principal | Co-chercheur | Total |
+|:--|--:|--:|--:|
+| **Obtenues** | 665 793 $ | 1 102 051 $ | 1 767 844 $ |
+| **En évaluation** | 980 000 $ | — | 980 000 $ |
+
+*La subvention Mitacs–Orano (85 000 $), octroyée puis annulée, n'est pas comptabilisée dans les totaux.*

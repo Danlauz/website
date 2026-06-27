@@ -14,11 +14,11 @@ Research and teaching grants awarded, and applications currently under review.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Grant (RGPIN-2026-06184). — **$195,000**
+**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Grant (RGPIN-2026-06184). — **$195,000 over 5 years**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Launch Supplement (DGECR-2026-00265). — **$12,500**
+**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Launch Supplement (DGECR-2026-00265). — **$12,500 over 1 year**
 :::
 
 ::: {.publication-item}
@@ -27,7 +27,7 @@ Research and teaching grants awarded, and applications currently under review.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimization of mineral exploration strategies using reinforcement learning.* Mitacs Accelerate (IT47670), partner Orano Mining. — **$85,000** · *awarded, then cancelled*
+**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimization of mineral exploration strategies using reinforcement learning.* Mitacs Accelerate (IT47670), partner Orano Mining. — **$85,000 over 1 year** · *awarded, then cancelled*
 :::
 
 ### Co-investigator
@@ -41,21 +41,21 @@ Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C.
 ### Principal investigator
 
 ::: {.publication-item}
-**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Multidisciplinary case study in geological engineering in the third year* (GLQ3100, GLQ3401, GLQ3425). Strategic Pedagogical Action Fund (FAPS). — **$10,528.72**
+**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Multidisciplinary case study in geological engineering in the third year* (GLQ3100, GLQ3401, GLQ3425). Strategic Pedagogical Action Fund (FAPS). — **$10,528.72 over 1 year**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2025). *Real-world case studies for mineral resource estimation: an experiential approach* (GLQ3401, GLQ3651). Strategic Pedagogical Action Fund (FAPS). — **$12,973.63**
+**Lauzon, D.** (2025). *Real-world case studies for mineral resource estimation: an experiential approach* (GLQ3401, GLQ3651). Strategic Pedagogical Action Fund (FAPS). — **$12,973.63 over 1 year**
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *From theory to real data: learning geostatistics through experience* (GLQ3401, GLQ3651). Open educational resource (OER) creation/adaptation project (Fabrique REL). — **$14,790.87**
+**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *From theory to real data: learning geostatistics through experience* (GLQ3401, GLQ3651). Open educational resource (OER) creation/adaptation project (Fabrique REL). — **$14,790.87 over 1 year**
 :::
 
 ### Co-investigator
 
 ::: {.publication-item}
-Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualization of linear algebra and cross-program collaboration tools* (MTH1008, MTH1009). Strategic Pedagogical Action Fund (FAPS). — **$12,051.00**
+Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualization of linear algebra and cross-program collaboration tools* (MTH1008, MTH1009). Strategic Pedagogical Action Fund (FAPS). — **$12,051.00 over 1 year**
 :::
 
 ## Applications under review
@@ -73,3 +73,12 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualizat
 ::: {.publication-item}
 **Lauzon, D.**, Pasquier, P., Prieto Espinoza, M. (2027–2030). *Statistical methods for characterizing hydrogeochemical signatures and long-term groundwater drawdown induced by mining activities.* FRQNT – Sustainable Development of the Mining Sector Partnership Research Program IV. Partners: BGC Engineering Inc. and Agnico Eagle Mines. — **$300,000 over 3 years**
 :::
+
+## Funding summary
+
+| Status | Principal investigator | Co-investigator | Total |
+|:--|--:|--:|--:|
+| **Awarded** | $665,793 | $1,102,051 | $1,767,844 |
+| **Under review** | $980,000 | — | $980,000 |
+
+*The Mitacs–Orano grant ($85,000), awarded then cancelled, is not included in the totals.*
