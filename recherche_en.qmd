@@ -1,0 +1,28 @@
+---
+title: "Research"
+pagetitle: "Research — Dany Lauzon"
+---
+
+My research develops new **geostatistical methods**, couples them with **machine learning**, and applies them to subsurface modeling and uncertainty quantification — with impact in hydrogeology, geotechnics and the mining sector. It is organized around four axes.
+
+## Axis 1 — Advanced geostatistical algorithms
+
+I develop simulation and spatial-analysis algorithms based on the fast Fourier transform (FFT) that scale efficiently to very large grids. My work spans multivariate simulation (G‑FFTMA), the extension to **non‑Gaussian random fields with spatial asymmetry** (NG‑FFTMA), and the computation of **higher‑order spatial statistics** — variograms, transiograms, cumulants — through SpatialStatisticsFFT.
+
+**Open-source code:** [G‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [NG‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT)
+
+## Axis 2 — Inverse problems and uncertainty quantification
+
+I design methods to calibrate geological models against indirect data (hydraulic heads, field observations) and to quantify the associated uncertainties, in order to produce more reliable subsurface models. This axis is at the heart of my **NSERC Discovery Grant** (2026–2031) on the synergy between geostatistics and artificial intelligence for inverse problems in geosciences.
+
+## Axis 3 — Geostatistics × machine learning synergy
+
+I combine deep learning and geostatistical algorithms to build fast **surrogate models** and improve forecasting: U‑Net architectures for transient flow, DeepONet, graph neural networks for groundwater levels, generative models for the simulation of **karst networks**, and autoencoders.
+
+## Axis 4 — Geostatistical methods applied to the mining environment
+
+I apply these methods to concrete challenges in the mining sector: stochastic modeling of **fracture networks** and flow, probabilistic assessment of **mine reclamation** under climate uncertainty, characterization of **hydrogeochemical signatures** and groundwater drawdown, integration of **geophysical** tools for **tailings storage facility** monitoring, and **mineral prospectivity** mapping. This work is carried out in partnership with industry (Englobe, IAMGOLD, Agnico Eagle, BGC Engineering).
+
+---
+
+Funded projects are detailed on the [Funding](financement_en.qmd) page, and the full list of work on the [Publications](publications/publications_en.qmd) page.

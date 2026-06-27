@@ -3,6 +3,9 @@ name: Publier le site Quarto
 on:
   push:
     branches: [main]
+  schedule:
+    # Tous les lundis à 06:00 UTC : rafraîchit les publications depuis ORCID
+    - cron: "0 6 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -20,6 +23,15 @@ jobs:
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Mettre à jour les publications depuis ORCID
+        continue-on-error: true
+        run: python publications/generate_publications_orcid.py
 
       - name: Installer Quarto
         uses: quarto-dev/quarto-actions/setup@v2

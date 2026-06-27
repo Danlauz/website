@@ -20,6 +20,8 @@ website:
     left:
       - text: "Accueil"
         href: index.qmd
+      - text: "Recherche"
+        href: recherche.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Publications"
@@ -88,6 +90,7 @@ format:
           (function () {
             var pairs = [
               ["index.html", "index_en.html"],
+              ["recherche.html", "recherche_en.html"],
               ["cv.html", "cv_en.html"],
               ["etudiants.html", "etudiants_en.html"],
               ["publications/publications.html", "publications/publications_en.html"],
@@ -97,6 +100,7 @@ format:
             ];
             var nav = [
               { fr: "index.html", en: "index_en.html", frL: "Accueil", enL: "Home" },
+              { fr: "recherche.html", en: "recherche_en.html", frL: "Recherche", enL: "Research" },
               { fr: "cv.html", en: "cv_en.html", frL: "CV", enL: "CV" },
               { fr: "publications/publications.html", en: "publications/publications_en.html", frL: "Publications", enL: "Publications" },
               { fr: "financement.html", en: "financement_en.html", frL: "Financement", enL: "Funding" },

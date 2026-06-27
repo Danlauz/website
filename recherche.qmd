@@ -1,0 +1,28 @@
+---
+title: "Recherche"
+pagetitle: "Recherche — Dany Lauzon"
+---
+
+Mes recherches développent de nouvelles **méthodes géostatistiques**, les couplent à l'**apprentissage automatique**, et les appliquent à la modélisation du sous-sol et à la quantification de l'incertitude — avec des retombées en hydrogéologie, en géotechnique et dans le secteur minier. Elles s'organisent autour de quatre axes.
+
+## Axe 1 — Algorithmes géostatistiques avancés
+
+Je développe des algorithmes de simulation et d'analyse spatiale fondés sur la transformée de Fourier rapide (FFT), capables de traiter efficacement de très grandes grilles. Mes travaux couvrent la simulation multivariable (G‑FFTMA), l'extension aux champs aléatoires **non gaussiens à asymétrie spatiale** (NG‑FFTMA) et le calcul de **statistiques spatiales d'ordre supérieur** — variogrammes, transiogrammes, cumulants — via SpatialStatisticsFFT.
+
+**Codes ouverts :** [G‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [NG‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT)
+
+## Axe 2 — Problèmes inverses et quantification de l'incertitude
+
+Je conçois des méthodes pour caler les modèles géologiques sur des données indirectes (charges hydrauliques, observations de terrain) et quantifier les incertitudes associées, afin de produire des modèles du sous-sol plus fiables. Cet axe est au cœur de ma **subvention Découverte du CRSNG** (2026–2031) sur la synergie entre géostatistique et intelligence artificielle pour les problèmes inverses en géosciences.
+
+## Axe 3 — Synergie géostatistique × apprentissage automatique
+
+Je combine l'apprentissage profond et les algorithmes géostatistiques pour bâtir des **modèles de substitution** rapides et améliorer la prévision : architectures U‑Net pour l'écoulement transitoire, DeepONet, réseaux de neurones sur graphes pour les niveaux d'eau souterraine, modèles génératifs pour la simulation de **réseaux karstiques**, et autoencodeurs.
+
+## Axe 4 — Méthodes géostatistiques appliquées à l'environnement minier
+
+J'applique ces méthodes aux enjeux concrets du secteur minier : modélisation stochastique des **réseaux de fractures** et de l'écoulement, évaluation probabiliste de la **restauration minière** sous incertitude climatique, caractérisation des **signatures hydrogéochimiques** et du rabattement des eaux souterraines, intégration d'outils **géophysiques** pour la surveillance des **parcs à résidus**, et cartographie de **prospectivité minérale**. Ces travaux sont menés en partenariat avec l'industrie (Englobe, IAMGOLD, Agnico Eagle, BGC Engineering).
+
+---
+
+Le détail des projets financés se trouve sur la page [Financement](financement.qmd), et la liste complète des travaux sur la page [Publications](publications/publications.qmd).
