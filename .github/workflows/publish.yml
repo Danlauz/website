@@ -6,10 +6,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Récupérer le dépôt
@@ -18,9 +24,26 @@ jobs:
       - name: Installer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Rendre et publier sur GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          enablement: true
+
+      - name: Rendre le site
+        run: quarto render
+
+      - name: Téléverser l'artéfact du site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
