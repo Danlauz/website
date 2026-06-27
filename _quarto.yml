@@ -9,6 +9,7 @@ website:
   favicon: assets/logo.png
   open-graph: true
   twitter-card: true
+  google-analytics: "G-748XMKJCK8"
 
   navbar:
     background: light
