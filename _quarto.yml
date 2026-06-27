@@ -1,0 +1,236 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Dany Lauzon"
+  description: "Professeur adjoint en géostatistique — Polytechnique Montréal. Groupe de recherche GeoStatPoly."
+  site-url: https://danlauz.github.io/website
+  favicon: assets/logo.png
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    background: light
+    logo: assets/logo.png
+    logo-alt: "GeoStatPoly"
+    title: "Dany Lauzon"
+    collapse-below: lg
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Étudiant.e.s"
+        href: etudiants.qmd
+      - text: "Enseignement"
+        href: cours/geostatistique.qmd
+    right:
+      - text: "FR"
+        href: index.qmd
+      - text: "EN"
+        href: index_en.qmd
+      - icon: github
+        href: https://github.com/Danlauz
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dany-lauzon-ph-d-ba9128115/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:dany.lauzon@polymtl.ca
+        aria-label: Courriel
+
+  page-footer:
+    border: false
+    left: |
+      © 2026 **Dany Lauzon** · GeoStatPoly — Polytechnique Montréal
+    center: "Conçu avec [Quarto](https://quarto.org)"
+    right:
+      - text: "Polytechnique Montréal"
+        href: https://www.polymtl.ca
+      - icon: github
+        href: https://github.com/Danlauz
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dany-lauzon-ph-d-ba9128115/
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom-dark.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    toc-title: "Sur cette page"
+    number-sections: false
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    code-fold: true
+    code-tools: false
+    fig-width: 8
+    fig-height: 6
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+    include-after-body:
+      - text: |
+          <script>
+          (function () {
+            var pairs = [
+              ["index.html", "index_en.html"],
+              ["cv.html", "cv_en.html"],
+              ["etudiants.html", "etudiants_en.html"],
+              ["publications/publications.html", "publications/publications_en.html"],
+              ["cours/geostatistique.html", "en/courses/geostatistics.html"],
+              ["cours/livre.html", "en/courses/book.html"]
+            ];
+            var nav = [
+              { fr: "index.html", en: "index_en.html", frL: "Accueil", enL: "Home" },
+              { fr: "cv.html", en: "cv_en.html", frL: "CV", enL: "CV" },
+              { fr: "publications/publications.html", en: "publications/publications_en.html", frL: "Publications", enL: "Publications" },
+              { fr: "etudiants.html", en: "etudiants_en.html", frL: "Étudiant.e.s", enL: "Students" },
+              { fr: "cours/geostatistique.html", en: "en/courses/geostatistics.html", frL: "Enseignement", enL: "Teaching" }
+            ];
+            function ew(s, x) { return s.slice(-x.length) === x; }
+            function compute() {
+              var path = window.location.pathname;
+              if (path.endsWith("/")) path += "index.html";
+              for (var i = 0; i < pairs.length; i++) {
+                var fr = pairs[i][0], en = pairs[i][1];
+                if (ew(path, en)) return { lang: "en", root: path.slice(0, path.length - en.length), fr: fr, en: en, path: path };
+                if (ew(path, fr)) return { lang: "fr", root: path.slice(0, path.length - fr.length), fr: fr, en: en, path: path };
+              }
+              return { lang: "fr", root: path.replace(/[^\/]*$/, ""), fr: "index.html", en: "index_en.html", path: path };
+            }
+            function byText(label) {
+              var res = null;
+              document.querySelectorAll(".navbar a.nav-link, .navbar a").forEach(function (a) {
+                if ((a.textContent || "").trim() === label) res = a;
+              });
+              return res;
+            }
+            function init() {
+              var info = compute();
+              var frLink = byText("FR"), enLink = byText("EN");
+              if (frLink && enLink) {
+                frLink.href = info.root + info.fr;
+                enLink.href = info.root + info.en;
+                (info.lang === "fr" ? frLink : enLink).classList.add("active");
+                var pill = document.createElement("div");
+                pill.className = "gsp-lang";
+                var liFr = frLink.closest("li") || frLink;
+                var liEn = enLink.closest("li") || enLink;
+                liFr.parentNode.insertBefore(pill, liFr);
+                pill.appendChild(frLink);
+                pill.appendChild(enLink);
+                if (liFr !== frLink && liFr.parentNode) liFr.remove();
+                if (liEn !== enLink && liEn.parentNode) liEn.remove();
+              }
+              var brand = document.querySelector(".navbar-brand");
+              if (brand) brand.href = info.root + (info.lang === "en" ? "index_en.html" : "index.html");
+              nav.forEach(function (m) {
+                var link = byText(m.frL);
+                if (!link) return;
+                link.href = info.root + (info.lang === "en" ? m.en : m.fr);
+                link.textContent = (info.lang === "en" ? m.enL : m.frL);
+                link.classList.remove("active");
+              });
+              var activeM = null;
+              nav.forEach(function (m) { if (m.fr === info.fr) activeM = m; });
+              if (!activeM && /(cours\/|en\/courses\/)/.test(info.path)) activeM = nav[4];
+              if (activeM) {
+                var a = byText(info.lang === "en" ? activeM.enL : activeM.frL);
+                if (a) a.classList.add("active");
+              }
+            }
+            if (document.readyState === "loading") {
+              document.addEventListener("DOMContentLoaded", init);
+            } else { init(); }
+          })();
+          </script>
+      - text: |
+          <script>
+          (function () {
+            if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+            function ready(fn) { if (document.readyState !== "loading") { fn(); } else { document.addEventListener("DOMContentLoaded", fn); } }
+            ready(function () {
+              var sel = ".content h2, .card, .code-card, .publication-item, .student-card, .stats-grid, .timeline-item";
+              var els = Array.prototype.slice.call(document.querySelectorAll(sel));
+              if ("IntersectionObserver" in window && els.length) {
+                els.forEach(function (el) { el.classList.add("gsp-reveal"); });
+                var io = new IntersectionObserver(function (entries) {
+                  entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add("gsp-in"); io.unobserve(e.target); } });
+                }, { threshold: 0.08, rootMargin: "0px 0px -40px 0px" });
+                els.forEach(function (el) { io.observe(el); });
+              }
+              var nums = Array.prototype.slice.call(document.querySelectorAll(".stat-number"));
+              function countUp(el) {
+                var raw = (el.textContent || "").trim();
+                var target = parseInt(raw, 10);
+                if (isNaN(target)) return;
+                var dur = 900, start = null;
+                function step(ts) {
+                  if (!start) start = ts;
+                  var p = Math.min((ts - start) / dur, 1);
+                  el.textContent = Math.round(target * p).toString();
+                  if (p < 1) { requestAnimationFrame(step); } else { el.textContent = raw; }
+                }
+                requestAnimationFrame(step);
+              }
+              if ("IntersectionObserver" in window && nums.length) {
+                var io2 = new IntersectionObserver(function (entries) {
+                  entries.forEach(function (e) { if (e.isIntersecting) { countUp(e.target); io2.unobserve(e.target); } });
+                }, { threshold: 0.5 });
+                nums.forEach(function (el) { io2.observe(el); });
+              }
+              var top = document.createElement("button");
+              top.id = "gsp-top";
+              top.setAttribute("aria-label", "Retour en haut");
+              top.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
+              document.body.appendChild(top);
+              top.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+              window.addEventListener("scroll", function () {
+                if (window.pageYOffset > 400) { top.classList.add("show"); } else { top.classList.remove("show"); }
+              }, { passive: true });
+            });
+          })();
+          </script>
+      - text: |
+          <script>
+          (function () {
+            function ready(fn) { if (document.readyState !== "loading") { fn(); } else { document.addEventListener("DOMContentLoaded", fn); } }
+            ready(function () {
+              document.querySelectorAll(".student").forEach(function (s) {
+                var more = s.querySelector(".student-more");
+                var head = s.querySelector("p");
+                if (!more || !head) return;
+                s.classList.add("collapsible");
+                more.hidden = true;
+                head.setAttribute("role", "button");
+                head.setAttribute("tabindex", "0");
+                head.setAttribute("aria-expanded", "false");
+                function toggle() {
+                  var open = s.classList.toggle("open");
+                  more.hidden = !open;
+                  head.setAttribute("aria-expanded", open ? "true" : "false");
+                }
+                head.addEventListener("click", toggle);
+                head.addEventListener("keydown", function (e) {
+                  if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+                });
+              });
+            });
+          })();
+          </script>
+
+execute:
+  freeze: auto
+
+lang: fr

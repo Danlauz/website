@@ -1,0 +1,151 @@
+---
+title: "Students"
+---
+
+## Graduate Student Supervision
+
+I supervise graduate students in geostatistics, deep learning and geological modeling. My active research areas are stochastic hydrogeology, geotechnics and geothermal energy.
+
+## Current Opportunities
+
+I am open to new applications (B.Eng., M.Eng., M.Sc.A. and Ph.D.) for research projects in multivariate non-Gaussian geostatistics, development of geostatistical algorithms for inverse problems, deep learning for geological modeling, inverse problems in hydrogeology, and stochastic simulation of fracture networks.
+
+[{{< fa envelope >}} Contact me](mailto:dany.lauzon@polymtl.ca){.btn .btn-primary}
+
+## Current Students
+
+*Click a name to show the details.*
+
+### Doctoral (Ph.D.)
+
+::: {.student}
+**Kassahun Aweke Arega** — Geostatistical approach for modeling groundwater recharge in Abitibi–Témiscamingue
+
+::: {.student-more}
+Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: September 2025\
+**Funding:** PAR Scholarship (Geological Survey of Canada)\
+**Co-supervisor:** [Nicolas Benoît](https://profils-profiles.science.gc.ca/en/profile/nicolas-benoit)
+:::
+:::
+
+::: {.student}
+**Innocent Boris Tagne Nkounga** — Automation of subsurface modeling using geostatistics for geotechnical applications
+
+::: {.student-more}
+Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: January 2025
+:::
+:::
+
+### Master's (M.Sc.A.)
+
+::: {.student}
+**Olivier Brisebois** — Statistical inference and modeling of water inflows for characterizing apparent hydraulic conductivity in standpipe wells
+
+::: {.student-more}
+Master's in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: September 2024\
+**Funding:** NSERC Scholarship (CGS M)\
+**Co-supervisor:** [Philippe Pasquier](https://www.polymtl.ca/expertises/pasquier-philippe)
+:::
+:::
+
+### Master's Internship (MS)
+
+::: {.student}
+**Meriam Zaghdoud Mouihbi** — Development of automated tools for stochastic geological modeling of soil–groundwater physical interactions in a geotechnical-environmental context
+
+::: {.student-more}
+Master's in Applied Geology for the Environment (University of Tunis El Manar) · Co-supervisor\
+**Funding:** Mitacs Globalink Research Internship\
+**Co-supervisor:** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
+:::
+:::
+
+### Undergraduate (B.Eng.)
+
+::: {.student}
+**Gabriel Tabash** — Field and laboratory hydrogeological characterization of a natural cover for tailings storage facility restoration
+
+::: {.student-more}
+Bachelor in Geological Engineering (Polytechnique Montréal) · Co-supervisor · Start: September 2026\
+**Funding:** NSERC Scholarship (USRA) + FRQNT Supplement (BPCA)\
+**Co-supervisor:** [Karine Sylvain](https://www.linkedin.com/in/karine-sylvain-13815b147/?originalSubdomain=ca)
+:::
+:::
+
+::: {.student}
+**Xavier Thibeault** — Automation of geotechnical data processing for automated modeling (ArchPy software)
+
+::: {.student-more}
+Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · Start: September 2026\
+**Funding:** NSERC Scholarship (USRA) + FRQNT Supplement (BPCA)
+:::
+:::
+
+::: {.student}
+**Loris Pensa** — Surrogate modeling of hydrogeological systems using DeepONet
+
+::: {.student-more}
+Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur) · Supervisor · Start: June 2026\
+**Funding:** OPCO Scholarship
+:::
+:::
+
+::: {.student}
+**Maud Marconcini** — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
+
+::: {.student-more}
+Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur) · Supervisor · Start: June 2026
+:::
+:::
+
+::: {.student}
+**Mohamed Hfaithia** — Analysis of the influence of fracture network non-stationarity on flow in mining environments
+
+::: {.student-more}
+Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa) · Co-supervisor\
+**Funding:** Mitacs Globalink Research Internship\
+**Co-supervisor:** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+:::
+:::
+
+::: {.student}
+**Seonghoon Park** — Automated extraction of drilling data from PDF reports using OCR technology
+
+::: {.student-more}
+Bachelor in Computer Engineering (Pohang University of Science and Technology — POSTECH) · Supervisor · Start: February 2026
+:::
+:::
+
+::: {.student}
+**Balthazar Desrez** — Development of a database of stochastic hydrogeological models to train surrogate models using autoencoders
+
+::: {.student-more}
+Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · Start: September 2025\
+**Funding:** Polytechnique Montréal UPIR Program
+:::
+:::
+
+## Graduated Students
+
+::: {.student}
+**Éric Delabrouille** — Study of the Sharpe ratio as an optimization metric for mineral resource estimation
+
+::: {.student-more}
+Master's in Software and Computer Engineering (Polytechnique Montréal) · Co-supervisor · Graduated: June 2026\
+**Funding:** Mitacs Accelerate (Orano Mining)
+:::
+:::
+
+## Desired Profile
+
+I look for a strong background in geological engineering, mining engineering, applied mathematics or Earth sciences; solid foundations in mathematics and statistics; programming experience (Python, MATLAB or similar); and curiosity, autonomy and an interest in fundamental and applied research. Knowledge of geostatistics and artificial intelligence is an asset.
+
+## Application Process
+
+To apply, email me a cover letter (1 page), a detailed CV with your academic results, your transcripts (unofficial accepted), two letters of recommendation (may follow), and work samples if available.
+
+[{{< fa envelope >}} dany.lauzon@polymtl.ca](mailto:dany.lauzon@polymtl.ca){.btn .btn-primary}
+
+## Funding
+
+Students are encouraged to apply for external scholarships (NSERC, FRQNT, Vanier, Polytechnique Montréal). I can provide additional financial support through my research grants.

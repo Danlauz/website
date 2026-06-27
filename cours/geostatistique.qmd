@@ -1,0 +1,18 @@
+---
+title: "Notes de cours — Géostatistique et géologie minière"
+---
+
+Notes de cours en accès libre pour **GLQ3401 — Géostatistique et géologie minières** et **GLQ3651 — Géologie minière**.
+
+::: {.card .hover-lift}
+::: {.card-header}
+### Site des notes de cours
+:::
+::: {.card-body}
+L'ensemble du matériel du cours est publié en ligne et mis à jour au fil des sessions.
+
+[{{< fa book-open >}} Accéder aux notes de cours](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
+:::
+:::
+
+*Cette page peut être enrichie avec le plan de cours, les objectifs d'apprentissage et les ressources — dites-moi ce que vous souhaitez y inclure.*

@@ -1,0 +1,18 @@
+---
+title: "Course notes — Geostatistics and Mining Geology"
+---
+
+Open-access course notes for **GLQ3401 — Geostatistics and Mining Geology** and **GLQ3651 — Mining Geology**.
+
+::: {.card .hover-lift}
+::: {.card-header}
+### Course notes website
+:::
+::: {.card-body}
+The full course material is published online and updated each term.
+
+[{{< fa book-open >}} Open the course notes](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
+:::
+:::
+
+*This page can be expanded with the syllabus, learning objectives and resources — let me know what you'd like to include.*

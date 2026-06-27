@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+publier.bat
+**/*.quarto_ipynb
+.DS_Store
+Thumbs.db

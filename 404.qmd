@@ -1,0 +1,19 @@
+---
+pagetitle: "404 — Dany Lauzon"
+page-layout: full
+toc: false
+---
+
+::: {.hero-banner style="--hero-field: url('assets/field-blue.png');"}
+# 404
+
+### Page introuvable · Page not found
+
+La page que vous cherchez n'existe pas ou a été déplacée.\
+The page you are looking for doesn't exist or has moved.
+
+::: {.hero-links}
+[{{< fa house >}} Accueil](index.qmd)
+[{{< fa house >}} Home](index_en.qmd)
+:::
+:::

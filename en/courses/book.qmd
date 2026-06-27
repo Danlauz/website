@@ -1,0 +1,18 @@
+---
+title: "Course notes — Geostatistics and Mining Geology"
+---
+
+::: {.card .hover-lift}
+::: {.card-header}
+### Course notes
+:::
+::: {.card-body}
+**Author:** Dany Lauzon · **Language:** French
+
+Open-access course notes for geostatistics and mining geology.
+
+[{{< fa book-open >}} Open the course notes](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
+:::
+:::
+
+*Content to be completed (table of contents, format, license) as you see fit.*

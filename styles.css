@@ -1,0 +1,128 @@
+/* ============================================================
+   Styles partagés (clair + sombre)
+   La majorité du design vit dans custom.scss / custom-dark.scss.
+   Ce fichier ne garde que quelques utilitaires neutres.
+   ============================================================ */
+
+html { scroll-behavior: smooth; }
+
+/* Ancrage sous la navbar fixe */
+:target { scroll-margin-top: 90px; }
+
+/* Profil / contact en colonne */
+.contact-info { display: flex; flex-direction: column; gap: 0.4rem; }
+.contact-item { display: flex; align-items: center; gap: 0.75rem; }
+.contact-item i { width: 20px; text-align: center; }
+
+/* Grille de contact (page d'accueil) */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem 2rem;
+  margin: 1rem 0;
+}
+.contact-grid .label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  opacity: 0.7;
+  margin-bottom: 0.1rem;
+}
+
+/* Cartes d'association */
+.association-card {
+  display: flex; align-items: center; gap: 1.25rem;
+  padding: 1.25rem; border-radius: 0.6rem;
+  margin-bottom: 1rem; transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.association-card:hover { transform: translateX(6px); }
+.association-logo { width: 72px; height: 72px; object-fit: contain; }
+
+/* Animation d'entrée */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.6s ease-out; }
+
+@media (max-width: 768px) {
+  .association-card { flex-direction: column; text-align: center; }
+}
+
+/* ============================================================
+   Finitions : mouvement subtil (révélation, soulignements, nav active)
+   Les classes de révélation ne sont ajoutées que par JS,
+   donc le contenu reste visible si JavaScript est désactivé.
+   ============================================================ */
+
+.gsp-reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+.gsp-reveal.gsp-in { opacity: 1; transform: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .gsp-reveal { opacity: 1 !important; transform: none !important; transition: none; }
+}
+
+/* Soulignement animé des liens dans le corps de texte */
+.content p a:not(.btn),
+.content li a:not(.btn) {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1.5px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .25s ease, color .15s ease;
+}
+.content p a:not(.btn):hover,
+.content li a:not(.btn):hover { background-size: 100% 1.5px; }
+
+/* Onglet actif souligné par la bande Lassonde */
+.navbar .nav-link { position: relative; }
+.navbar .nav-link.active::after {
+  content: "";
+  position: absolute; left: .75rem; right: .75rem; bottom: -1px; height: 2px;
+  background: var(--gsp-band, #009fe3);
+  border-radius: 2px;
+}
+
+/* Bouton « retour en haut » (injecté par JS) */
+#gsp-top {
+  position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 1500;
+  width: 42px; height: 42px; border-radius: 50%;
+  border: 1px solid var(--gsp-line, #e6e8ec);
+  background: var(--gsp-bg-soft, #ffffff); color: var(--gsp-ink, #15181d);
+  display: inline-flex; align-items: center; justify-content: center;
+  cursor: pointer; opacity: 0; visibility: hidden; transform: translateY(8px);
+  transition: opacity .25s ease, transform .25s ease, border-color .15s ease;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .14);
+}
+#gsp-top:hover { border-color: var(--gsp-accent, #0067a6); }
+#gsp-top.show { opacity: 1; visibility: visible; transform: none; }
+#gsp-top svg { width: 18px; height: 18px; }
+
+/* Liste d'étudiant.e.s condensée (repliable) */
+.student {
+  position: relative;
+  border-bottom: 1px solid var(--gsp-line, #e6e8ec);
+  padding: .8rem 1.5rem .8rem 1.1rem;
+}
+.student::before {
+  content: ""; position: absolute; left: 0; top: 1.2rem;
+  width: 5px; height: 5px; border-radius: 50%;
+  background: var(--gsp-accent, #0067a6);
+}
+.student > p:first-child { margin: 0; line-height: 1.5; }
+.student > p:first-child strong { color: var(--gsp-ink, #15181d); }
+.student-more {
+  margin-top: .55rem; color: var(--gsp-muted, #646c78);
+  font-size: .93rem; line-height: 1.7;
+}
+.student.collapsible > p:first-child { cursor: pointer; padding-right: 1.4rem; }
+.student.collapsible::after {
+  content: ""; position: absolute; right: .3rem; top: 1.15rem;
+  width: .5rem; height: .5rem;
+  border-right: 2px solid var(--gsp-accent, #0067a6);
+  border-bottom: 2px solid var(--gsp-accent, #0067a6);
+  transform: rotate(45deg); transition: transform .2s ease;
+  pointer-events: none;
+}
+.student.collapsible.open::after { transform: rotate(-135deg); }

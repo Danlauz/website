@@ -1,0 +1,146 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Dany Lauzon, Ph.D. (CPI)
+
+**[Professeur Adjoint](https://www.polymtl.ca/expertises/lauzon-dany)**  
+**Polytechnique Montréal**  
+Département des génies civil, géologique et des mines
+
+---
+
+## Formation
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-date}
+2019-2022
+:::
+**Doctorat en génie minéral**  
+Polytechnique Montréal  
+*Thèse: Développement d'algorithmes pour le calage de modèles géologiques par méthodes géostatistiques discrètes et spectrales*
+**Directeur:** Professeur retraité, [Denis Marcotte](https://scholar.google.com/citations?user=QbOMBwsAAAAJ&hl=fr)
+
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2015-2019
+:::
+**Baccalauréat en génie géologique, spécialisation en environnement**  
+Polytechnique Montréal
+:::
+:::
+
+## Expérience professionnelle
+
+::: {.timeline}
+::: {.timeline-item}
+::: {.timeline-date}
+2024 - Présent
+:::
+**Professeur adjoint**  
+Polytechnique Montréal  
+Département des génies civil, géologique et des mines
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2023-2024
+:::
+**Stage post-doctoral**  
+Université de Neuchâtel
+
+*Projet:* Simulation stochastique des réseaux karstiques par modèle génératif profond pour l'écoulement des eaux souterraines
+
+**Superviseur:** Professeur titulaire, [Philippe Renard](https://www.unine.ch/chyn/biography/philippe-renard)
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2022-2023
+:::
+**Stage post-doctoral** 
+INRS - Centre Eau Terre et Environnement  
+
+*Projet: * Quantifier l'incertitude et améliorer la cartographie de la prospectivité dans les ceintures minérales à l'aide de l'apprentissage par transfert
+
+**Superviseur:** Professeur titulaire, [Erwan Gloaguen](https://inrs.ca/la-recherche/professeurs/erwan-gloaguen/)
+:::
+
+:::
+
+## Domaines d'expertise
+
+- Géologie mathématique
+- Processus stochastiques
+- Eaux souterraines
+- Algorithmes
+- Modélisation et simulation
+
+## Prix
+
+::: {.card}
+::: {.card-body}
+- **Bourses d’études supérieures du Canada Alexander Graham Bell – Programme de doctorat (BES D)** (2021-2022)- CRSNG 
+
+- **Bourses d’études supérieures en recherche du Canada au niveau de la maîtrise (BESRC M)** (2019-2021) - CRSNG
+
+- **Bourses de recherche de 1er cycle (BRPC)** (2018) - CRSNG + FRQNT (supplément)
+
+:::
+:::
+
+## Distinctions
+
+::: {.card}
+::: {.card-body}
+
+- Lauréat du titre de meilleur enseignant du programme de génie des mines de Polytechnique Montréal pour l'année 2026.
+
+- Finaliste au titre de meilleur enseignant du programme de génie géologique de Polytechnique Montréal pour l'année 2026.
+
+- Lauréat du titre de meilleur enseignant du programme de génie géologique de Polytechnique Montréal pour l'année 2025.
+
+- Lauréat du titre de meilleur chargé de cours du programme de génie géologique de Polytechnique Montréal pour l'année 2024.
+
+- Lauréat du titre de meilleur chargé de cours du programme de génie géologique de Polytechnique Montréal pour l'année 2023.
+
+- Médaille du lieutenant-gouverneur pour la jeunesse (2020)
+:::
+:::
+
+## Associations
+
+- Président et membre fondateur de l'Association des hydrogéosciences du Québec ([AHGSQC](https://www.ahgsqc.ca/))
+
+## Affiliations professionnelles et sociétés savantes
+
+- Association des hydrogéosciences du Québec (AHGSQC)
+- International Association for Mathematical Geosciences (IAMG)
+- Société canadienne de géotechnique / Canadian Geotechnical Society (CGS)
+- International Association of Hydrogeologists (IAH)
+- European Geosciences Union (EGU)
+- American Geophysical Union (AGU)
+- Ordre des ingénieurs du Québec (OIQ) — candidat à la profession d’ingénieur (CPI)
+
+## Organisation de conférence
+
+- Membre du **comité scientifique et organisateur** de la 24e Conférence annuelle de l’International Association for Mathematical Geosciences (IAMG) à Montréal en 2026 (+ 250 participants attendues de l’international).
+
+- Membre du **comité scientifique et organisateur** de la 2e Conférence annuelle de l’Association des Hydrogéosciences du Québec (AHGSQC) à INRS - Centre Eau Terre Environnement en 2026.
+
+- Membre du **comité scientifique et organisateur** de la 1ère Conférence annuelle de l’Association des Hydrogéosciences du Québec (AHGSQC) à Polytechnique Montréal en 2025 (51 participants).
+
+## Langues
+
+- **Français:** Langue maternelle
+- **Anglais:** Bilingue professionnel
+
+---
+
+::: {.text-center}
+[{{< fa download >}} Télécharger le CV complet (PDF)](#){.btn .btn-primary}
+:::

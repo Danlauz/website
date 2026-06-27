@@ -1,0 +1,90 @@
+---
+title: "Publications"
+---
+
+## Articles de revue par les pairs
+
+### 2025
+
+**Lauzon, Dany**, Straubhaar, Julien, & Renard, Philippe (2025). A Deep Generative Model for the Simulation of Discrete Karst Networks. *Earth and Space Science*, *12*(10). [DOI](https://doi.org/10.1029/2025EA004360)
+
+Liang, Xiao Xia, Gloaguen, Erwan, Claprood, Maxime, Paradis, Daniel, & **Lauzon, Dany** (2025). Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting. *Mathematical Geosciences*, *57*(6), 1071--1093. [DOI](https://doi.org/10.1007/s11004-025-10194-5)
+
+**Lauzon, Dany**, & Hörning, Sebastian (2025). Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform. *Computers & Geosciences*, *198*, 105878. [DOI](https://doi.org/10.1016/j.cageo.2025.105878)
+
+
+### 2024
+
+**Lauzon, Dany** (2024). A U-Net architecture as a surrogate model combined with a geostatistical spectral algorithm for transient groundwater flow inverse problems. *Advances in Water Resources*, *189*, 104726. [DOI](https://doi.org/10.1016/j.advwatres.2024.104726)
+
+**Lauzon, Dany**, & Gloaguen, Erwan (2024). Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning and Random Forest: A case study of copper mineralization in the Superior Craton {Province. *Ore Geology Reviews*, *166*, 105918. [DOI](https://doi.org/10.1016/j.oregeorev.2024.105918)
+
+
+### 2023
+
+**Lauzon, Dany**, & Marcotte, Denis (2023). Joint hydrofacies-hydraulic conductivity modeling based on a constructive spectral algorithm constrained by transient head data. *Hydrogeology Journal*, *31*(6), 1647--1664. [DOI](https://doi.org/10.1007/s10040-023-02638-1)
+
+
+### 2022
+
+**Lauzon, Dany**, & Marcotte, Denis (2022). Statistical comparison of variogram-based inversion methods for conditioning to indirect data. *Computers & Geosciences*, *160*, 105032. [DOI](https://doi.org/10.1016/j.cageo.2022.105032)
+
+
+### 2020
+
+**Lauzon, Dany**, & Marcotte, Denis (2020). Calibration of random fields by a sequential spectral turning bands method. *Computers & Geosciences*, *135*, 104390. [DOI](https://doi.org/10.1016/j.cageo.2019.104390)
+
+**Lauzon, Dany**, & Marcotte, Denis (2020). The sequential spectral turning band simulator as an alternative to Gibbs sampler in large truncated- or pluri- Gaussian simulations. *Stochastic Environmental Research and Risk Assessment*, *34*(11), 1939--1951. [DOI](https://doi.org/10.1007/s00477-020-01850-9)
+
+
+### 2019
+
+**Lauzon, Dany**, & Marcotte, Denis (2019). Calibration of random fields by FFTMA-SA. *Computers & Geosciences*, *127*, 99--110. [DOI](https://doi.org/10.1016/j.cageo.2019.03.003)
+
+
+## Résumés et articles de conférence
+
+### 2025
+
+Hoerning, Sebastian, **Lauzon, Dany**, & Bárdossy, András (2025). Spectral methods for non-linear co-regionalization. [DOI](https://doi.org/10.5194/egusphere-egu25-5250)
+
+**Lauzon, Dany**, Hörning, Sebastian, & Bárdossy, András (2025). A Novel Framework for Stochastic Simulation of Multivariate Non-Gaussian Random Fields in Environmental and Geological Studies. [DOI](https://doi.org/10.5194/egusphere-egu25-7198)
+
+**Lauzon, Dany** (2025). Géostatistique et Intelligence Artificielle: Innovations et Perspectives en Hydrogéologie. Montréal, Canada.
+
+
+### 2024
+
+**Lauzon, Dany** (2024). Deep neural networks in surrogate hydrogeological modeling : an application for transient groundwater flow combined with a geostatistical spectral algorithm for inverse problem-solving. pp. 55--56. Chania, Greece. [Lien](https://2024.geoenvia.org/wp-content/uploads/sites/8/2024/07/BookOfAbstracts_OnlyAbstracts_v3_corr.pdf#page=65)
+
+Straubhaar, Julien, **Lauzon, Dany**, & Renard, Philippe (2024). Graph recurrent neural networks for stochastic simulation of Karst network topology and properties. pp. 111--112. Chania, Greece. [Lien](https://2024.geoenvia.org/wp-content/uploads/sites/8/2024/07/BookOfAbstracts_OnlyAbstracts_v3_corr.pdf#page=125)
+
+**Lauzon, Dany**, Kfoury, Moussa, Roy, Sylvain, Langevin, Mathieu, & Gosselin, Yves (2024). *Geostatistical analysis of geotechnical uncertainty: risk assessment in engineering projects*.
+
+Tanaka, Ana Paula Burgoa, Renard, Philippe, Straubhaar, Julien, & **Lauzon, Dany** (2024). Modeling fracture networks as graphs. Azores, Portugal.
+
+**Lauzon, Dany** (2024). Efficient computation on large regular grids of high-order spatial statistics via fast Fourier transform: A unified approach extending variogram and cross-covariance programs. Azores, Portugal.
+
+
+### 2022
+
+**Lauzon, Dany**, & Marcotte, Denis (2022). On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data. Application to aquifer models. pp. 83--91. Parma, Italia. [Lien](https://2022.geoenvia.org/wp-content/uploads/sites/7/2023/01/Proceedings_of_geoENV2022.pdf#page=94)
+
+
+## Thèses
+
+### 2022
+
+**Lauzon, Dany** (2022). *Développement d'algorithmes pour le calage de modèles géologiques par méthodes géostatistiques discrètes et spectrales*. phd, Polytechnique Montréal. [Lien](https://publications.polymtl.ca/10318/)
+
+
+## Livres et ressources pédagogiques
+
+### 2025
+
+**Lauzon, Dany** (2025). Géostatistique et géologie minière. *GitHub*. [Lien](https://danlauz.github.io/glq3401-3651/)
+
+
+---
+
+*Total: 21 publications | Dernière mise à jour: Février 2026*

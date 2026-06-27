@@ -1,0 +1,146 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Dany Lauzon, Ph.D. (P.Eng.)
+
+**[Assistant Professor](https://www.polymtl.ca/expertises/lauzon-dany)**  
+**Polytechnique Montréal**  
+Department of Civil, Geological and Mining Engineering
+
+---
+
+## Education
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-date}
+2019-2022
+:::
+**Ph.D. in Mineral Engineering**  
+Polytechnique Montréal  
+*Thesis: Development of algorithms for calibrating geological models using discrete and spectral geostatistical methods*
+**Supervisor:** Retired Professor, [Denis Marcotte](https://scholar.google.com/citations?user=QbOMBwsAAAAJ&hl=en)
+
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2015-2019
+:::
+**Bachelor in Geological Engineering, specialization in Environment**  
+Polytechnique Montréal
+:::
+:::
+
+## Professional Experience
+
+::: {.timeline}
+::: {.timeline-item}
+::: {.timeline-date}
+2024 - Present
+:::
+**Assistant Professor**  
+Polytechnique Montréal  
+Department of Civil, Geological and Mining Engineering
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2023-2024
+:::
+**Postdoctoral Fellow**  
+University of Neuchâtel
+
+*Project:* Stochastic simulation of karst networks using deep generative models for groundwater flow
+
+**Supervisor:** Full Professor, [Philippe Renard](https://www.unine.ch/chyn/biography/philippe-renard)
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2022-2023
+:::
+**Postdoctoral Fellow** 
+INRS - Water Earth and Environment Research Centre  
+
+*Project:* Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning
+
+**Supervisor:** Full Professor, [Erwan Gloaguen](https://inrs.ca/la-recherche/professeurs/erwan-gloaguen/)
+:::
+
+:::
+
+## Areas of Expertise
+
+- Mathematical geology
+- Stochastic processes
+- Groundwater
+- Algorithms
+- Modeling and simulation
+
+## Awards
+
+::: {.card}
+::: {.card-body}
+- **Alexander Graham Bell Canada Graduate Scholarships – Doctoral (CGS D)** (2021-2022) - NSERC 
+
+- **Canada Graduate Scholarships – Master's (CGS M)** (2019-2021) - NSERC
+
+- **Undergraduate Student Research Awards (USRA)** (2018) - NSERC + FRQNT (supplement)
+
+:::
+:::
+
+## Distinctions
+
+::: {.card}
+::: {.card-body}
+- Recipient of the Best Instructor award in the Mining Engineering program at Polytechnique Montréal for 2026.
+
+- Candidate for the Best Instructor award in the Geological Engineering program at Polytechnique Montréal for 2026.
+
+- Recipient of the Best Instructor award in the Geological Engineering program at Polytechnique Montréal for 2025.
+
+- Recipient of the Best Lecturer award in the Geological Engineering program at Polytechnique Montréal for 2024.
+
+- Recipient of the Best Lecturer award in the Geological Engineering program at Polytechnique Montréal for 2023.
+
+- Lieutenant Governor's Youth Medal (2020)
+:::
+:::
+
+## Associations
+
+- President and founding member of the Association des hydrogéosciences du Québec ([AHGSQC](https://www.ahgsqc.ca/))
+
+## Professional Affiliations
+
+- Association des hydrogéosciences du Québec (AHGSQC)
+- International Association for Mathematical Geosciences (IAMG)
+- Canadian Geotechnical Society (CGS)
+- International Association of Hydrogeologists (IAH)
+- European Geosciences Union (EGU)
+- American Geophysical Union (AGU)
+- Ordre des ingénieurs du Québec (OIQ - P.Eng.)
+
+## Conference Organization
+
+- Member of the **scientific and organizing committee** of the 24th Annual Conference of the International Association for Mathematical Geosciences (IAMG) in Montreal in 2026 (250+ international attendees expected).
+
+- Member of the **scientific and organizing committee** of the 2nd Annual Conference of the Association des Hydrogéosciences du Québec (AHGSQC) at INRS in 2026.
+
+- Member of the **scientific and organizing committee** of the 1st Annual Conference of the Association des Hydrogéosciences du Québec (AHGSQC) at Polytechnique Montréal in 2025 (51 attendees).
+
+
+## Languages
+
+- **French:** Native language
+- **English:** Professional bilingual
+
+---
+
+::: {.text-center}
+[{{< fa download >}} Download full CV (PDF)](#){.btn .btn-primary}
+:::

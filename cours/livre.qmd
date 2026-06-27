@@ -1,0 +1,18 @@
+---
+title: "Notes de cours — Géostatistique et géologie minière"
+---
+
+::: {.card .hover-lift}
+::: {.card-header}
+### Notes de cours
+:::
+::: {.card-body}
+**Auteur :** Dany Lauzon · **Langue :** Français
+
+Notes de cours pour la géostatistique et la géologie minière, en accès libre.
+
+[{{< fa book-open >}} Consulter les notes de cours](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
+:::
+:::
+
+*Contenu à compléter (table des matières, format, licence) selon ce que vous souhaitez présenter.*

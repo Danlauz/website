@@ -1,0 +1,151 @@
+---
+title: "Étudiant.e.s"
+---
+
+## Supervision d'étudiant.e.s
+
+Je supervise des étudiant.e.s aux cycles supérieurs en géostatistique, apprentissage profond et modélisation géologique. Mes domaines actifs sont l'hydrogéologie stochastique, la géotechnique et la géothermie.
+
+## Opportunités actuelles
+
+Je suis ouvert à de nouvelles candidatures (B.ing., M.ing., M.Sc.A. et Ph.D.) pour des projets de recherche en géostatistique multivariable non-gaussienne, développement d'algorithmes géostatistiques pour les problèmes inverses, apprentissage profond pour la modélisation géologique, problèmes inverses en hydrogéologie et simulation stochastique des réseaux de fractures.
+
+[{{< fa envelope >}} Me contacter](mailto:dany.lauzon@polymtl.ca){.btn .btn-primary}
+
+## Étudiant.e.s actuel.le.s
+
+*Cliquez sur un nom pour afficher les détails.*
+
+### Doctorat (Ph.D.)
+
+::: {.student}
+**Kassahun Aweke Arega** — Approche géostatistique pour la modélisation de la recharge des eaux souterraines en Abitibi–Témiscamingue
+
+::: {.student-more}
+Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : septembre 2025\
+**Financement :** Bourse PAR (Commission géologique du Canada)\
+**Co-directeur :** [Nicolas Benoît](https://profils-profiles.science.gc.ca/fr/profil/nicolas-benoit)
+:::
+:::
+
+::: {.student}
+**Innocent Boris Tagne Nkounga** — Automatisation de la modélisation du sous-sol par géostatistique pour des applications en géotechnique
+
+::: {.student-more}
+Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : janvier 2025
+:::
+:::
+
+### Maîtrise (M.Sc.A.)
+
+::: {.student}
+**Olivier Brisebois** — Inférence statistique et modélisation des venues d'eau pour la caractérisation de la conductivité hydraulique apparente dans des puits à colonne permanente
+
+::: {.student-more}
+Maîtrise en génie minéral (Polytechnique Montréal) · Direction · Début : septembre 2024\
+**Financement :** Bourse CRSNG (BESRC M)\
+**Co-directeur :** [Philippe Pasquier](https://www.polymtl.ca/expertises/pasquier-philippe)
+:::
+:::
+
+### Stage de mastère (MS)
+
+::: {.student}
+**Meriam Zaghdoud Mouihbi** — Développement d'outils automatisés de modélisation géologique stochastique des interactions sols–eaux souterraines dans un contexte géotechnico-environnemental
+
+::: {.student-more}
+Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar) · Co-encadrement\
+**Financement :** Stage de recherche Globalink de Mitacs\
+**Co-encadrante :** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
+:::
+:::
+
+### Baccalauréat (1er cycle, B.ing.)
+
+::: {.student}
+**Gabriel Tabash** — Caractérisation hydrogéologique sur le terrain et en laboratoire d'une couverture naturelle pour la restauration d'un parc à résidus
+
+::: {.student-more}
+Baccalauréat en génie géologique (Polytechnique Montréal) · Co-supervision · Début : septembre 2026\
+**Financement :** Bourse CRSNG (BRPC) + Supplément FRQNT (BPCA)\
+**Co-superviseure :** [Karine Sylvain](https://www.linkedin.com/in/karine-sylvain-13815b147/?originalSubdomain=ca)
+:::
+:::
+
+::: {.student}
+**Xavier Thibeault** — Automatisation du traitement de données géotechniques pour la modélisation automatisée (logiciel ArchPy)
+
+::: {.student-more}
+Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · Début : septembre 2026\
+**Financement :** Bourse CRSNG (BRPC) + Supplément FRQNT (BPCA)
+:::
+:::
+
+::: {.student}
+**Loris Pensa** — Modélisation par substitution de système hydrogéologique en utilisant DeepONet
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Direction · Début : juin 2026\
+**Financement :** Bourse OPCO
+:::
+:::
+
+::: {.student}
+**Maud Marconcini** — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Direction · Début : juin 2026
+:::
+:::
+
+::: {.student}
+**Mohamed Hfaithia** — Analyse de l'influence de la non-stationnarité des réseaux de fractures sur l'écoulement en environnement minier
+
+::: {.student-more}
+Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa) · Co-supervision\
+**Financement :** Stage de recherche Globalink de Mitacs\
+**Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+:::
+:::
+
+::: {.student}
+**Seonghoon Park** — Extraction automatisée des données de forage à partir de rapports PDF grâce à la technologie OCR
+
+::: {.student-more}
+Baccalauréat en génie informatique (Pohang University of Science and Technology — POSTECH) · Direction · Début : février 2026
+:::
+:::
+
+::: {.student}
+**Balthazar Desrez** — Développement d'une base de données de modèles hydrogéologiques stochastiques pour entraîner des modèles de substitution utilisant des autoencodeurs
+
+::: {.student-more}
+Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · Début : septembre 2025\
+**Financement :** Programme UPIR de Polytechnique Montréal
+:::
+:::
+
+## Étudiant.e.s diplômé.e.s
+
+::: {.student}
+**Éric Delabrouille** — Étude du ratio de Sharpe comme métrique d'optimisation d'estimation de ressources minières
+
+::: {.student-more}
+Maîtrise en génie informatique et logiciel (Polytechnique Montréal) · Co-direction · Diplômé : juin 2026\
+**Financement :** Mitacs Accelerate (Orano Mining)
+:::
+:::
+
+## Profil recherché
+
+Je recherche une solide formation en génie géologique, génie des mines, mathématiques appliquées ou sciences de la Terre; de bonnes bases en mathématiques et statistiques; de l'expérience en programmation (Python, MATLAB ou similaire); et de la curiosité, de l'autonomie et de l'intérêt pour la recherche fondamentale et appliquée. Une connaissance de la géostatistique et de l'intelligence artificielle est un atout.
+
+## Processus de candidature
+
+Pour postuler, envoyez-moi par courriel : une lettre de motivation (1 page), un CV détaillé avec vos résultats, vos relevés de notes (non officiels acceptés), deux lettres de recommandation (peuvent suivre) et, si disponibles, des exemples de travaux.
+
+[{{< fa envelope >}} dany.lauzon@polymtl.ca](mailto:dany.lauzon@polymtl.ca){.btn .btn-primary}
+
+## Financement
+
+Les étudiant.e.s sont encouragé.e.s à postuler aux bourses externes (CRSNG, FRQNT, Vanier, bourses de Polytechnique Montréal). Je peux fournir un soutien financier complémentaire grâce à mes subventions de recherche.

@@ -1,0 +1,195 @@
+---
+title: ""
+pagetitle: "Dany Lauzon — Géostatistique | Polytechnique Montréal"
+page-layout: full
+toc: false
+---
+
+:::::: {.hero-banner style="--hero-field: url('assets/field-blue.png');"}
+::::: {.hero-grid}
+:::: {.hero-intro}
+# Dany Lauzon
+
+### Professeur adjoint en géostatistique
+
+**Polytechnique Montréal** · Département des génies civil, géologique et des mines
+
+Modélisation stochastique du sous-sol par méthodes géostatistiques et apprentissage automatique, et résolution de problèmes inverses en hydrogéologie.
+
+::: {.hero-links}
+[{{< fa envelope >}} Courriel](mailto:dany.lauzon@polymtl.ca)
+[{{< fa brands github >}} GitHub](https://github.com/Danlauz)
+[{{< fa brands linkedin >}} LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115)
+[{{< fa brands google-scholar >}} Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+[{{< fa brands orcid >}} ORCID](https://orcid.org/0000-0001-7774-4460)
+:::
+::::
+
+:::: {.hero-portrait}
+<img class="portrait" src="assets/portrait.jpg" alt="Dany Lauzon"
+     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+<div class="portrait-placeholder" style="display:none;">📷 Déposez votre photo&nbsp;:<br><code>assets/portrait.jpg</code></div>
+<div class="brand-chip"><img src="assets/logo.png" alt="GeoStatPoly"></div>
+::::
+:::::
+::::::
+
+## À propos
+
+Mes intérêts de recherche englobent la modélisation stochastique du sous-sol à l'aide de méthodes géostatistiques et d'apprentissage automatique, ainsi que la résolution de problèmes inverses en hydrogéologie. Je me concentre actuellement sur le développement de nouveaux algorithmes géostatistiques afin de produire des modèles géologiques souterrains précis, avec des applications en hydrogéologie et en géotechnique. Je travaille également sur la modélisation de substitution en combinant l'apprentissage profond et des algorithmes géostatistiques pour l'écoulement des eaux souterraines. Mon travail vise à réduire les incertitudes liées à la modélisation du sous-sol, afin d'aider les ingénieurs et les spécialistes à prendre des décisions qui atténuent efficacement les risques économiques, environnementaux et sociaux.
+
+### Domaines de recherche
+
+::: {.research-interests}
+::: {.interest-badge}
+Géostatistique
+:::
+::: {.interest-badge}
+Hydrogéologie stochastique
+:::
+::: {.interest-badge}
+Modélisation de faciès
+:::
+::: {.interest-badge}
+Simulation stochastique
+:::
+::: {.interest-badge}
+Problèmes inverses
+:::
+::: {.interest-badge}
+Apprentissage automatique
+:::
+:::
+
+### En bref
+
+::: {.stats-grid}
+::: {.stat-card}
+::: {.stat-number}
+18
+:::
+::: {.stat-label}
+Publications
+:::
+:::
+
+::: {.stat-card}
+::: {.stat-number}
+3
+:::
+::: {.stat-label}
+Cours enseignés
+:::
+:::
+
+::: {.stat-card}
+::: {.stat-number}
+3
+:::
+::: {.stat-label}
+Codes open source
+:::
+:::
+:::
+
+## Recherche récente
+
+::: {.card}
+::: {.card-header}
+### Publications récentes
+:::
+::: {.card-body}
+**Lauzon, D.**, Hörning, S., & Bárdossy, A. (2026). A generalized FFTMA approach for simulating multivariate non-Gaussian random fields with spatial asymmetry. *Computers & Geosciences*, 212, 106157.
+
+**Lauzon, D.**, Straubhaar, J., & Renard, P. (2025). A Deep Generative Model for the Simulation of Discrete Karst Networks. *Earth and Space Science*, 12(10).
+
+**Lauzon, D.**, & Hörning, S. (2025). Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform. *Computers & Geosciences*, 105878.
+
+[Voir toutes les publications →](publications/publications.qmd)
+:::
+:::
+
+## Enseignement
+
+::: {.card .hover-lift}
+::: {.card-header}
+### GLQ3401 — Géostatistique et géologie minière / GLQ3651 — Géologie minière
+:::
+::: {.card-body}
+Loi des mines. Échantillonnages miniers. Sondage au diamant : déviations, arpentage et mise en plan. Théorie d'échantillonnage de P. Gy. Notions de ressources, de réserves et de teneurs de coupure : méthodes de Taylor et de Lane. Estimation des ressources par géostatistique. Effet support et effet information. Variogrammes expérimentaux et modèles. Variances de bloc, de dispersion et d'estimation. Krigeages : simple, ordinaire et d'indicatrices. Cokrigeage. Méthodes de simulation géostatistique. Ressources récupérables et autres problèmes non-linéaires.
+
+[Détails GLQ3401 →](https://www.polymtl.ca/programmes/cours/geostatistique-et-geologie-minieres) ·
+[Détails GLQ3651 →](https://www.polymtl.ca/programmes/cours/geologie-miniere) ·
+[Notes de cours →](cours/geostatistique.qmd)
+:::
+:::
+
+::: {.card .hover-lift}
+::: {.card-header}
+### GML6402A — Géostatistique
+:::
+::: {.card-body}
+Géostatistique linéaire, stationnaire et non stationnaire, univariable et multivariable. Variances de blocs, de dispersion et d'estimation. Krigeages simple, ordinaire, avec dérive, avec dérive externe; formulation duale. Cokrigeage. Variogrammes, variogrammes croisés, fonctions de covariances, covariances croisées; modèles et conditions d'admissibilité. Krigeages et cokrigeages d'indicatrices et multigaussiens. Simulations non conditionnelles et conditionnelles : méthodes des bandes tournantes, séquentielles, matricielles, spectrales; post-conditionnement. Cosimulations. Simulations plurigaussiennes, multipoints. Recuit simulé, déformations graduelles. Applications en hydrogéologie, environnement, géophysique, estimation des ressources, exploitation minière.
+
+[Détails GML6402A →](https://www.polymtl.ca/programmes/cours/geostatistique)
+:::
+:::
+
+## Logiciels et codes
+
+Je développe et maintiens plusieurs bibliothèques open source pour la géostatistique :
+
+::: {.code-card}
+### G-FFTMA
+Algorithme de simulation géostatistique multivariable sur grille régulière par la méthode spectrale, basé sur la transformée de Fourier rapide (FFT). Code optimisé de la version originale de [Liang et al. (2016)](https://doi.org/10.1016/j.cageo.2016.01.005).
+
+[{{< fa brands github >}} Voir sur GitHub](https://github.com/Danlauz/NGRF-using-GFFTMA)
+:::
+
+::: {.code-card}
+### NG-FFTMA
+Extension de G-FFTMA pour la simulation de champs aléatoires non gaussiens avec asymétrie spatiale.
+
+[{{< fa brands github >}} Voir sur GitHub](https://github.com/Danlauz/NGRF-using-GFFTMA)
+:::
+
+::: {.code-card}
+### SpatialStatisticsFFT
+Bibliothèque pour le calcul efficace de statistiques spatiales d'ordre supérieur sur de grandes grilles régulières à l'aide de la FFT.
+
+**Statistiques spatiales disponibles :** variogrammes et cross-variogrammes ; covariogrammes et cross-covariogrammes ; pseudo-cross-variogrammes ; covariances centrées et non centrées *(probabilités bivariées, données catégorielles)* ; transiogrammes ergodiques et non ergodiques *(données catégorielles)* ; asymétrie directionnelle et de rang ; corrélation de rang ; cumulant d'ordre trois d'une fonction aléatoire de moyenne nulle.
+
+[{{< fa brands github >}} Voir sur GitHub](https://github.com/Danlauz/SpatialStatisticsFFT)
+:::
+
+## Contact
+
+::: {.contact-grid}
+::: {.contact-block}
+::: {.label}
+Bureau
+:::
+Polytechnique Montréal — Local B-648
+:::
+
+::: {.contact-block}
+::: {.label}
+Téléphone
+:::
+(514) 340-4711, poste 3426
+:::
+
+::: {.contact-block}
+::: {.label}
+Courriel
+:::
+[dany.lauzon@polymtl.ca](mailto:dany.lauzon@polymtl.ca)
+:::
+
+::: {.contact-block}
+::: {.label}
+Profils
+:::
+[GitHub](https://github.com/Danlauz) · [LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115) · [Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+:::
+:::
