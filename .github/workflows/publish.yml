@@ -24,11 +24,6 @@ jobs:
       - name: Installer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Configurer GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
       - name: Rendre le site
         run: quarto render
 

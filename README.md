@@ -1,5 +1,7 @@
 # Dany Lauzon - Academic Website
 
+👉 **Website:** <https://danlauz.github.io/website/>
+
 ## 📧 Contact
 
 Dany Lauzon  

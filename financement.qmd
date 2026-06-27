@@ -1,0 +1,75 @@
+---
+title: "Financement"
+pagetitle: "Financement — Dany Lauzon"
+---
+
+Subventions obtenues et demandes en évaluation, en recherche et en enseignement.
+
+## Subventions de recherche
+
+### Chercheur principal
+
+::: {.publication-item}
+**Lauzon, D.**, Courcelles, B. (2026–2030). *Développement d'outils automatiques pour la modélisation géologique stochastique adaptés aux spécificités de la géotechnique.* Subvention Alliance du CRSNG – Accélération Mitacs (ALLRP 612411-25), partenaire Englobe Inc. — **360 000 $ / 4 ans**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Subvention Découverte du CRSNG (RGPIN-2026-06184). — **195 000 $**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2026–2031). *Quantification des incertitudes pour les problèmes inverses en géosciences par la synergie de la géostatistique et de l'intelligence artificielle.* Supplément Tremplin vers la découverte du CRSNG (DGECR-2026-00265). — **12 500 $**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2024–2027). Programme d'appui au démarrage en recherche des nouveaux professeur·e·s — Polytechnique Montréal. — **60 000 $ / 3 ans**\
+*(titre du projet à compléter)*
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimisation des stratégies d'exploration minière par apprentissage par renforcement.* Accélération Mitacs (IT47670), partenaire Orano Mining. — **85 000 $** · *octroyée, puis annulée*
+:::
+
+### Co-chercheur
+
+::: {.publication-item}
+Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C., Rasison, F., Sylvain, K. (2026–2031). *Intégration des outils géophysiques dans la surveillance des parcs à résidus miniers.* Subvention Alliance du CRSNG – Accélération Mitacs. Partenaires : IAMGOLD, Agnico Eagle Mines, Dhilmar, Mine Raglan. — **1 090 000 $ / 5 ans**
+:::
+
+## Subventions d'enseignement
+
+### Chercheur principal
+
+::: {.publication-item}
+**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Étude de cas multidisciplinaire en génie géologique en troisième année* (GLQ3100, GLQ3401, GLQ3425). Fonds d'actions pédagogiques stratégiques (FAPS). — **10 528,72 $**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2025). *Études de cas réels pour l'estimation des ressources minières : une approche expérientielle* (GLQ3401, GLQ3651). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 973,63 $**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *De la théorie aux données réelles : apprendre la géostatistique par l'expérience* (GLQ3401, GLQ3651). Projet de création ou d'adaptation d'une REL disciplinaire (Fabrique REL). — **14 790,87 $**
+:::
+
+### Co-chercheur
+
+::: {.publication-item}
+Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisation d'algèbre linéaire et outils de collaboration inter-programmes* (MTH1008, MTH1009). Fonds d'actions pédagogiques stratégiques (FAPS). — **12 051,00 $**
+:::
+
+## Demandes en évaluation
+
+### Chercheur principal
+
+::: {.publication-item}
+**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* Subvention Alliance du CRSNG – Accélération Mitacs, partenaire IAMGOLD. — **380 000 $ / 4 ans**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Sylvain, K., Bussière, B. (2027–2030). *Évaluation probabiliste de la performance à long terme des méthodes de restauration minière en présence d'incertitude climatique et d'hétérogénéité des matériaux.* Subvention FRQNT – Programme de recherche en partenariat sur le développement durable du secteur minier IV. Partenaires : BGC Engineering Inc. et IAMGOLD. — **300 000 $ / 3 ans**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Pasquier, P., Prieto Espinoza, M. (2027–2030). *Méthodes statistiques pour la caractérisation des signatures hydrogéochimiques et du rabattement à long terme des eaux souterraines induits par les activités minières.* Subvention FRQNT – Programme de recherche en partenariat sur le développement durable du secteur minier IV. Partenaires : BGC Engineering Inc. et Agnico Eagle Mines. — **300 000 $ / 3 ans**
+:::

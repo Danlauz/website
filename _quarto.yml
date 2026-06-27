@@ -24,6 +24,8 @@ website:
         href: cv.qmd
       - text: "Publications"
         href: publications/publications.qmd
+      - text: "Financement"
+        href: financement.qmd
       - text: "Étudiant.e.s"
         href: etudiants.qmd
       - text: "Enseignement"
@@ -89,6 +91,7 @@ format:
               ["cv.html", "cv_en.html"],
               ["etudiants.html", "etudiants_en.html"],
               ["publications/publications.html", "publications/publications_en.html"],
+              ["financement.html", "financement_en.html"],
               ["cours/geostatistique.html", "en/courses/geostatistics.html"],
               ["cours/livre.html", "en/courses/book.html"]
             ];
@@ -96,6 +99,7 @@ format:
               { fr: "index.html", en: "index_en.html", frL: "Accueil", enL: "Home" },
               { fr: "cv.html", en: "cv_en.html", frL: "CV", enL: "CV" },
               { fr: "publications/publications.html", en: "publications/publications_en.html", frL: "Publications", enL: "Publications" },
+              { fr: "financement.html", en: "financement_en.html", frL: "Financement", enL: "Funding" },
               { fr: "etudiants.html", en: "etudiants_en.html", frL: "Étudiant.e.s", enL: "Students" },
               { fr: "cours/geostatistique.html", en: "en/courses/geostatistics.html", frL: "Enseignement", enL: "Teaching" }
             ];

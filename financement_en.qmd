@@ -1,0 +1,75 @@
+---
+title: "Funding"
+pagetitle: "Funding — Dany Lauzon"
+---
+
+Research and teaching grants awarded, and applications currently under review.
+
+## Research grants
+
+### Principal investigator
+
+::: {.publication-item}
+**Lauzon, D.**, Courcelles, B. (2026–2030). *Development of automated tools for stochastic geological modeling adapted to the specificities of geotechnics.* NSERC Alliance – Mitacs Accelerate grant (ALLRP 612411-25), partner Englobe Inc. — **$360,000 over 4 years**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Grant (RGPIN-2026-06184). — **$195,000**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2026–2031). *Uncertainty quantification for inverse problems in geosciences through the synergy of geostatistics and artificial intelligence.* NSERC Discovery Launch Supplement (DGECR-2026-00265). — **$12,500**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2024–2027). New Faculty Research Start-up Program — Polytechnique Montréal. — **$60,000 over 3 years**\
+*(project title to be completed)*
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimization of mineral exploration strategies using reinforcement learning.* Mitacs Accelerate (IT47670), partner Orano Mining. — **$85,000** · *awarded, then cancelled*
+:::
+
+### Co-investigator
+
+::: {.publication-item}
+Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C., Rasison, F., Sylvain, K. (2026–2031). *Integration of geophysical tools into mine tailings storage facility monitoring.* NSERC Alliance – Mitacs Accelerate grant. Partners: IAMGOLD, Agnico Eagle Mines, Dhilmar, Raglan Mine. — **$1,090,000 over 5 years**
+:::
+
+## Teaching grants
+
+### Principal investigator
+
+::: {.publication-item}
+**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Multidisciplinary case study in geological engineering in the third year* (GLQ3100, GLQ3401, GLQ3425). Strategic Pedagogical Action Fund (FAPS). — **$10,528.72**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2025). *Real-world case studies for mineral resource estimation: an experiential approach* (GLQ3401, GLQ3651). Strategic Pedagogical Action Fund (FAPS). — **$12,973.63**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *From theory to real data: learning geostatistics through experience* (GLQ3401, GLQ3651). Open educational resource (OER) creation/adaptation project (Fabrique REL). — **$14,790.87**
+:::
+
+### Co-investigator
+
+::: {.publication-item}
+Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualization of linear algebra and cross-program collaboration tools* (MTH1008, MTH1009). Strategic Pedagogical Action Fund (FAPS). — **$12,051.00**
+:::
+
+## Applications under review
+
+### Principal investigator
+
+::: {.publication-item}
+**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* NSERC Alliance – Mitacs Accelerate grant, partner IAMGOLD. — **$380,000 over 4 years**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Sylvain, K., Bussière, B. (2027–2030). *Probabilistic assessment of the long-term performance of mine reclamation methods under climate uncertainty and material heterogeneity.* FRQNT – Sustainable Development of the Mining Sector Partnership Research Program IV. Partners: BGC Engineering Inc. and IAMGOLD. — **$300,000 over 3 years**
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, Pasquier, P., Prieto Espinoza, M. (2027–2030). *Statistical methods for characterizing hydrogeochemical signatures and long-term groundwater drawdown induced by mining activities.* FRQNT – Sustainable Development of the Mining Sector Partnership Research Program IV. Partners: BGC Engineering Inc. and Agnico Eagle Mines. — **$300,000 over 3 years**
+:::
