@@ -77,45 +77,45 @@
     "url": "https://publications.polymtl.ca/42989/"
   },
   {
-    "category": "conference", "year": "2025",
+    "category": "conf_oral", "year": "2025",
     "authors": [["Lauzon", "D."], ["Hörning", "S."], ["Bárdossy", "A."]],
     "title": "A novel framework for stochastic simulation of multivariate non-Gaussian random fields in environmental and geological studies",
-    "note": "Résumé", "venue": "EGU General Assembly 2025, Vienna, Austria",
+    "venue": "EGU General Assembly 2025, Vienna, Austria",
     "url": "https://publications.polymtl.ca/63440/"
   },
   {
-    "category": "conference", "year": "2025",
+    "category": "conf_oral", "year": "2025",
     "authors": [["Hoerning", "S."], ["Lauzon", "D."], ["Bárdossy", "A."]],
     "title": "Spectral methods for non-linear co-regionalization",
-    "note": "Résumé", "venue": "EGU General Assembly 2025, Vienna, Austria",
+    "venue": "EGU General Assembly 2025, Vienna, Austria",
     "url": "https://publications.polymtl.ca/64477/"
   },
   {
-    "category": "conference", "year": "2024",
+    "category": "conf_oral", "year": "2024",
     "authors": [["Lauzon", "D."]],
     "title": "Deep neural networks in surrogate hydrogeological modeling: an application for transient groundwater flow combined with a geostatistical spectral algorithm for inverse problem-solving",
-    "note": "Résumé", "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
+    "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
     "url": "https://publications.polymtl.ca/58915/"
   },
   {
-    "category": "conference", "year": "2024",
+    "category": "conf_oral", "year": "2024",
     "authors": [["Straubhaar", "J."], ["Lauzon", "D."], ["Renard", "P."]],
     "title": "Graph recurrent neural networks for stochastic simulation of Karst network topology and properties",
-    "note": "Résumé", "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
+    "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
     "url": "https://publications.polymtl.ca/58931/"
   },
   {
-    "category": "conference", "year": "2022",
+    "category": "conf_article", "year": "2022",
     "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
     "title": "On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data. Application to aquifer models",
-    "note": "Communication écrite", "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
+    "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
     "url": "https://publications.polymtl.ca/66955/"
   },
   {
-    "category": "conference", "year": "2022",
+    "category": "conf_poster", "year": "2022",
     "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
     "title": "On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data. Application to aquifer models",
-    "note": "Affiche", "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
+    "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
     "url": "https://publications.polymtl.ca/58581/"
   },
   {

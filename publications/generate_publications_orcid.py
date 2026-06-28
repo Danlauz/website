@@ -31,19 +31,27 @@ TIMEOUT     = 30
 PAUSE       = 0.34
 UA = f"GeoStatPoly-website/1.0 (mailto:{CONTACT})"
 
-SECTIONS = ["journal", "conference", "thesis", "book"]
+SECTIONS = ["journal", "conf_article", "conf_oral", "conf_poster", "workshop", "thesis", "book"]
 TITLES = {
-  "fr": {"journal": "Articles de revue par les pairs", "conference": "Communications de conférence",
+  "fr": {"journal": "Articles de revue par les pairs",
+         "conf_article": "Actes de conférence (revus par les pairs)",
+         "conf_oral": "Présentations orales en conférence",
+         "conf_poster": "Affiches (posters)",
+         "workshop": "Ateliers et formations",
          "thesis": "Thèses", "book": "Livres et ressources pédagogiques",
          "page": "Publications", "updated": "Dernière mise à jour", "total": "publications", "link": "lien"},
-  "en": {"journal": "Peer-reviewed journal articles", "conference": "Conference presentations",
+  "en": {"journal": "Peer-reviewed journal articles",
+         "conf_article": "Peer-reviewed conference papers",
+         "conf_oral": "Conference oral presentations",
+         "conf_poster": "Conference posters",
+         "workshop": "Workshops and training",
          "thesis": "Theses", "book": "Books and educational resources",
          "page": "Publications", "updated": "Last updated", "total": "publications", "link": "link"},
 }
 MONTHS_FR = ["", "janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
 MONTHS_EN = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-ORCID_TYPE_MAP = {"journal-article": "journal", "conference-paper": "conference", "conference-abstract": "conference",
-  "conference-poster": "conference", "lecture-speech": "conference", "dissertation-thesis": "thesis", "dissertation": "thesis",
+ORCID_TYPE_MAP = {"journal-article": "journal", "conference-paper": "conf_article", "conference-abstract": "conf_oral",
+  "conference-poster": "conf_poster", "lecture-speech": "conf_oral", "dissertation-thesis": "thesis", "dissertation": "thesis",
   "book": "book", "book-chapter": "book", "edited-book": "book", "report": "book", "supervised-student-publication": "journal"}
 
 
