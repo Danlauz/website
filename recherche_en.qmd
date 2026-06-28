@@ -3,26 +3,26 @@ title: "Research"
 pagetitle: "Research — Dany Lauzon"
 ---
 
-My research develops new **geostatistical methods**, couples them with **machine learning**, and applies them to subsurface modeling and uncertainty quantification — with impact in hydrogeology, geotechnics and the mining sector. It is organized around four axes.
+My research concerns geostatistical methods and their coupling with machine learning, with the aim of modeling the subsurface and quantifying its uncertainties. I am interested both in building the algorithms and in applying them to concrete problems in hydrogeology, geotechnics and the mining sector. My work is organized into four areas.
 
-## Axis 1 — Advanced geostatistical algorithms
+## Axis 1: Advanced geostatistical algorithms
 
-I develop simulation and spatial-analysis algorithms based on the fast Fourier transform (FFT) that scale efficiently to very large grids. My work spans multivariate simulation (G‑FFTMA), the extension to **non‑Gaussian random fields with spatial asymmetry** (NG‑FFTMA), and the computation of **higher‑order spatial statistics** — variograms, transiograms, cumulants — through SpatialStatisticsFFT.
+I design simulation and spatial analysis algorithms based on spectral methods, whether the fast Fourier transform or the spectral turning bands method. Their numerical efficiency makes it possible to handle very large grids, where classical approaches quickly reach their limits. Part of this work extends multivariate simulation to non-Gaussian random fields, so as to reproduce the spatial asymmetry observed in many geological formations. I also develop tools to estimate higher-order spatial statistics, such as transiograms and cumulants, which capture structures that the variogram misses. These methods are released as open source so that others can use and test them.
 
-**Open-source code:** [G‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [NG‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT)
+## Axis 2: Inverse problems and uncertainty quantification
 
-## Axis 2 — Inverse problems and uncertainty quantification
+A large part of my work involves reconstructing geological models from indirect data, such as hydraulic heads measured in boreholes, when information is sparse and noisy. Rather than a single solution, I look for a set of models consistent with the observations, which keeps the remaining uncertainty visible instead of hiding it. This matters when engineering decisions rest on an honest assessment of risk. I am especially interested in how geostatistics and artificial intelligence can reinforce one another to address inverse problems in geosciences.
 
-I design methods to calibrate geological models against indirect data (hydraulic heads, field observations) and to quantify the associated uncertainties, in order to produce more reliable subsurface models. This axis is at the heart of my **NSERC Discovery Grant** (2026–2031) on the synergy between geostatistics and artificial intelligence for inverse problems in geosciences.
+## Axis 3: Geostatistics and machine learning
 
-## Axis 3 — Geostatistics × machine learning synergy
+I study how deep learning can support geostatistical modeling. By training surrogate models on physical simulations, costly computations can be replaced by near-instant predictions, which makes it possible to examine a large number of scenarios. For this I use U-Net architectures for transient flow, neural operators such as DeepONet, graph neural networks to track groundwater levels, and generative models to reproduce the topology of complex networks such as karst systems. My aim is not to replace physics with learning, but to make the two work together.
 
-I combine deep learning and geostatistical algorithms to build fast **surrogate models** and improve forecasting: U‑Net architectures for transient flow, DeepONet, graph neural networks for groundwater levels, generative models for the simulation of **karst networks**, and autoencoders.
+## Axis 4: Geostatistical methods applied to the mining environment
 
-## Axis 4 — Geostatistical methods applied to the mining environment
+The mining sector is a central application area of my research. There I work on the stochastic modeling of fracture networks and the flow that runs through them, on the probabilistic assessment of the long-term performance of mine reclamation works in a changing climate, and on the characterization of hydrogeochemical signatures and groundwater drawdown linked to mining. I also examine the contribution of geophysical measurements to tailings storage facility monitoring, and the use of learning for prospectivity mapping. The shared goal of this work is to better understand the hydrogeological and geotechnical risks specific to this context.
 
-I apply these methods to concrete challenges in the mining sector: stochastic modeling of **fracture networks** and flow, probabilistic assessment of **mine reclamation** under climate uncertainty, characterization of **hydrogeochemical signatures** and groundwater drawdown, integration of **geophysical** tools for **tailings storage facility** monitoring, and **mineral prospectivity** mapping. This work is carried out in partnership with industry (Englobe, IAMGOLD, Agnico Eagle, BGC Engineering).
+## Open-source software
 
----
+[G-FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA), [NG-FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) and [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT).
 
 Funded projects are detailed on the [Funding](financement_en.qmd) page, and the full list of work on the [Publications](publications/publications_en.qmd) page.

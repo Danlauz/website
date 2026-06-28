@@ -3,26 +3,26 @@ title: "Recherche"
 pagetitle: "Recherche — Dany Lauzon"
 ---
 
-Mes recherches développent de nouvelles **méthodes géostatistiques**, les couplent à l'**apprentissage automatique**, et les appliquent à la modélisation du sous-sol et à la quantification de l'incertitude — avec des retombées en hydrogéologie, en géotechnique et dans le secteur minier. Elles s'organisent autour de quatre axes.
+Mes recherches portent sur les méthodes géostatistiques et sur leur couplage avec l'apprentissage automatique, dans le but de modéliser le sous-sol et d'en quantifier les incertitudes. Je m'intéresse autant à la construction des algorithmes qu'à leur emploi sur des problèmes concrets en hydrogéologie, en géotechnique et dans le domaine minier. Mes travaux se regroupent en quatre axes.
 
-## Axe 1 — Algorithmes géostatistiques avancés
+## Axe 1 : Algorithmes géostatistiques avancés
 
-Je développe des algorithmes de simulation et d'analyse spatiale fondés sur la transformée de Fourier rapide (FFT), capables de traiter efficacement de très grandes grilles. Mes travaux couvrent la simulation multivariable (G‑FFTMA), l'extension aux champs aléatoires **non gaussiens à asymétrie spatiale** (NG‑FFTMA) et le calcul de **statistiques spatiales d'ordre supérieur** — variogrammes, transiogrammes, cumulants — via SpatialStatisticsFFT.
+Je conçois des algorithmes de simulation et d'analyse spatiale fondés sur les méthodes spectrales, qu'il s'agisse de la transformée de Fourier rapide ou de la méthode des bandes tournantes spectrales. Leur efficacité numérique permet de traiter de très grandes grilles, là où les approches classiques atteignent vite leurs limites. Une partie de ces travaux étend la simulation multivariable aux champs aléatoires non gaussiens, de façon à reproduire l'asymétrie spatiale que l'on observe dans bien des formations géologiques. Je développe aussi des outils pour estimer des statistiques spatiales d'ordre supérieur, comme les transiogrammes et les cumulants, qui rendent compte de structures que le variogramme laisse échapper. Ces méthodes sont diffusées en libre accès afin que d'autres puissent les utiliser et les éprouver.
 
-**Codes ouverts :** [G‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [NG‑FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) · [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT)
+## Axe 2 : Problèmes inverses et quantification de l'incertitude
 
-## Axe 2 — Problèmes inverses et quantification de l'incertitude
+Une bonne part de mon travail consiste à reconstruire des modèles géologiques à partir de données indirectes, par exemple des charges hydrauliques mesurées en forage, lorsque l'information est rare et bruitée. Je cherche moins une solution unique qu'un ensemble de modèles compatibles avec les observations, ce qui permet de garder l'incertitude visible plutôt que de la masquer. Cette approche compte lorsque des décisions d'ingénierie reposent sur une évaluation honnête du risque. Je m'intéresse en particulier à la manière dont la géostatistique et l'intelligence artificielle peuvent se renforcer mutuellement pour aborder les problèmes inverses en géosciences.
 
-Je conçois des méthodes pour caler les modèles géologiques sur des données indirectes (charges hydrauliques, observations de terrain) et quantifier les incertitudes associées, afin de produire des modèles du sous-sol plus fiables. Cet axe est au cœur de ma **subvention Découverte du CRSNG** (2026–2031) sur la synergie entre géostatistique et intelligence artificielle pour les problèmes inverses en géosciences.
+## Axe 3 : Géostatistique et apprentissage automatique
 
-## Axe 3 — Synergie géostatistique × apprentissage automatique
+Je m'intéresse à la façon dont l'apprentissage profond peut épauler la modélisation géostatistique. En entraînant des modèles de substitution sur des simulations physiques, on remplace des calculs coûteux par des prédictions quasi immédiates, ce qui rend possible l'examen d'un grand nombre de scénarios. J'ai recours pour cela à des architectures de type U-Net pour l'écoulement transitoire, à des opérateurs neuronaux comme DeepONet, à des réseaux de neurones sur graphes pour suivre les niveaux d'eau souterraine, et à des modèles génératifs pour reproduire la topologie de réseaux complexes tels que les réseaux karstiques. Je ne cherche pas à remplacer la physique par l'apprentissage, mais à les faire travailler de concert.
 
-Je combine l'apprentissage profond et les algorithmes géostatistiques pour bâtir des **modèles de substitution** rapides et améliorer la prévision : architectures U‑Net pour l'écoulement transitoire, DeepONet, réseaux de neurones sur graphes pour les niveaux d'eau souterraine, modèles génératifs pour la simulation de **réseaux karstiques**, et autoencodeurs.
+## Axe 4 : Méthodes géostatistiques appliquées à l'environnement minier
 
-## Axe 4 — Méthodes géostatistiques appliquées à l'environnement minier
+Le secteur minier est un terrain d'application central de mes recherches. J'y travaille à la modélisation stochastique des réseaux de fractures et de l'écoulement qui les parcourt, à l'évaluation probabiliste de la tenue à long terme des ouvrages de restauration minière dans un climat changeant, ainsi qu'à la caractérisation des signatures hydrogéochimiques et du rabattement des eaux souterraines liés à l'exploitation. J'examine aussi l'apport des mesures géophysiques pour la surveillance des parcs à résidus et le recours à l'apprentissage pour la cartographie de prospectivité. L'objectif commun de ces travaux est de mieux cerner les risques hydrogéologiques et géotechniques propres à ce contexte.
 
-J'applique ces méthodes aux enjeux concrets du secteur minier : modélisation stochastique des **réseaux de fractures** et de l'écoulement, évaluation probabiliste de la **restauration minière** sous incertitude climatique, caractérisation des **signatures hydrogéochimiques** et du rabattement des eaux souterraines, intégration d'outils **géophysiques** pour la surveillance des **parcs à résidus**, et cartographie de **prospectivité minérale**. Ces travaux sont menés en partenariat avec l'industrie (Englobe, IAMGOLD, Agnico Eagle, BGC Engineering).
+## Logiciels en libre accès
 
----
+[G-FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA), [NG-FFTMA](https://github.com/Danlauz/NGRF-using-GFFTMA) et [SpatialStatisticsFFT](https://github.com/Danlauz/SpatialStatisticsFFT).
 
 Le détail des projets financés se trouve sur la page [Financement](financement.qmd), et la liste complète des travaux sur la page [Publications](publications/publications.qmd).
