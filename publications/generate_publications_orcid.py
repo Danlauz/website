@@ -31,19 +31,31 @@ TIMEOUT     = 30
 PAUSE       = 0.34
 UA = f"GeoStatPoly-website/1.0 (mailto:{CONTACT})"
 
-SECTIONS = ["journal", "conf_article", "conf_oral", "conf_poster", "workshop", "thesis", "book"]
+# Disposition de la page. "simple" = section ## avec sous-titres ### par année.
+# "group" = section ## qui regroupe plusieurs catégories en sous-sections ###.
+LAYOUT = [
+    ("simple", "journal"),
+    ("group", "conf_group", ["conf_article", "conf_oral", "conf_poster", "session"]),
+    ("simple", "workshop"),
+    ("simple", "thesis"),
+    ("simple", "book"),
+]
 TITLES = {
   "fr": {"journal": "Articles de revue par les pairs",
-         "conf_article": "Actes de conférence (revus par les pairs)",
-         "conf_oral": "Présentations orales en conférence",
-         "conf_poster": "Affiches (posters)",
+         "conf_group": "Conférences",
+         "conf_article": "Articles de conférence revus par les pairs",
+         "conf_oral": "Présentations orales",
+         "conf_poster": "Affiches",
+         "session": "Sessions organisées",
          "workshop": "Ateliers et formations",
          "thesis": "Thèses", "book": "Livres et ressources pédagogiques",
          "page": "Publications", "updated": "Dernière mise à jour", "total": "publications", "link": "lien"},
   "en": {"journal": "Peer-reviewed journal articles",
+         "conf_group": "Conferences",
          "conf_article": "Peer-reviewed conference papers",
-         "conf_oral": "Conference oral presentations",
-         "conf_poster": "Conference posters",
+         "conf_oral": "Oral presentations",
+         "conf_poster": "Posters",
+         "session": "Convened sessions",
          "workshop": "Workshops and training",
          "thesis": "Theses", "book": "Books and educational resources",
          "page": "Publications", "updated": "Last updated", "total": "publications", "link": "link"},
@@ -82,7 +94,7 @@ def load_supplement():
         out.append({"category": e.get("category", "journal"), "year": str(e.get("year", "")),
                     "authors": [list(a) for a in e.get("authors", [])], "title": e.get("title", "").strip(),
                     "venue": e.get("venue", ""), "details": e.get("details", ""), "note": e.get("note", ""),
-                    "url": e.get("url", "")})
+                    "etal": e.get("etal", False), "url": e.get("url", "")})
     return out
 
 
@@ -138,7 +150,7 @@ def orcid_to_record(w):
             "title": w["title"].strip(), "venue": (w["journal"] or "").strip(), "details": "", "note": "", "url": ""}
 
 
-def format_authors(authors):
+def format_authors(authors, etal=False):
     parts = []
     for a in authors:
         fam = a[0]
@@ -147,6 +159,12 @@ def format_authors(authors):
         if fam.lower() == BOLD_FAMILY:
             name = "**" + name + "**"
         parts.append(name)
+    if etal:
+        if not parts:
+            return "et al."
+        if len(parts) == 1:
+            return parts[0] + " et al."
+        return ", ".join(parts) + ", et al."
     if len(parts) <= 1:
         return parts[0] if parts else ""
     return ", ".join(parts[:-1]) + ", & " + parts[-1]
@@ -154,7 +172,7 @@ def format_authors(authors):
 
 def format_entry(rec, lang):
     link = TITLES[lang]["link"]
-    auth = format_authors(rec["authors"])
+    auth = format_authors(rec["authors"], rec.get("etal", False))
     s = (auth + " " if auth else "") + f"({rec['year']}). "
     title = rec["title"].rstrip(".")
     if rec["category"] == "journal":
@@ -176,30 +194,65 @@ def format_entry(rec, lang):
     return s.strip()
 
 
+def _year_key(y):
+    return int(y) if str(y).isdigit() else 0
+
+
+def emit_by_year(out, recs, lang):
+    """Sous-titres ### par année (utilisé pour les sections simples)."""
+    n = 0
+    years = sorted({r["year"] for r in recs if r["year"]}, key=_year_key, reverse=True)
+    noyear = [r for r in recs if not r["year"]]
+    for y in years:
+        out.append(f"### {y}")
+        out.append("")
+        for r in [x for x in recs if x["year"] == y]:
+            out += ["::: {.publication-item}", format_entry(r, lang), ":::", ""]
+            n += 1
+    for r in noyear:
+        out += ["::: {.publication-item}", format_entry(r, lang), ":::", ""]
+        n += 1
+    return n
+
+
+def emit_flat(out, recs, lang):
+    """Liste à plat, du plus récent au plus ancien (utilisé sous une sous-section)."""
+    n = 0
+    for r in sorted(recs, key=lambda r: _year_key(r["year"]), reverse=True):
+        out += ["::: {.publication-item}", format_entry(r, lang), ":::", ""]
+        n += 1
+    return n
+
+
 def build_page(records, lang):
     t = TITLES[lang]
     today = time.localtime()
     months = MONTHS_FR if lang == "fr" else MONTHS_EN
     out = ["---", f'title: "{t["page"]}"', "---", ""]
     total = 0
-    for cat in SECTIONS:
-        recs = [r for r in records if r["category"] == cat]
-        if not recs:
-            continue
-        out.append(f"## {t[cat]}")
-        out.append("")
-        years = sorted({r["year"] for r in recs if r["year"]},
-                       key=lambda y: int(y) if str(y).isdigit() else 0, reverse=True)
-        noyear = [r for r in recs if not r["year"]]
-        for y in years:
-            out.append(f"### {y}")
+    for item in LAYOUT:
+        if item[0] == "simple":
+            cat = item[1]
+            recs = [r for r in records if r["category"] == cat]
+            if not recs:
+                continue
+            out.append(f"## {t[cat]}")
             out.append("")
-            for r in [x for x in recs if x["year"] == y]:
-                out += ["::: {.publication-item}", format_entry(r, lang), ":::", ""]
-                total += 1
-        for r in noyear:
-            out += ["::: {.publication-item}", format_entry(r, lang), ":::", ""]
-            total += 1
+            total += emit_by_year(out, recs, lang)
+        else:  # ("group", group_title_key, [sous-catégories])
+            _, gkey, subs = item
+            grecs = [r for r in records if r["category"] in subs]
+            if not grecs:
+                continue
+            out.append(f"## {t[gkey]}")
+            out.append("")
+            for sub in subs:
+                srecs = [r for r in records if r["category"] == sub]
+                if not srecs:
+                    continue
+                out.append(f"### {t[sub]}")
+                out.append("")
+                total += emit_flat(out, srecs, lang)
     out.append("---")
     out.append("")
     out.append(f'*{t["total"].capitalize()}: {total} · {t["updated"]}: {months[today.tm_mon]} {today.tm_year}*')

@@ -131,5 +131,103 @@
     "title": "Géostatistique et géologie minière",
     "note": "Notes de cours",
     "url": "https://publications.polymtl.ca/70224/"
+  },
+  {
+    "category": "workshop", "year": "2026",
+    "authors": [["Liang", "X. X."], ["Wen", "T."], ["Lauzon", "D."]],
+    "title": "Fundamental Deep Learning Concepts for Applied Geoscientists",
+    "venue": "IAMG 2026, Montréal, Canada",
+    "url": ""
+  },
+  {
+    "category": "journal", "year": "2026",
+    "authors": [["Pugliese"]], "etal": true,
+    "title": "Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach",
+    "venue": "",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2024",
+    "authors": [["Lauzon", "D."]], "etal": true,
+    "title": "Geostatistical analysis of geotechnical uncertainty risk assessment in engineering projects",
+    "venue": "GeoMTL 2024",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2026",
+    "authors": [["Straubhaar", "J."]], "etal": true,
+    "title": "Deep learning karst network generator",
+    "venue": "EuroKarst 2026",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2026",
+    "authors": [["Dion"]], "etal": true,
+    "title": "Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability",
+    "venue": "IGSHPA 2026",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2026",
+    "authors": [["Brisebois"]], "etal": true,
+    "title": "Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for k profiling",
+    "venue": "IGSHPA 2026",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2026",
+    "authors": [["Lauzon", "D."]], "etal": true,
+    "title": "From Data to Decisions: How Geostatistics Supports Geotechnical Engineering",
+    "venue": "GeoQuébec 2026",
+    "url": ""
+  },
+  {
+    "category": "conf_article", "year": "2026",
+    "authors": [["Tagne Nkounga"]], "etal": true,
+    "title": "Automatic Spatial Inference of Stratigraphic Piles under Non-Stationary Conditions from Borehole Data",
+    "venue": "GeoQuébec 2026",
+    "url": ""
+  },
+  {
+    "category": "conf_oral", "year": "2026",
+    "authors": [["Renard", "P."]], "etal": true,
+    "title": "Karst network simulation with statistical learning",
+    "venue": "EGU General Assembly 2026, Vienna, Austria",
+    "url": ""
+  },
+  {
+    "category": "conf_oral", "year": "2026",
+    "authors": [["Tanaka"]], "etal": true,
+    "title": "Fracture network modeling with graph deep learning",
+    "venue": "EGU General Assembly 2026, Vienna, Austria",
+    "url": ""
+  },
+  {
+    "category": "conf_oral", "year": "2026",
+    "authors": [["Liang", "X. X."]], "etal": true,
+    "title": "Evaluating the influence of temporal data resolution on the performance of DNN",
+    "venue": "IAMG 2026, Montréal, Canada",
+    "url": ""
+  },
+  {
+    "category": "conf_oral", "year": "2026",
+    "authors": [["de Magalhaes"]], "etal": true,
+    "title": "A Bayesian–Geostatistical Framework for Inferring Fracture Volumetric Intensity in Rock Masses from Multiple Data Sources",
+    "venue": "IAMG 2026, Montréal, Canada",
+    "url": ""
+  },
+  {
+    "category": "conf_poster", "year": "2026",
+    "authors": [["Arega"]], "etal": true,
+    "title": "Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec",
+    "venue": "IAH 2026, Canada",
+    "url": ""
+  },
+  {
+    "category": "session", "year": "2026",
+    "authors": [["Dimitrakopoulos", "R."], ["Lauzon", "D."]],
+    "title": "Multi-point and High-order simulations",
+    "venue": "IAMG 2026, Montréal, Canada",
+    "url": ""
   }
 ]

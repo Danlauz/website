@@ -3,5 +3,6 @@
 /Article_Recherche/
 publier.bat
 **/*.quarto_ipynb
-.DS_Store
+*_files/
+
 Thumbs.db
