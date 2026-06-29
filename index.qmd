@@ -41,55 +41,7 @@ Mes intérêts de recherche englobent la modélisation stochastique du sous-sol 
 ### Domaines de recherche
 
 ::: {.research-interests}
-::: {.interest-badge}
-Géostatistique
-:::
-::: {.interest-badge}
-Hydrogéologie stochastique
-:::
-::: {.interest-badge}
-Modélisation de faciès
-:::
-::: {.interest-badge}
-Simulation stochastique
-:::
-::: {.interest-badge}
-Problèmes inverses
-:::
-::: {.interest-badge}
-Apprentissage automatique
-:::
-:::
-
-### En bref
-
-::: {.stats-grid}
-::: {.stat-card}
-::: {.stat-number}
-18
-:::
-::: {.stat-label}
-Publications
-:::
-:::
-
-::: {.stat-card}
-::: {.stat-number}
-3
-:::
-::: {.stat-label}
-Cours enseignés
-:::
-:::
-
-::: {.stat-card}
-::: {.stat-number}
-3
-:::
-::: {.stat-label}
-Codes open source
-:::
-:::
+[Géostatistique]{.interest-badge}[Hydrogéologie stochastique]{.interest-badge}[Modélisation de faciès]{.interest-badge}[Simulation stochastique]{.interest-badge}[Problèmes inverses]{.interest-badge}[Apprentissage automatique]{.interest-badge}
 :::
 
 ## Recherche récente

@@ -33,6 +33,12 @@ jobs:
         continue-on-error: true
         run: python publications/generate_publications_orcid.py
 
+      - name: Générer le CV PDF
+        continue-on-error: true
+        run: |
+          python -m pip install --quiet reportlab
+          python assets/generate_cv.py
+
       - name: Installer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

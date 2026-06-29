@@ -41,64 +41,7 @@ My research interests encompass stochastic modeling of the subsurface using geos
 ### Research Areas
 
 ::: {.research-interests}
-::: {.interest-badge}
-Geostatistics
-:::
-::: {.interest-badge}
-Hydrogeological modeling
-:::
-::: {.interest-badge}
-Stochastic simulation
-:::
-::: {.interest-badge}
-Inverse problems
-:::
-::: {.interest-badge}
-Surrogate modeling
-:::
-::: {.interest-badge}
-Deep learning
-:::
-:::
-
-### At a glance
-
-::: {.stats-grid}
-::: {.stat-card}
-::: {.stat-number}
-9
-:::
-::: {.stat-label}
-Journal articles
-:::
-:::
-
-::: {.stat-card}
-::: {.stat-number}
-6
-:::
-::: {.stat-label}
-Conference talks
-:::
-:::
-
-::: {.stat-card}
-::: {.stat-number}
-3
-:::
-::: {.stat-label}
-Open-source codes
-:::
-:::
-
-::: {.stat-card}
-::: {.stat-number}
-1
-:::
-::: {.stat-label}
-Educational book
-:::
-:::
+[Geostatistics]{.interest-badge}[Hydrogeological modeling]{.interest-badge}[Stochastic simulation]{.interest-badge}[Inverse problems]{.interest-badge}[Surrogate modeling]{.interest-badge}[Deep learning]{.interest-badge}
 :::
 
 ## Recent Research
