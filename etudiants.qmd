@@ -22,7 +22,7 @@ Je suis ouvert à de nouvelles candidatures (B.ing., M.ing., M.Sc.A. et Ph.D.) p
 **Kassahun Aweke Arega** [(Dir.)]{.role-tag} — Approche géostatistique pour la modélisation de la recharge des eaux souterraines en Abitibi–Témiscamingue
 
 ::: {.student-more}
-Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : septembre 2025\
+Doctorat en génie minéral (Polytechnique Montréal) · Début : septembre 2025\
 **Financement :** Bourse PAR (Commission géologique du Canada)\
 **Co-directeur :** [Nicolas Benoît](https://profils-profiles.science.gc.ca/fr/profil/nicolas-benoit)
 :::
@@ -32,7 +32,8 @@ Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : s
 **Innocent Boris Tagne Nkounga** [(Dir.)]{.role-tag} — Automatisation de la modélisation du sous-sol par géostatistique pour des applications en géotechnique
 
 ::: {.student-more}
-Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : janvier 2025
+Doctorat en génie minéral (Polytechnique Montréal) · Début : janvier 2025\
+**Financement :** [Subventions Alliance du CRSNG–Accélération de Mitacs](https://nserc-crsng.canada.ca/fr/possibilite-de-financement/subventions-alliance-du-crsng-acceleration-de-mitacs) (ALLRP 612411 - 25)
 :::
 :::
 
@@ -42,32 +43,59 @@ Doctorat en génie minéral (Polytechnique Montréal) · Direction · Début : j
 **Olivier Brisebois** [(Dir.)]{.role-tag} — Inférence statistique et modélisation des venues d'eau pour la caractérisation de la conductivité hydraulique apparente dans des puits à colonne permanente
 
 ::: {.student-more}
-Maîtrise en génie minéral (Polytechnique Montréal) · Direction · Début : septembre 2024\
+Maîtrise en génie minéral (Polytechnique Montréal) · Début : septembre 2024\
 **Financement :** Bourse CRSNG (BESRC M)\
 **Co-directeur :** [Philippe Pasquier](https://www.polymtl.ca/expertises/pasquier-philippe)
 :::
 :::
 
-### Stage de mastère (MS)
+### Stage de recherche — Maîtrise
 
 ::: {.student}
 **Meriam Zaghdoud Mouihbi** [(Dir.)]{.role-tag} — Développement d'outils automatisés de modélisation géologique stochastique des interactions sols–eaux souterraines dans un contexte géotechnico-environnemental
 
 ::: {.student-more}
-Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar) · Direction\
+Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar) · Présence : mai 2026 à juillet 2026 (3 mois)\
 **Financement :** Stage de recherche Globalink de Mitacs\
 **Co-encadrante :** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
 :::
 :::
 
-### Stage de recherche
+### Stage de recherche — Baccalauréat
+
+::: {.student}
+**Mohamed Hfaithia** [(Dir.)]{.role-tag} — Analyse de l'influence de la non-stationnarité des réseaux de fractures sur l'écoulement en environnement minier
+
+::: {.student-more}
+Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa) · Présence : mai 2026 à juillet 2026 (3 mois)\
+**Financement :** Stage de recherche Globalink de Mitacs\
+**Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+:::
+:::
 
 ::: {.student}
 **Shreya Kumar** [(Dir.)]{.role-tag} — Méthodes géostatistiques pour les motifs complexes de la Terre : stage en analyse de données
 
 ::: {.student-more}
-Stage de recherche · Direction\
+Présence : mai 2026 à août 2026 (3 mois)\
 Tâches principales : analyse géostatistique
+:::
+:::
+
+::: {.student}
+**Maud Marconcini** [(Dir.)]{.role-tag} — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Présence : juin 2026 à août 2026 (2 mois)
+:::
+:::
+
+::: {.student}
+**Loris Pensa** [(Dir.)]{.role-tag} — Modélisation par substitution de système hydrogéologique en utilisant DeepONet
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Présence : juin 2026 à août 2026 (2 mois)\
+**Financement :** Bourse OPCO
 :::
 :::
 
@@ -75,17 +103,15 @@ Tâches principales : analyse géostatistique
 **Iqra Arshad Mehmood** [(Dir.)]{.role-tag} — Développement d'outils automatisés de modélisation géologique stochastique spécifiquement adaptés aux besoins de l'ingénierie géotechnique
 
 ::: {.student-more}
-Stage de recherche · Direction
+Présence : juillet 2026 à septembre 2026 (3 mois)
 :::
 :::
-
-### Baccalauréat (1er cycle, B.ing.)
 
 ::: {.student}
 **Gabriel Tabash** [(Dir.)]{.role-tag} — Caractérisation hydrogéologique sur le terrain et en laboratoire d'une couverture naturelle pour la restauration d'un parc à résidus
 
 ::: {.student-more}
-Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · Début : septembre 2026\
+Baccalauréat en génie géologique (Polytechnique Montréal) · Présence : août 2026 à décembre 2026 (4 mois)\
 **Financement :** Bourse CRSNG (BRPC) + Supplément FRQNT (BPCA)\
 **Co-superviseure :** [Karine Sylvain](https://www.linkedin.com/in/karine-sylvain-13815b147/?originalSubdomain=ca)
 :::
@@ -95,35 +121,32 @@ Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · D�
 **Xavier Thibeault** [(Dir.)]{.role-tag} — Automatisation du traitement de données géotechniques pour la modélisation automatisée (logiciel ArchPy)
 
 ::: {.student-more}
-Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · Début : septembre 2026\
+Baccalauréat en génie géologique (Polytechnique Montréal) · Présence : août 2026 à décembre 2026 (4 mois)\
 **Financement :** Bourse CRSNG (BRPC) + Supplément FRQNT (BPCA)
 :::
 :::
 
-::: {.student}
-**Loris Pensa** [(Dir.)]{.role-tag} — Modélisation par substitution de système hydrogéologique en utilisant DeepONet
+## Étudiant.e.s diplômé.e.s et stages terminés
 
-::: {.student-more}
-Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Direction · Début : juin 2026\
-**Financement :** Bourse OPCO
-:::
-:::
+### Maîtrise (M.Sc.A.)
 
 ::: {.student}
-**Maud Marconcini** [(Dir.)]{.role-tag} — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
+**Éric Delabrouille** [(Co-Dir.)]{.role-tag} — Étude du ratio de Sharpe comme métrique d'optimisation d'estimation de ressources minières
 
 ::: {.student-more}
-Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur) · Direction · Début : juin 2026
+Maîtrise en génie informatique et logiciel (Polytechnique Montréal) · Diplômé : juin 2026\
+**Financement :** Mitacs Accelerate (Orano Mining)
 :::
 :::
+
+### Stage de recherche
 
 ::: {.student}
-**Mohamed Hfaithia** [(Dir.)]{.role-tag} — Analyse de l'influence de la non-stationnarité des réseaux de fractures sur l'écoulement en environnement minier
+**Balthazar Desrez** [(Dir.)]{.role-tag} — Développement d'une base de données de modèles hydrogéologiques stochastiques pour entraîner des modèles de substitution utilisant des autoencodeurs
 
 ::: {.student-more}
-Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa) · Direction\
-**Financement :** Stage de recherche Globalink de Mitacs\
-**Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+Baccalauréat en génie géologique (Polytechnique Montréal) · Présence : octobre 2025 à avril 2026 (7 mois)\
+**Financement :** Programme UPIR de Polytechnique Montréal
 :::
 :::
 
@@ -131,27 +154,7 @@ Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa) ·
 **Seonghoon Park** [(Dir.)]{.role-tag} — Extraction automatisée des données de forage à partir de rapports PDF grâce à la technologie OCR
 
 ::: {.student-more}
-Baccalauréat en génie informatique (Pohang University of Science and Technology — POSTECH) · Direction · Début : février 2026
-:::
-:::
-
-::: {.student}
-**Balthazar Desrez** [(Dir.)]{.role-tag} — Développement d'une base de données de modèles hydrogéologiques stochastiques pour entraîner des modèles de substitution utilisant des autoencodeurs
-
-::: {.student-more}
-Baccalauréat en génie géologique (Polytechnique Montréal) · Direction · Début : septembre 2025\
-**Financement :** Programme UPIR de Polytechnique Montréal
-:::
-:::
-
-## Étudiant.e.s diplômé.e.s
-
-::: {.student}
-**Éric Delabrouille** [(Co-Dir.)]{.role-tag} — Étude du ratio de Sharpe comme métrique d'optimisation d'estimation de ressources minières
-
-::: {.student-more}
-Maîtrise en génie informatique et logiciel (Polytechnique Montréal) · Co-direction · Diplômé : juin 2026\
-**Financement :** Mitacs Accelerate (Orano Mining)
+Baccalauréat en génie informatique (Pohang University of Science and Technology — POSTECH) · Présence : février 2026 à juin 2026 (4 mois)
 :::
 :::
 
