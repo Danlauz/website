@@ -1,233 +1,35 @@
 [
-  {
-    "category": "journal", "year": "2026",
-    "authors": [["Lauzon", "D."], ["Hörning", "S."], ["Bàrdossy", "A."]],
-    "title": "A generalized FFTMA approach for simulating multivariate non-Gaussian random fields with spatial asymmetry",
-    "venue": "Computers & Geosciences", "details": "212, 106157 (18 pages)",
-    "url": "https://publications.polymtl.ca/73766/"
-  },
-  {
-    "category": "journal", "year": "2025",
-    "authors": [["Lauzon", "D."], ["Straubhaar", "J."], ["Renard", "P."]],
-    "title": "A Deep Generative Model for the Simulation of Discrete Karst Networks",
-    "venue": "Earth and Space Science", "details": "12(10)",
-    "url": "https://publications.polymtl.ca/69264/"
-  },
-  {
-    "category": "journal", "year": "2025",
-    "authors": [["Lauzon", "D."], ["Hörning", "S."]],
-    "title": "Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform",
-    "venue": "Computers & Geosciences", "details": "105878 (38 pages)",
-    "url": "https://publications.polymtl.ca/62683/"
-  },
-  {
-    "category": "journal", "year": "2025",
-    "authors": [["Liang", "X. X."], ["Gloaguen", "E."], ["Claprood", "M."], ["Paradis", "D."], ["Lauzon", "D."]],
-    "title": "Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting",
-    "venue": "Mathematical Geosciences", "details": "23 pages",
-    "url": "https://publications.polymtl.ca/66175/"
-  },
-  {
-    "category": "journal", "year": "2024",
-    "authors": [["Lauzon", "D."]],
-    "title": "A U-Net architecture as a surrogate model combined with a geostatistical spectral algorithm for transient groundwater flow inverse problems",
-    "venue": "Advances in Water Resources", "details": "189, 104726 (14 pages)",
-    "url": "https://publications.polymtl.ca/58658/"
-  },
-  {
-    "category": "journal", "year": "2024",
-    "authors": [["Lauzon", "D."], ["Gloaguen", "E."]],
-    "title": "Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning and Random Forest: A case study of copper mineralization in the Superior Craton Province, Quebec, Canada",
-    "venue": "Ore Geology Reviews", "details": "166, 105918 (16 pages)",
-    "url": "https://publications.polymtl.ca/57570/"
-  },
-  {
-    "category": "journal", "year": "2023",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "Joint hydrofacies-hydraulic conductivity modeling based on a constructive spectral algorithm constrained by transient head data",
-    "venue": "Hydrogeology Journal", "details": "31(6), 1647-1664",
-    "url": "https://doi.org/10.1007/s10040-023-02638-1"
-  },
-  {
-    "category": "journal", "year": "2022",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "Statistical comparison of variogram-based inversion methods for conditioning to indirect data",
-    "venue": "Computers & Geosciences", "details": "160, 105032 (15 pages)",
-    "url": "https://publications.polymtl.ca/50419/"
-  },
-  {
-    "category": "journal", "year": "2020",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "Calibration of random fields by a sequential spectral turning bands method",
-    "venue": "Computers & Geosciences", "details": "135, 104390 (13 pages)",
-    "url": "https://publications.polymtl.ca/44481/"
-  },
-  {
-    "category": "journal", "year": "2020",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "The sequential spectral turning band simulator as an alternative to Gibbs sampler in large truncated- or pluri-Gaussian simulations",
-    "venue": "Stochastic Environmental Research and Risk Assessment", "details": "34(11), 1939-1951",
-    "url": "https://publications.polymtl.ca/45764/"
-  },
-  {
-    "category": "journal", "year": "2019",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "Calibration of random fields by FFTMA-SA",
-    "venue": "Computers & Geosciences", "details": "127, 99-110",
-    "url": "https://publications.polymtl.ca/42989/"
-  },
-  {
-    "category": "conf_oral", "year": "2025",
-    "authors": [["Lauzon", "D."], ["Hörning", "S."], ["Bárdossy", "A."]],
-    "title": "A novel framework for stochastic simulation of multivariate non-Gaussian random fields in environmental and geological studies",
-    "venue": "EGU General Assembly 2025, Vienna, Austria",
-    "url": "https://publications.polymtl.ca/63440/"
-  },
-  {
-    "category": "conf_oral", "year": "2025",
-    "authors": [["Hoerning", "S."], ["Lauzon", "D."], ["Bárdossy", "A."]],
-    "title": "Spectral methods for non-linear co-regionalization",
-    "venue": "EGU General Assembly 2025, Vienna, Austria",
-    "url": "https://publications.polymtl.ca/64477/"
-  },
-  {
-    "category": "conf_oral", "year": "2024",
-    "authors": [["Lauzon", "D."]],
-    "title": "Deep neural networks in surrogate hydrogeological modeling: an application for transient groundwater flow combined with a geostatistical spectral algorithm for inverse problem-solving",
-    "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
-    "url": "https://publications.polymtl.ca/58915/"
-  },
-  {
-    "category": "conf_oral", "year": "2024",
-    "authors": [["Straubhaar", "J."], ["Lauzon", "D."], ["Renard", "P."]],
-    "title": "Graph recurrent neural networks for stochastic simulation of Karst network topology and properties",
-    "venue": "15th International Conference on Geostatistics for Environmental Applications (GeoEnv 2024), Chania, Greece",
-    "url": "https://publications.polymtl.ca/58931/"
-  },
-  {
-    "category": "conf_article", "year": "2022",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data. Application to aquifer models",
-    "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
-    "url": "https://publications.polymtl.ca/66955/"
-  },
-  {
-    "category": "conf_poster", "year": "2022",
-    "authors": [["Lauzon", "D."], ["Marcotte", "D."]],
-    "title": "On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data. Application to aquifer models",
-    "venue": "14th International Conference on Geostatistics for Environmental Applications (GeoEnv 2022), Parma, Italia",
-    "url": "https://publications.polymtl.ca/58581/"
-  },
-  {
-    "category": "thesis", "year": "2022",
-    "authors": [["Lauzon", "D."]],
-    "title": "Développement d'algorithmes pour le calage de modèles géologiques par méthodes géostatistiques discrètes et spectrales",
-    "note": "Thèse de doctorat, Polytechnique Montréal",
-    "url": "https://publications.polymtl.ca/10318/"
-  },
-  {
-    "category": "book", "year": "2025",
-    "authors": [["Lauzon", "D."]],
-    "title": "Géostatistique et géologie minière",
-    "note": "Notes de cours",
-    "url": "https://publications.polymtl.ca/70224/"
-  },
-  {
-    "category": "workshop", "year": "2026",
-    "authors": [["Liang", "X. X."], ["Wen", "T."], ["Lauzon", "D."]],
-    "title": "Fundamental Deep Learning Concepts for Applied Geoscientists",
-    "venue": "IAMG 2026, Montréal, Canada",
-    "url": ""
-  },
-  {
-    "category": "journal", "year": "2026",
-    "authors": [["Pugliese"]], "etal": true,
-    "title": "Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach",
-    "venue": "",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2024",
-    "authors": [["Lauzon", "D."]], "etal": true,
-    "title": "Geostatistical analysis of geotechnical uncertainty risk assessment in engineering projects",
-    "venue": "GeoMTL 2024",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2026",
-    "authors": [["Straubhaar", "J."]], "etal": true,
-    "title": "Deep learning karst network generator",
-    "venue": "EuroKarst 2026",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2026",
-    "authors": [["Dion"]], "etal": true,
-    "title": "Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability",
-    "venue": "IGSHPA 2026",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2026",
-    "authors": [["Brisebois"]], "etal": true,
-    "title": "Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for k profiling",
-    "venue": "IGSHPA 2026",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2026",
-    "authors": [["Lauzon", "D."]], "etal": true,
-    "title": "From Data to Decisions: How Geostatistics Supports Geotechnical Engineering",
-    "venue": "GeoQuébec 2026",
-    "url": ""
-  },
-  {
-    "category": "conf_article", "year": "2026",
-    "authors": [["Tagne Nkounga"]], "etal": true,
-    "title": "Automatic Spatial Inference of Stratigraphic Piles under Non-Stationary Conditions from Borehole Data",
-    "venue": "GeoQuébec 2026",
-    "url": ""
-  },
-  {
-    "category": "conf_oral", "year": "2026",
-    "authors": [["Renard", "P."]], "etal": true,
-    "title": "Karst network simulation with statistical learning",
-    "venue": "EGU General Assembly 2026, Vienna, Austria",
-    "url": ""
-  },
-  {
-    "category": "conf_oral", "year": "2026",
-    "authors": [["Tanaka"]], "etal": true,
-    "title": "Fracture network modeling with graph deep learning",
-    "venue": "EGU General Assembly 2026, Vienna, Austria",
-    "url": ""
-  },
-  {
-    "category": "conf_oral", "year": "2026",
-    "authors": [["Liang", "X. X."]], "etal": true,
-    "title": "Evaluating the influence of temporal data resolution on the performance of DNN",
-    "venue": "IAMG 2026, Montréal, Canada",
-    "url": ""
-  },
-  {
-    "category": "conf_oral", "year": "2026",
-    "authors": [["de Magalhaes"]], "etal": true,
-    "title": "A Bayesian–Geostatistical Framework for Inferring Fracture Volumetric Intensity in Rock Masses from Multiple Data Sources",
-    "venue": "IAMG 2026, Montréal, Canada",
-    "url": ""
-  },
-  {
-    "category": "conf_poster", "year": "2026",
-    "authors": [["Arega"]], "etal": true,
-    "title": "Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec",
-    "venue": "IAH 2026, Canada",
-    "url": ""
-  },
-  {
-    "category": "session", "year": "2026",
-    "authors": [["Dimitrakopoulos", "R."], ["Lauzon", "D."]],
-    "title": "Multi-point and High-order simulations",
-    "venue": "IAMG 2026, Montréal, Canada",
-    "url": ""
-  }
+  {"category":"journal","year":"2026","authors":[["Lauzon","D."],["Hörning","S."],["Bàrdossy","A."]],"title":"A generalized FFTMA approach for simulating multivariate non-Gaussian random fields with spatial asymmetry","venue":"Computers & Geosciences","details":"212, 106157 (18 pages)","url":"https://publications.polymtl.ca/73766/"},
+  {"category":"journal","year":"2025","authors":[["Lauzon","D."],["Straubhaar","J."],["Renard","P."]],"title":"A Deep Generative Model for the Simulation of Discrete Karst Networks","venue":"Earth and Space Science","details":"12(10)","url":"https://publications.polymtl.ca/69264/"},
+  {"category":"journal","year":"2025","authors":[["Lauzon","D."],["Hörning","S."]],"title":"Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform","venue":"Computers & Geosciences","details":"105878 (38 pages)","url":"https://publications.polymtl.ca/62683/"},
+  {"category":"journal","year":"2025","authors":[["Liang","X. X."],["Gloaguen","E."],["Claprood","M."],["Paradis","D."],["Lauzon","D."]],"title":"Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting","venue":"Mathematical Geosciences","details":"23 pages","url":"https://publications.polymtl.ca/66175/"},
+  {"category":"journal","year":"2024","authors":[["Lauzon","D."]],"title":"A U-Net architecture as a surrogate model combined with a geostatistical spectral algorithm for transient groundwater flow inverse problems","venue":"Advances in Water Resources","details":"189, 104726 (14 pages)","url":"https://publications.polymtl.ca/58658/"},
+  {"category":"journal","year":"2024","authors":[["Lauzon","D."],["Gloaguen","E."]],"title":"Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning and Random Forest","venue":"Ore Geology Reviews","details":"166, 105918 (16 pages)","url":"https://publications.polymtl.ca/57570/"},
+  {"category":"journal","year":"2023","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"Joint hydrofacies-hydraulic conductivity modeling based on a constructive spectral algorithm constrained by transient head data","venue":"Hydrogeology Journal","details":"31(6), 1647-1664","url":"https://doi.org/10.1007/s10040-023-02638-1"},
+  {"category":"journal","year":"2022","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"Statistical comparison of variogram-based inversion methods for conditioning to indirect data","venue":"Computers & Geosciences","details":"160, 105032 (15 pages)","url":"https://publications.polymtl.ca/50419/"},
+  {"category":"journal","year":"2020","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"Calibration of random fields by a sequential spectral turning bands method","venue":"Computers & Geosciences","details":"135, 104390 (13 pages)","url":"https://publications.polymtl.ca/44481/"},
+  {"category":"journal","year":"2020","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"The sequential spectral turning band simulator as an alternative to Gibbs sampler in large truncated- or pluri-Gaussian simulations","venue":"Stochastic Environmental Research and Risk Assessment","details":"34(11), 1939-1951","url":"https://publications.polymtl.ca/45764/"},
+  {"category":"journal","year":"2019","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"Calibration of random fields by FFTMA-SA","venue":"Computers & Geosciences","details":"127, 99-110","url":"https://publications.polymtl.ca/42989/"},
+  {"category":"journal","year":"2026","authors":[["Pugliese","E."],["Lauzon","D."],["Gargini","A."],["Dematteis","A."],["Rodani","S."],["Benedetti","G."]],"title":"Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach","venue":"Hydrogeology Journal","details":"","url":"https://doi.org/10.1007/s10040-026-03102-6"},
+  {"category":"conf_article","year":"2022","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"On a constructive spectral method for conditioning pluriGaussian simulations to boreholes observations and indirect data","venue":"GeoEnv 2022, Parma, Italia","url":"https://publications.polymtl.ca/66955/"},
+  {"category":"conf_article","year":"2024","authors":[["Kfoury","M."],["Roy","S."],["Langevin","M."],["Lauzon","D."],["Gosselin","Y."]],"title":"Geostatistical analysis of geotechnical uncertainty: risk assessment in engineering projects","venue":"GeoMTL 2024","url":""},
+  {"category":"conf_article","year":"2026","authors":[["Straubhaar","J."],["Lauzon","D."],["Renard","P."]],"title":"Deep learning karst network generator","venue":"EuroKarst 2026","url":""},
+  {"category":"conf_article","year":"2026","authors":[["Dion","G."],["Pasquier","P."],["Lauzon","D."]],"title":"Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability","venue":"IGSHPA 2026","url":""},
+  {"category":"conf_article","year":"2026","authors":[["Brisebois","O."],["Lauzon","D."],["Pasquier","P."]],"title":"Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for hydraulic conductivity profiling","venue":"IGSHPA 2026","url":""},
+  {"category":"conf_article","year":"2026","authors":[["Lauzon","D."]],"title":"From Data to Decisions: How Geostatistics Supports Geotechnical Engineering","venue":"GeoQuébec 2026","url":""},
+  {"category":"conf_article","year":"2026","authors":[["Tagne Nkounga","I. B."],["Lauzon","D."]],"title":"Automatic Spatial Inference of Stratigraphic Piles under Non-Stationary Conditions from Borehole Data","venue":"GeoQuébec 2026","url":""},
+  {"category":"conf_oral","year":"2025","authors":[["Lauzon","D."],["Hörning","S."],["Bárdossy","A."]],"title":"A novel framework for stochastic simulation of multivariate non-Gaussian random fields","venue":"EGU General Assembly 2025, Vienna, Austria","url":"https://publications.polymtl.ca/63440/"},
+  {"category":"conf_oral","year":"2025","authors":[["Hörning","S."],["Lauzon","D."],["Bárdossy","A."]],"title":"Spectral methods for non-linear co-regionalization","venue":"EGU General Assembly 2025, Vienna, Austria","url":"https://publications.polymtl.ca/64477/"},
+  {"category":"conf_oral","year":"2024","authors":[["Lauzon","D."]],"title":"Deep neural networks in surrogate hydrogeological modeling","venue":"GeoEnv 2024, Chania, Greece","url":"https://publications.polymtl.ca/58915/"},
+  {"category":"conf_oral","year":"2024","authors":[["Straubhaar","J."],["Lauzon","D."],["Renard","P."]],"title":"Graph recurrent neural networks for stochastic simulation of Karst network topology and properties","venue":"GeoEnv 2024, Chania, Greece","url":"https://publications.polymtl.ca/58931/"},
+  {"category":"conf_oral","year":"2026","authors":[["Renard","P."],["Straubhaar","J."],["Lauzon","D."],["Trunz","C."]],"title":"Karst network simulation with statistical learning","venue":"EGU General Assembly 2026, Vienna, Austria","url":"https://doi.org/10.5194/egusphere-egu26-18554"},
+  {"category":"conf_oral","year":"2026","authors":[["Burgoa Tanaka","A. P."],["Renard","P."],["Liang","X. X."],["Straubhaar","J."],["Lauzon","D."]],"title":"Fracture network modeling with graph deep learning","venue":"EGU General Assembly 2026, Vienna, Austria","url":"https://doi.org/10.5194/egusphere-egu26-11471"},
+  {"category":"conf_oral","year":"2026","authors":[["Liang","X. X."],["Lauzon","D."],["Gloaguen","E."],["Claprood","M."],["Straubhaar","J."],["Renard","P."]],"title":"Evaluating the influence of temporal data resolution on the performance of deep neural networks for karst groundwater forecasting","venue":"IAMG 2026, Montréal, Canada","url":""},
+  {"category":"conf_oral","year":"2026","authors":[["de Magalhães","G."],["Cacciari","P."],["Lauzon","D."]],"title":"A Bayesian–Geostatistical Framework for Inferring Fracture Volumetric Intensity in Rock Masses from Multiple Data Sources","venue":"IAMG 2026, Montréal, Canada","url":""},
+  {"category":"conf_poster","year":"2022","authors":[["Lauzon","D."],["Marcotte","D."]],"title":"On a constructive spectral method for conditioning pluriGaussian simulations (poster)","venue":"GeoEnv 2022, Parma, Italia","url":"https://publications.polymtl.ca/58581/"},
+  {"category":"conf_poster","year":"2026","authors":[["Arega","K. A."],["Benoit","N."],["Lauzon","D."],["Bédard","K."]],"title":"Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec","venue":"IAH 2026, Canada","url":""},
+  {"category":"session","year":"2026","authors":[["Dimitrakopoulos","R."],["Lauzon","D."]],"title":"Multi-point and High-order simulations","venue":"IAMG 2026, Montréal, Canada","url":""},
+  {"category":"thesis","year":"2022","authors":[["Lauzon","D."]],"title":"Développement d'algorithmes pour le calage de modèles géologiques","note":"Thèse de doctorat, Polytechnique Montréal","url":"https://publications.polymtl.ca/10318/"},
+  {"category":"book","year":"2025","authors":[["Lauzon","D."]],"title":"Géostatistique et géologie minière","note":"Notes de cours","url":"https://publications.polymtl.ca/70224/"},
+  {"category":"workshop","year":"2026","authors":[["Liang","X. X."],["Wen","T."],["Lauzon","D."]],"title":"Fundamental Deep Learning Concepts for Applied Geoscientists","venue":"IAMG 2026, Montréal, Canada","url":""}
 ]

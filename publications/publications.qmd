@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+Mon nom apparaît en gras. Un astérisque (\*) signale un·e étudiant·e que je supervise.
+
 ## Articles de revue par les pairs
 
 ### 2026
@@ -11,7 +13,7 @@ title: "Publications"
 :::
 
 ::: {.publication-item}
-Pugliese et al. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach.
+Pugliese, E., **Lauzon, D.**, Gargini, A., Dematteis, A., Rodani, S., & Benedetti, G. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach. *Hydrogeology Journal*. [lien](https://doi.org/10.1007/s10040-026-03102-6)
 :::
 
 ### 2025
@@ -71,27 +73,27 @@ Liang, X. X., Gloaguen, E., Claprood, M., Paradis, D., & **Lauzon, D.** (2025). 
 ### Articles de conférence revus par les pairs
 
 ::: {.publication-item}
-Straubhaar, J. et al. (2026). *Deep learning karst network generator*. EuroKarst 2026.
+Straubhaar, J., **Lauzon, D.**, & Renard, P. (2026). *Deep learning karst network generator*. EuroKarst 2026.
 :::
 
 ::: {.publication-item}
-Dion et al. (2026). *Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability*. IGSHPA 2026.
+Dion, G., Pasquier, P., & **Lauzon, D.** (2026). *Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability*. IGSHPA 2026.
 :::
 
 ::: {.publication-item}
-Brisebois et al. (2026). *Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for k profiling*. IGSHPA 2026.
+Brisebois, O.\*, **Lauzon, D.**, & Pasquier, P. (2026). *Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for hydraulic conductivity profiling*. IGSHPA 2026.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** et al. (2026). *From Data to Decisions: How Geostatistics Supports Geotechnical Engineering*. GeoQuébec 2026.
+**Lauzon, D.** (2026). *From Data to Decisions: How Geostatistics Supports Geotechnical Engineering*. GeoQuébec 2026.
 :::
 
 ::: {.publication-item}
-Tagne Nkounga et al. (2026). *Automatic Spatial Inference of Stratigraphic Piles under Non-Stationary Conditions from Borehole Data*. GeoQuébec 2026.
+Tagne Nkounga, I. B.\*, & **Lauzon, D.** (2026). *Automatic Spatial Inference of Stratigraphic Piles under Non-Stationary Conditions from Borehole Data*. GeoQuébec 2026.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** et al. (2024). *Geostatistical analysis of geotechnical uncertainty risk assessment in engineering projects*. GeoMTL 2024.
+Kfoury, M., Roy, S., Langevin, M., **Lauzon, D.**, & Gosselin, Y. (2024). *Geostatistical analysis of geotechnical uncertainty: risk assessment in engineering projects*. GeoMTL 2024.
 :::
 
 ::: {.publication-item}
@@ -101,19 +103,19 @@ Tagne Nkounga et al. (2026). *Automatic Spatial Inference of Stratigraphic Piles
 ### Présentations orales
 
 ::: {.publication-item}
-Renard, P. et al. (2026). *Karst network simulation with statistical learning*. EGU General Assembly 2026, Vienna, Austria.
+Renard, P., Straubhaar, J., **Lauzon, D.**, & Trunz, C. (2026). *Karst network simulation with statistical learning*. EGU General Assembly 2026, Vienna, Austria. [lien](https://doi.org/10.5194/egusphere-egu26-18554)
 :::
 
 ::: {.publication-item}
-Tanaka et al. (2026). *Fracture network modeling with graph deep learning*. EGU General Assembly 2026, Vienna, Austria.
+Burgoa Tanaka, A. P., Renard, P., Liang, X. X., Straubhaar, J., & **Lauzon, D.** (2026). *Fracture network modeling with graph deep learning*. EGU General Assembly 2026, Vienna, Austria. [lien](https://doi.org/10.5194/egusphere-egu26-11471)
 :::
 
 ::: {.publication-item}
-Liang, X. X. et al. (2026). *Evaluating the influence of temporal data resolution on the performance of DNN*. IAMG 2026, Montréal, Canada.
+Liang, X. X., **Lauzon, D.**, Gloaguen, E., Claprood, M., Straubhaar, J., & Renard, P. (2026). *Evaluating the influence of temporal data resolution on the performance of deep neural networks for karst groundwater forecasting*. IAMG 2026, Montréal, Canada.
 :::
 
 ::: {.publication-item}
-de Magalhaes et al. (2026). *A Bayesian–Geostatistical Framework for Inferring Fracture Volumetric Intensity in Rock Masses from Multiple Data Sources*. IAMG 2026, Montréal, Canada.
+de Magalhães, G., Cacciari, P., & **Lauzon, D.** (2026). *A Bayesian–Geostatistical Framework for Inferring Fracture Volumetric Intensity in Rock Masses from Multiple Data Sources*. IAMG 2026, Montréal, Canada.
 :::
 
 ::: {.publication-item}
@@ -121,7 +123,7 @@ de Magalhaes et al. (2026). *A Bayesian–Geostatistical Framework for Inferring
 :::
 
 ::: {.publication-item}
-Hoerning, S., **Lauzon, D.**, & Bárdossy, A. (2025). *Spectral methods for non-linear co-regionalization*. EGU General Assembly 2025, Vienna, Austria. [lien](https://publications.polymtl.ca/64477/)
+Hörning, S., **Lauzon, D.**, & Bárdossy, A. (2025). *Spectral methods for non-linear co-regionalization*. EGU General Assembly 2025, Vienna, Austria. [lien](https://publications.polymtl.ca/64477/)
 :::
 
 ::: {.publication-item}
@@ -135,7 +137,7 @@ Straubhaar, J., **Lauzon, D.**, & Renard, P. (2024). *Graph recurrent neural net
 ### Affiches
 
 ::: {.publication-item}
-Arega et al. (2026). *Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec*. IAH 2026, Canada.
+Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec*. IAH 2026, Canada.
 :::
 
 ::: {.publication-item}

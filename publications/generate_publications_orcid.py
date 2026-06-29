@@ -24,6 +24,11 @@ from pathlib import Path
 ORCID_ID    = "0000-0001-7774-4460"
 CONTACT     = "dany.lauzon@polymtl.ca"
 BOLD_FAMILY = "lauzon"
+# Noms de famille (en minuscules) des étudiant·e·s que je supervise (tirés de la page
+# Étudiant·e·s) : tout auteur dont le nom y figure est marqué d'une étoile.
+STUDENTS    = {"arega", "tagne nkounga", "brisebois", "zaghdoud mouihbi", "mouihbi",
+               "tabash", "thibeault", "pensa", "marconcini", "hfaithia", "park",
+               "desrez", "delabrouille"}
 OWNER       = ["Lauzon", "D."]
 DIR         = Path(__file__).resolve().parent
 SUPP_PATH   = DIR / "supplement.json"
@@ -49,7 +54,8 @@ TITLES = {
          "session": "Sessions organisées",
          "workshop": "Ateliers et formations",
          "thesis": "Thèses", "book": "Livres et ressources pédagogiques",
-         "page": "Publications", "updated": "Dernière mise à jour", "total": "publications", "link": "lien"},
+         "page": "Publications", "updated": "Dernière mise à jour", "total": "publications", "link": "lien",
+         "legend": "Mon nom apparaît en gras. Un astérisque (\\*) signale un·e étudiant·e que je supervise."},
   "en": {"journal": "Peer-reviewed journal articles",
          "conf_group": "Conferences",
          "conf_article": "Peer-reviewed conference papers",
@@ -58,7 +64,8 @@ TITLES = {
          "session": "Convened sessions",
          "workshop": "Workshops and training",
          "thesis": "Theses", "book": "Books and educational resources",
-         "page": "Publications", "updated": "Last updated", "total": "publications", "link": "link"},
+         "page": "Publications", "updated": "Last updated", "total": "publications", "link": "link",
+         "legend": "My name appears in bold. An asterisk (\\*) marks a student under my supervision."},
 }
 MONTHS_FR = ["", "janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
 MONTHS_EN = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -158,6 +165,8 @@ def format_authors(authors, etal=False):
         name = fam + (", " + giv if giv else "")
         if fam.lower() == BOLD_FAMILY:
             name = "**" + name + "**"
+        elif fam.lower() in STUDENTS:
+            name = name + "\\*"
         parts.append(name)
     if etal:
         if not parts:
@@ -228,7 +237,7 @@ def build_page(records, lang):
     t = TITLES[lang]
     today = time.localtime()
     months = MONTHS_FR if lang == "fr" else MONTHS_EN
-    out = ["---", f'title: "{t["page"]}"', "---", ""]
+    out = ["---", f'title: "{t["page"]}"', "---", "", t["legend"], ""]
     total = 0
     for item in LAYOUT:
         if item[0] == "simple":
