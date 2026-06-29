@@ -14,12 +14,12 @@ I am open to new applications (B.Eng., M.Eng., M.Sc.A. and Ph.D.) for research p
 
 ## Current Students
 
-*Click a name to show the details.*
+*Click a name to show the details. Tags: [(Supervisor)]{.role-tag} lead supervisor · [(Co-supervisor)]{.role-tag} co-supervisor.*
 
 ### Doctoral (Ph.D.)
 
 ::: {.student}
-**Kassahun Aweke Arega** — Geostatistical approach for modeling groundwater recharge in Abitibi–Témiscamingue
+**Kassahun Aweke Arega** [(Supervisor)]{.role-tag} — Geostatistical approach for modeling groundwater recharge in Abitibi–Témiscamingue
 
 ::: {.student-more}
 Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: September 2025\
@@ -29,7 +29,7 @@ Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: S
 :::
 
 ::: {.student}
-**Innocent Boris Tagne Nkounga** — Automation of subsurface modeling using geostatistics for geotechnical applications
+**Innocent Boris Tagne Nkounga** [(Supervisor)]{.role-tag} — Automation of subsurface modeling using geostatistics for geotechnical applications
 
 ::: {.student-more}
 Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: January 2025
@@ -39,7 +39,7 @@ Ph.D. in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: J
 ### Master's (M.Sc.A.)
 
 ::: {.student}
-**Olivier Brisebois** — Statistical inference and modeling of water inflows for characterizing apparent hydraulic conductivity in standpipe wells
+**Olivier Brisebois** [(Supervisor)]{.role-tag} — Statistical inference and modeling of water inflows for characterizing apparent hydraulic conductivity in standpipe wells
 
 ::: {.student-more}
 Master's in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start: September 2024\
@@ -51,29 +51,48 @@ Master's in Mineral Engineering (Polytechnique Montréal) · Supervisor · Start
 ### Master's Internship (MS)
 
 ::: {.student}
-**Meriam Zaghdoud Mouihbi** — Development of automated tools for stochastic geological modeling of soil–groundwater physical interactions in a geotechnical-environmental context
+**Meriam Zaghdoud Mouihbi** [(Supervisor)]{.role-tag} — Development of automated tools for stochastic geological modeling of soil–groundwater physical interactions in a geotechnical-environmental context
 
 ::: {.student-more}
-Master's in Applied Geology for the Environment (University of Tunis El Manar) · Co-supervisor\
+Master's in Applied Geology for the Environment (University of Tunis El Manar) · Supervisor\
 **Funding:** Mitacs Globalink Research Internship\
 **Co-supervisor:** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
+:::
+:::
+
+### Research Internship
+
+::: {.student}
+**Shreya Kumar** [(Supervisor)]{.role-tag} — Geostatistical Methods for Complex Earth Patterns: Internship in Data Analysis
+
+::: {.student-more}
+Research internship · Supervisor\
+Main tasks: geostatistical analysis
+:::
+:::
+
+::: {.student}
+**Iqra Arshad Mehmood** [(Supervisor)]{.role-tag} — Development of Automated Stochastic Geological Modeling Tools Specifically Adapted to the Requirements of Geotechnical Engineering
+
+::: {.student-more}
+Research internship · Supervisor
 :::
 :::
 
 ### Undergraduate (B.Eng.)
 
 ::: {.student}
-**Gabriel Tabash** — Field and laboratory hydrogeological characterization of a natural cover for tailings storage facility restoration
+**Gabriel Tabash** [(Supervisor)]{.role-tag} — Field and laboratory hydrogeological characterization of a natural cover for tailings storage facility restoration
 
 ::: {.student-more}
-Bachelor in Geological Engineering (Polytechnique Montréal) · Co-supervisor · Start: September 2026\
+Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · Start: September 2026\
 **Funding:** NSERC Scholarship (USRA) + FRQNT Supplement (BPCA)\
 **Co-supervisor:** [Karine Sylvain](https://www.linkedin.com/in/karine-sylvain-13815b147/?originalSubdomain=ca)
 :::
 :::
 
 ::: {.student}
-**Xavier Thibeault** — Automation of geotechnical data processing for automated modeling (ArchPy software)
+**Xavier Thibeault** [(Supervisor)]{.role-tag} — Automation of geotechnical data processing for automated modeling (ArchPy software)
 
 ::: {.student-more}
 Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · Start: September 2026\
@@ -82,7 +101,7 @@ Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · St
 :::
 
 ::: {.student}
-**Loris Pensa** — Surrogate modeling of hydrogeological systems using DeepONet
+**Loris Pensa** [(Supervisor)]{.role-tag} — Surrogate modeling of hydrogeological systems using DeepONet
 
 ::: {.student-more}
 Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur) · Supervisor · Start: June 2026\
@@ -91,7 +110,7 @@ Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'A
 :::
 
 ::: {.student}
-**Maud Marconcini** — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
+**Maud Marconcini** [(Supervisor)]{.role-tag} — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
 
 ::: {.student-more}
 Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur) · Supervisor · Start: June 2026
@@ -99,17 +118,17 @@ Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'A
 :::
 
 ::: {.student}
-**Mohamed Hfaithia** — Analysis of the influence of fracture network non-stationarity on flow in mining environments
+**Mohamed Hfaithia** [(Supervisor)]{.role-tag} — Analysis of the influence of fracture network non-stationarity on flow in mining environments
 
 ::: {.student-more}
-Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa) · Co-supervisor\
+Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa) · Supervisor\
 **Funding:** Mitacs Globalink Research Internship\
 **Co-supervisor:** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
 :::
 :::
 
 ::: {.student}
-**Seonghoon Park** — Automated extraction of drilling data from PDF reports using OCR technology
+**Seonghoon Park** [(Supervisor)]{.role-tag} — Automated extraction of drilling data from PDF reports using OCR technology
 
 ::: {.student-more}
 Bachelor in Computer Engineering (Pohang University of Science and Technology — POSTECH) · Supervisor · Start: February 2026
@@ -117,7 +136,7 @@ Bachelor in Computer Engineering (Pohang University of Science and Technology �
 :::
 
 ::: {.student}
-**Balthazar Desrez** — Development of a database of stochastic hydrogeological models to train surrogate models using autoencoders
+**Balthazar Desrez** [(Supervisor)]{.role-tag} — Development of a database of stochastic hydrogeological models to train surrogate models using autoencoders
 
 ::: {.student-more}
 Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · Start: September 2025\
@@ -128,7 +147,7 @@ Bachelor in Geological Engineering (Polytechnique Montréal) · Supervisor · St
 ## Graduated Students
 
 ::: {.student}
-**Éric Delabrouille** — Study of the Sharpe ratio as an optimization metric for mineral resource estimation
+**Éric Delabrouille** [(Co-supervisor)]{.role-tag} — Study of the Sharpe ratio as an optimization metric for mineral resource estimation
 
 ::: {.student-more}
 Master's in Software and Computer Engineering (Polytechnique Montréal) · Co-supervisor · Graduated: June 2026\

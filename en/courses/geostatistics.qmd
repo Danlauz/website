@@ -1,18 +1,43 @@
 ---
-title: "Course notes — Geostatistics and Mining Geology"
+title: "Teaching"
+pagetitle: "Teaching — Dany Lauzon"
 ---
 
-Open-access course notes for **GLQ3401 — Geostatistics and Mining Geology** and **GLQ3651 — Mining Geology**.
-
-::: {.card .hover-lift}
-::: {.card-header}
-### Course notes website
-:::
-::: {.card-body}
-The full course material is published online and updated each term.
+I teach geostatistics and mining geology at Polytechnique Montréal, in the courses GLQ3401 — Geostatistics and Mining Geology and GLQ3651 — Mining Geology. The course notes are open access and updated each term. The book is written in French.
 
 [{{< fa book-open >}} Open the course notes](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
-:::
-:::
 
-*This page can be expanded with the syllabus, learning objectives and resources — let me know what you'd like to include.*
+## Course notes — Geostatistics and Mining Geology
+
+Thirteen chapters in three parts, with appendices.
+
+### Part I — Mining geology
+
+1. NI 43-101 Technical Report and the Mining Act
+2. Economic aspects
+3. Gy's sampling theory and quality control
+4. Processing and statistical analysis of drilling data
+5. Deterministic methods for resource estimation
+
+### Part II — Linear geostatistics
+
+6. Introduction to geostatistics
+7. The variogram
+8. Block, dispersion and estimation variance
+9. Kriging
+
+### Part III — Non-linear geostatistics
+
+10. Multivariate geostatistics
+11. Indicator kriging
+12. Geostatistical simulation of continuous variables
+13. Geostatistical simulation of categorical variables
+
+### Appendices
+
+- A — Linear algebra: vectors and planes
+- B — Probability and statistics
+- C — Standard normal distribution table
+- D — Charts: dispersion variances
+- E — Charts: estimation variances
+- G — Mathematical notation

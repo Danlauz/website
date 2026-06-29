@@ -20,7 +20,7 @@ Stochastic modeling of the subsurface using geostatistical methods and machine l
 [{{< fa envelope >}} Email](mailto:dany.lauzon@polymtl.ca)
 [{{< fa brands github >}} GitHub](https://github.com/Danlauz)
 [{{< fa brands linkedin >}} LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115)
-[{{< fa brands google-scholar >}} Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+[{{< fa brands google-scholar >}} Scholar](https://scholar.google.com/citations?user=1ltoBQIAAAAJ&hl=en)
 [{{< fa brands orcid >}} ORCID](https://orcid.org/0000-0001-7774-4460)
 :::
 ::::
@@ -199,6 +199,6 @@ Email
 ::: {.label}
 Profiles
 :::
-[GitHub](https://github.com/Danlauz) · [LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115) · [Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+[GitHub](https://github.com/Danlauz) · [LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115) · [Scholar](https://scholar.google.com/citations?user=1ltoBQIAAAAJ&hl=en)
 :::
 :::

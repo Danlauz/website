@@ -116,6 +116,12 @@ html { scroll-behavior: smooth; }
   margin-top: .55rem; color: var(--gsp-muted, #646c78);
   font-size: .93rem; line-height: 1.7;
 }
+/* Indicatif de rôle de supervision (Dir.) / (Co-Dir.) */
+.role-tag {
+  font-size: .72em; font-weight: 700; letter-spacing: .02em;
+  color: var(--gsp-accent, #0067a6);
+  text-transform: uppercase; white-space: nowrap; margin: 0 .15rem;
+}
 .student.collapsible > p:first-child { cursor: pointer; padding-right: 1.4rem; }
 .student.collapsible::after {
   content: ""; position: absolute; right: .3rem; top: 1.15rem;

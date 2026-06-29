@@ -1,18 +1,41 @@
 ---
 title: "Notes de cours — Géostatistique et géologie minière"
+pagetitle: "Notes de cours — Dany Lauzon"
 ---
 
-::: {.card .hover-lift}
-::: {.card-header}
-### Notes de cours
-:::
-::: {.card-body}
-**Auteur :** Dany Lauzon · **Langue :** Français
-
-Notes de cours pour la géostatistique et la géologie minière, en accès libre.
+Notes de cours en accès libre, rédigées par Dany Lauzon pour les cours GLQ3401 — Géostatistique et géologie minières et GLQ3651 — Géologie minière. Langue : français. Le matériel est mis à jour au fil des sessions.
 
 [{{< fa book-open >}} Consulter les notes de cours](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
-:::
-:::
 
-*Contenu à compléter (table des matières, format, licence) selon ce que vous souhaitez présenter.*
+## Table des matières
+
+### Partie I — Géologie minière
+
+1. Rapport technique NI 43-101 et Loi sur les mines
+2. Aspect économique
+3. Théorie de Gy et contrôle qualité
+4. Traitement et analyse statistique des données de forage
+5. Méthodes déterministes d'estimation des ressources
+
+### Partie II — Géostatistique linéaire
+
+6. Introduction à la géostatistique
+7. Variogramme
+8. Variance de blocs, de dispersion et d'estimation
+9. Krigeage
+
+### Partie III — Géostatistique non-linéaire
+
+10. Géostatistique multivariable
+11. Krigeage d'indicatrices
+12. Simulations géostatistiques de variable continue
+13. Simulations géostatistiques de variable catégorielle
+
+### Annexes
+
+- A — Algèbre linéaire : vecteurs et plans
+- B — Probabilités et statistiques
+- C — Table de la loi normale centrée réduite
+- D — Abaques : variances de dispersion
+- E — Abaques : variances d'estimation
+- G — Notation mathématique

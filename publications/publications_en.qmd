@@ -9,63 +9,63 @@ My name appears in bold. An asterisk (\*) marks a student under my supervision.
 ### 2026
 
 ::: {.publication-item}
-**Lauzon, D.**, Hörning, S., & Bàrdossy, A. (2026). A generalized FFTMA approach for simulating multivariate non-Gaussian random fields with spatial asymmetry. *Computers & Geosciences*, 212, 106157 (18 pages). [link](https://publications.polymtl.ca/73766/)
+**Lauzon, D.**, Hörning, S., & Bàrdossy, A. (2026). A generalized FFTMA approach for simulating multivariate non-Gaussian random fields with spatial asymmetry. *Computers & Geosciences*, 212, 106157 (18 pages). [DOI](https://doi.org/10.1016/j.cageo.2026.106157)
 :::
 
 ::: {.publication-item}
-Pugliese, E., **Lauzon, D.**, Gargini, A., Dematteis, A., Rodani, S., & Benedetti, G. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach. *Hydrogeology Journal*. [link](https://doi.org/10.1007/s10040-026-03102-6)
+Pugliese, E., **Lauzon, D.**, Gargini, A., Dematteis, A., Rodani, S., & Benedetti, G. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach. *Hydrogeology Journal*. [DOI](https://doi.org/10.1007/s10040-026-03102-6)
 :::
 
 ### 2025
 
 ::: {.publication-item}
-**Lauzon, D.**, Straubhaar, J., & Renard, P. (2025). A Deep Generative Model for the Simulation of Discrete Karst Networks. *Earth and Space Science*, 12(10). [link](https://publications.polymtl.ca/69264/)
+**Lauzon, D.**, Straubhaar, J., & Renard, P. (2025). A Deep Generative Model for the Simulation of Discrete Karst Networks. *Earth and Space Science*, 12(10). [DOI](https://doi.org/10.1029/2025ea004360)
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, & Hörning, S. (2025). Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform. *Computers & Geosciences*, 105878 (38 pages). [link](https://publications.polymtl.ca/62683/)
+**Lauzon, D.**, & Hörning, S. (2025). Efficient computation on large regular grids of higher-order spatial statistics via fast Fourier transform. *Computers & Geosciences*, 105878 (38 pages). [DOI](https://doi.org/10.1016/j.cageo.2025.105878)
 :::
 
 ::: {.publication-item}
-Liang, X. X., Gloaguen, E., Claprood, M., Paradis, D., & **Lauzon, D.** (2025). Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting. *Mathematical Geosciences*, 23 pages. [link](https://publications.polymtl.ca/66175/)
+Liang, X. X., Gloaguen, E., Claprood, M., Paradis, D., & **Lauzon, D.** (2025). Graph Neural Network Framework for Spatiotemporal Groundwater Level Forecasting. *Mathematical Geosciences*, 23 pages. [DOI](https://doi.org/10.1007/s11004-025-10194-5)
 :::
 
 ### 2024
 
 ::: {.publication-item}
-**Lauzon, D.** (2024). A U-Net architecture as a surrogate model combined with a geostatistical spectral algorithm for transient groundwater flow inverse problems. *Advances in Water Resources*, 189, 104726 (14 pages). [link](https://publications.polymtl.ca/58658/)
+**Lauzon, D.** (2024). A U-Net architecture as a surrogate model combined with a geostatistical spectral algorithm for transient groundwater flow inverse problems. *Advances in Water Resources*, 189, 104726 (14 pages). [DOI](https://doi.org/10.1016/j.advwatres.2024.104726)
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, & Gloaguen, E. (2024). Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning and Random Forest. *Ore Geology Reviews*, 166, 105918 (16 pages). [link](https://publications.polymtl.ca/57570/)
+**Lauzon, D.**, & Gloaguen, E. (2024). Quantifying uncertainty and improving prospectivity mapping in mineral belts using transfer learning and Random Forest. *Ore Geology Reviews*, 166, 105918 (16 pages). [DOI](https://doi.org/10.1016/j.oregeorev.2024.105918)
 :::
 
 ### 2023
 
 ::: {.publication-item}
-**Lauzon, D.**, & Marcotte, D. (2023). Joint hydrofacies-hydraulic conductivity modeling based on a constructive spectral algorithm constrained by transient head data. *Hydrogeology Journal*, 31(6), 1647-1664. [link](https://doi.org/10.1007/s10040-023-02638-1)
+**Lauzon, D.**, & Marcotte, D. (2023). Joint hydrofacies-hydraulic conductivity modeling based on a constructive spectral algorithm constrained by transient head data. *Hydrogeology Journal*, 31(6), 1647-1664. [DOI](https://doi.org/10.1007/s10040-023-02638-1)
 :::
 
 ### 2022
 
 ::: {.publication-item}
-**Lauzon, D.**, & Marcotte, D. (2022). Statistical comparison of variogram-based inversion methods for conditioning to indirect data. *Computers & Geosciences*, 160, 105032 (15 pages). [link](https://publications.polymtl.ca/50419/)
+**Lauzon, D.**, & Marcotte, D. (2022). Statistical comparison of variogram-based inversion methods for conditioning to indirect data. *Computers & Geosciences*, 160, 105032 (15 pages). [DOI](https://doi.org/10.1016/j.cageo.2022.105032)
 :::
 
 ### 2020
 
 ::: {.publication-item}
-**Lauzon, D.**, & Marcotte, D. (2020). Calibration of random fields by a sequential spectral turning bands method. *Computers & Geosciences*, 135, 104390 (13 pages). [link](https://publications.polymtl.ca/44481/)
+**Lauzon, D.**, & Marcotte, D. (2020). Calibration of random fields by a sequential spectral turning bands method. *Computers & Geosciences*, 135, 104390 (13 pages). [DOI](https://doi.org/10.1016/j.cageo.2019.104390)
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, & Marcotte, D. (2020). The sequential spectral turning band simulator as an alternative to Gibbs sampler in large truncated- or pluri-Gaussian simulations. *Stochastic Environmental Research and Risk Assessment*, 34(11), 1939-1951. [link](https://publications.polymtl.ca/45764/)
+**Lauzon, D.**, & Marcotte, D. (2020). The sequential spectral turning band simulator as an alternative to Gibbs sampler in large truncated- or pluri-Gaussian simulations. *Stochastic Environmental Research and Risk Assessment*, 34(11), 1939-1951. [DOI](https://doi.org/10.1007/s00477-020-01850-9)
 :::
 
 ### 2019
 
 ::: {.publication-item}
-**Lauzon, D.**, & Marcotte, D. (2019). Calibration of random fields by FFTMA-SA. *Computers & Geosciences*, 127, 99-110. [link](https://publications.polymtl.ca/42989/)
+**Lauzon, D.**, & Marcotte, D. (2019). Calibration of random fields by FFTMA-SA. *Computers & Geosciences*, 127, 99-110. [DOI](https://doi.org/10.1016/j.cageo.2019.03.003)
 :::
 
 ## Conferences
@@ -103,11 +103,11 @@ Kfoury, M., Roy, S., Langevin, M., **Lauzon, D.**, & Gosselin, Y. (2024). *Geost
 ### Oral presentations
 
 ::: {.publication-item}
-Renard, P., Straubhaar, J., **Lauzon, D.**, & Trunz, C. (2026). *Karst network simulation with statistical learning*. EGU General Assembly 2026, Vienna, Austria. [link](https://doi.org/10.5194/egusphere-egu26-18554)
+Renard, P., Straubhaar, J., **Lauzon, D.**, & Trunz, C. (2026). *Karst network simulation with statistical learning*. EGU General Assembly 2026, Vienna, Austria. [DOI](https://doi.org/10.5194/egusphere-egu26-18554)
 :::
 
 ::: {.publication-item}
-Burgoa Tanaka, A. P., Renard, P., Liang, X. X., Straubhaar, J., & **Lauzon, D.** (2026). *Fracture network modeling with graph deep learning*. EGU General Assembly 2026, Vienna, Austria. [link](https://doi.org/10.5194/egusphere-egu26-11471)
+Burgoa Tanaka, A. P., Renard, P., Liang, X. X., Straubhaar, J., & **Lauzon, D.** (2026). *Fracture network modeling with graph deep learning*. EGU General Assembly 2026, Vienna, Austria. [DOI](https://doi.org/10.5194/egusphere-egu26-11471)
 :::
 
 ::: {.publication-item}

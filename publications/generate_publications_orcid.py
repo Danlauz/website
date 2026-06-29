@@ -24,11 +24,9 @@ from pathlib import Path
 ORCID_ID    = "0000-0001-7774-4460"
 CONTACT     = "dany.lauzon@polymtl.ca"
 BOLD_FAMILY = "lauzon"
-# Noms de famille (en minuscules) des étudiant·e·s que je supervise (tirés de la page
-# Étudiant·e·s) : tout auteur dont le nom y figure est marqué d'une étoile.
-STUDENTS    = {"arega", "tagne nkounga", "brisebois", "zaghdoud mouihbi", "mouihbi",
-               "tabash", "thibeault", "pensa", "marconcini", "hfaithia", "park",
-               "desrez", "delabrouille"}
+# Noms de famille (en minuscules) des étudiant·e·s à marquer d'une étoile.
+# LISTE MANUELLE : pour ajouter ou retirer un·e étudiant·e, modifier cette ligne.
+STUDENTS    = {"arega", "tagne nkounga", "brisebois"}
 OWNER       = ["Lauzon", "D."]
 DIR         = Path(__file__).resolve().parent
 SUPP_PATH   = DIR / "supplement.json"
@@ -199,7 +197,8 @@ def format_entry(rec, lang):
         if rec["venue"]:
             s += rec["venue"] + ". "
     if rec["url"]:
-        s += f"[{link}]({rec['url']})"
+        lbl = "DOI" if "doi.org" in rec["url"] else link
+        s += f"[{lbl}]({rec['url']})"
     return s.strip()
 
 

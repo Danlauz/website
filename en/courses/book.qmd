@@ -1,18 +1,41 @@
 ---
 title: "Course notes — Geostatistics and Mining Geology"
+pagetitle: "Course notes — Dany Lauzon"
 ---
 
-::: {.card .hover-lift}
-::: {.card-header}
-### Course notes
-:::
-::: {.card-body}
-**Author:** Dany Lauzon · **Language:** French
-
-Open-access course notes for geostatistics and mining geology.
+Open-access course notes, written by Dany Lauzon for the courses GLQ3401 — Geostatistics and Mining Geology and GLQ3651 — Mining Geology. The book is written in French and updated each term.
 
 [{{< fa book-open >}} Open the course notes](https://danlauz.github.io/glq3401-3651/){.btn .btn-primary}
-:::
-:::
 
-*Content to be completed (table of contents, format, license) as you see fit.*
+## Table of contents
+
+### Part I — Mining geology
+
+1. NI 43-101 Technical Report and the Mining Act
+2. Economic aspects
+3. Gy's sampling theory and quality control
+4. Processing and statistical analysis of drilling data
+5. Deterministic methods for resource estimation
+
+### Part II — Linear geostatistics
+
+6. Introduction to geostatistics
+7. The variogram
+8. Block, dispersion and estimation variance
+9. Kriging
+
+### Part III — Non-linear geostatistics
+
+10. Multivariate geostatistics
+11. Indicator kriging
+12. Geostatistical simulation of continuous variables
+13. Geostatistical simulation of categorical variables
+
+### Appendices
+
+- A — Linear algebra: vectors and planes
+- B — Probability and statistics
+- C — Standard normal distribution table
+- D — Charts: dispersion variances
+- E — Charts: estimation variances
+- G — Mathematical notation

@@ -20,7 +20,7 @@ Modélisation stochastique du sous-sol par méthodes géostatistiques et apprent
 [{{< fa envelope >}} Courriel](mailto:dany.lauzon@polymtl.ca)
 [{{< fa brands github >}} GitHub](https://github.com/Danlauz)
 [{{< fa brands linkedin >}} LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115)
-[{{< fa brands google-scholar >}} Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+[{{< fa brands google-scholar >}} Scholar](https://scholar.google.com/citations?user=1ltoBQIAAAAJ&hl=fr)
 [{{< fa brands orcid >}} ORCID](https://orcid.org/0000-0001-7774-4460)
 :::
 ::::
@@ -190,6 +190,6 @@ Courriel
 ::: {.label}
 Profils
 :::
-[GitHub](https://github.com/Danlauz) · [LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115) · [Scholar](https://scholar.google.com/citations?user=QbOMBwsAAAAJ)
+[GitHub](https://github.com/Danlauz) · [LinkedIn](https://ca.linkedin.com/in/dany-lauzon-ph-d-ba9128115) · [Scholar](https://scholar.google.com/citations?user=1ltoBQIAAAAJ&hl=fr)
 :::
 :::
