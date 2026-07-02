@@ -10,6 +10,10 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 ### Chercheur principal
 
 ::: {.publication-item}
+**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* Subvention Alliance du CRSNG – Accélération Mitacs (ALLRP 615724-26), partenaire IAMGOLD. — **380 000 $ / 4 ans**
+:::
+
+::: {.publication-item}
 **Lauzon, D.**, Courcelles, B. (2026–2030). *Développement d'outils automatiques pour la modélisation géologique stochastique adaptés aux spécificités de la géotechnique.* Subvention Alliance du CRSNG – Accélération Mitacs (ALLRP 612411-25), partenaire Englobe Inc. — **360 000 $ / 4 ans**
 :::
 
@@ -63,10 +67,6 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisat
 ### Chercheur principal
 
 ::: {.publication-item}
-**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* Subvention Alliance du CRSNG – Accélération Mitacs, partenaire IAMGOLD. — **380 000 $ / 4 ans**
-:::
-
-::: {.publication-item}
 **Lauzon, D.**, Sylvain, K., Bussière, B. (2027–2030). *Évaluation probabiliste de la performance à long terme des méthodes de restauration minière en présence d'incertitude climatique et d'hétérogénéité des matériaux.* Subvention FRQNT – Programme de recherche en partenariat sur le développement durable du secteur minier IV. Partenaires : BGC Engineering Inc. et IAMGOLD. — **300 000 $ / 3 ans**
 :::
 
@@ -78,7 +78,7 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisat
 
 | Statut | Chercheur principal | Co-chercheur | Total |
 |:--|--:|--:|--:|
-| **Obtenues** | 665 793 $ | 1 102 051 $ | 1 767 844 $ |
-| **En évaluation** | 980 000 $ | — | 980 000 $ |
+| **Obtenues** | 1 045 793 $ | 1 102 051 $ | 2 147 844 $ |
+| **En évaluation** | 600 000 $ | — | 600 000 $ |
 
 *La subvention Mitacs–Orano (85 000 $), octroyée puis annulée, n'est pas comptabilisée dans les totaux.*

@@ -10,6 +10,10 @@ Research and teaching grants awarded, and applications currently under review.
 ### Principal investigator
 
 ::: {.publication-item}
+**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* NSERC Alliance – Mitacs Accelerate grant (ALLRP 615724-26), partner IAMGOLD. — **$380,000 over 4 years**
+:::
+
+::: {.publication-item}
 **Lauzon, D.**, Courcelles, B. (2026–2030). *Development of automated tools for stochastic geological modeling adapted to the specificities of geotechnics.* NSERC Alliance – Mitacs Accelerate grant (ALLRP 612411-25), partner Englobe Inc. — **$360,000 over 4 years**
 :::
 
@@ -63,10 +67,6 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualizat
 ### Principal investigator
 
 ::: {.publication-item}
-**Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* NSERC Alliance – Mitacs Accelerate grant, partner IAMGOLD. — **$380,000 over 4 years**
-:::
-
-::: {.publication-item}
 **Lauzon, D.**, Sylvain, K., Bussière, B. (2027–2030). *Probabilistic assessment of the long-term performance of mine reclamation methods under climate uncertainty and material heterogeneity.* FRQNT – Sustainable Development of the Mining Sector Partnership Research Program IV. Partners: BGC Engineering Inc. and IAMGOLD. — **$300,000 over 3 years**
 :::
 
@@ -78,7 +78,7 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualizat
 
 | Status | Principal investigator | Co-investigator | Total |
 |:--|--:|--:|--:|
-| **Awarded** | $665,793 | $1,102,051 | $1,767,844 |
-| **Under review** | $980,000 | — | $980,000 |
+| **Awarded** | $1,045,793 | $1,102,051 | $2,147,844 |
+| **Under review** | $600,000 | — | $600,000 |
 
 *The Mitacs–Orano grant ($85,000), awarded then cancelled, is not included in the totals.*
