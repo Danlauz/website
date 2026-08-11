@@ -52,19 +52,6 @@ Présence : depuis septembre 2024\
 :::
 :::
 
-### Stage de recherche — Maîtrise
-
-::: {.student}
-**Meriam Zaghdoud Mouihbi** [(Dir.)]{.role-tag} — Développement d'outils automatisés de modélisation géologique stochastique des interactions sols–eaux souterraines dans un contexte géotechnico-environnemental
-
-::: {.student-more}
-Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar)\
-Présence : mai 2026 à juillet 2026 (3 mois)\
-**Financement :** Stage de recherche Globalink de Mitacs\
-**Co-encadrante :** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
-:::
-:::
-
 ### Stage de recherche — Baccalauréat
 
 ::: {.student}
@@ -96,45 +83,6 @@ Présence : juillet 2026 à septembre 2026 (3 mois)
 :::
 :::
 
-::: {.student}
-**Maud Marconcini** [(Dir.)]{.role-tag} — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
-
-::: {.student-more}
-Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur)\
-Présence : juin 2026 à août 2026 (2 mois)
-:::
-:::
-
-::: {.student}
-**Loris Pensa** [(Dir.)]{.role-tag} — Modélisation par substitution de système hydrogéologique en utilisant DeepONet
-
-::: {.student-more}
-Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur)\
-Présence : juin 2026 à août 2026 (2 mois)\
-**Financement :** Bourse OPCO
-:::
-:::
-
-::: {.student}
-**Mohamed Hfaithia** [(Dir.)]{.role-tag} — Analyse de l'influence de la non-stationnarité des réseaux de fractures sur l'écoulement en environnement minier
-
-::: {.student-more}
-Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa)\
-Présence : mai 2026 à juillet 2026 (3 mois)\
-**Financement :** Stage de recherche Globalink de Mitacs\
-**Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
-:::
-:::
-
-::: {.student}
-**Shreya Kumar** [(Dir.)]{.role-tag} — Méthodes géostatistiques pour les motifs complexes de la Terre : stage en analyse de données
-
-::: {.student-more}
-Présence : mai 2026 à août 2026 (3 mois)\
-Tâches principales : analyse géostatistique
-:::
-:::
-
 ## Étudiant.e.s diplômé.e.s et stages terminés
 
 ### Maîtrise (M.Sc.A.)
@@ -149,7 +97,59 @@ Diplômé : juin 2026\
 :::
 :::
 
-### Stage de recherche
+### Stage de recherche — Maîtrise
+
+::: {.student}
+**Meriam Zaghdoud Mouihbi** [(Dir.)]{.role-tag} — Développement d'outils automatisés de modélisation géologique stochastique des interactions sols–eaux souterraines dans un contexte géotechnico-environnemental
+
+::: {.student-more}
+Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar)\
+Présence : mai 2026 à juillet 2026 (3 mois)\
+**Financement :** Stage de recherche Globalink de Mitacs\
+**Co-encadrante :** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
+:::
+:::
+
+### Stage de recherche — Baccalauréat
+
+::: {.student}
+**Shreya Kumar** [(Dir.)]{.role-tag} — Méthodes géostatistiques pour les motifs complexes de la Terre : stage en analyse de données
+
+::: {.student-more}
+Présence : mai 2026 à août 2026 (3 mois)\
+Tâches principales : analyse géostatistique
+:::
+:::
+
+::: {.student}
+**Loris Pensa** [(Dir.)]{.role-tag} — Modélisation par substitution de système hydrogéologique en utilisant DeepONet
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur)\
+Présence : juin 2026 à août 2026 (2 mois)\
+**Financement :** Bourse OPCO
+:::
+:::
+
+::: {.student}
+**Maud Marconcini** [(Dir.)]{.role-tag} — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
+
+::: {.student-more}
+Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur)\
+Présence : juin 2026 à août 2026 (2 mois)
+:::
+:::
+
+::: {.student}
+**Mohamed Hfaithia** [(Dir.)]{.role-tag} — Analyse de l'influence de la non-stationnarité des réseaux de fractures sur l'écoulement en environnement minier
+
+::: {.student-more}
+Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa)\
+Présence : mai 2026 à juillet 2026 (3 mois)\
+**Financement :** Stage de recherche Globalink de Mitacs\
+**Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+:::
+:::
 
 ::: {.student}
 **Seonghoon Park** [(Dir.)]{.role-tag} — Extraction automatisée des données de forage à partir de rapports PDF grâce à la technologie OCR

@@ -26,8 +26,11 @@ Research and teaching grants awarded, and applications currently under review.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2024–2027). New Faculty Research Start-up Program — Polytechnique Montréal. — **$60,000 over 3 years**\
-*(project title to be completed)*
+**Lauzon, D.** (2024–2027). *Coupling artificial intelligence and geostatistics for solving inverse problems.* New Faculty Research Start-up Program — Polytechnique Montréal. — **$60,000 over 3 years**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** *Development of an AI surrogate model for enhanced numerical modeling of contaminant transport.* Mitacs Accelerate (GMS-100288), partner AtkinsRéalis. — **$20,000 over 4 months** · Postdoctoral internship
 :::
 
 ::: {.publication-item}
@@ -78,7 +81,7 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualizat
 
 | Status | Principal investigator | Co-investigator | Total |
 |:--|--:|--:|--:|
-| **Awarded** | $1,045,793 | $1,102,051 | $2,147,844 |
+| **Awarded** | $1,065,793 | $1,102,051 | $2,167,844 |
 | **Under review** | $600,000 | — | $600,000 |
 
 *The Mitacs–Orano grant ($85,000), awarded then cancelled, is not included in the totals.*

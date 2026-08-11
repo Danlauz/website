@@ -52,19 +52,6 @@ On site: since September 2024\
 :::
 :::
 
-### Research internship — Master's
-
-::: {.student}
-**Meriam Zaghdoud Mouihbi** [(Supervisor)]{.role-tag} — Development of automated tools for stochastic geological modeling of soil–groundwater physical interactions in a geotechnical-environmental context
-
-::: {.student-more}
-Master's in Applied Geology for the Environment (University of Tunis El Manar)\
-On site: May 2026 to July 2026 (3 months)\
-**Funding:** Mitacs Globalink Research Internship\
-**Co-supervisor:** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
-:::
-:::
-
 ### Research internship — Bachelor's
 
 ::: {.student}
@@ -96,45 +83,6 @@ On site: July 2026 to September 2026 (3 months)
 :::
 :::
 
-::: {.student}
-**Maud Marconcini** [(Supervisor)]{.role-tag} — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
-
-::: {.student-more}
-Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur)\
-On site: June 2026 to August 2026 (2 months)
-:::
-:::
-
-::: {.student}
-**Loris Pensa** [(Supervisor)]{.role-tag} — Surrogate modeling of hydrogeological systems using DeepONet
-
-::: {.student-more}
-Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur)\
-On site: June 2026 to August 2026 (2 months)\
-**Funding:** OPCO Scholarship
-:::
-:::
-
-::: {.student}
-**Mohamed Hfaithia** [(Supervisor)]{.role-tag} — Analysis of the influence of fracture network non-stationarity on flow in mining environments
-
-::: {.student-more}
-Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa)\
-On site: May 2026 to July 2026 (3 months)\
-**Funding:** Mitacs Globalink Research Internship\
-**Co-supervisor:** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
-:::
-:::
-
-::: {.student}
-**Shreya Kumar** [(Supervisor)]{.role-tag} — Geostatistical Methods for Complex Earth Patterns: Internship in Data Analysis
-
-::: {.student-more}
-On site: May 2026 to August 2026 (3 months)\
-Main tasks: geostatistical analysis
-:::
-:::
-
 ## Graduated students and completed internships
 
 ### Master's (M.Sc.A.)
@@ -149,7 +97,59 @@ Graduated: June 2026\
 :::
 :::
 
-### Research internship
+### Research internship — Master's
+
+::: {.student}
+**Meriam Zaghdoud Mouihbi** [(Supervisor)]{.role-tag} — Development of automated tools for stochastic geological modeling of soil–groundwater physical interactions in a geotechnical-environmental context
+
+::: {.student-more}
+Master's in Applied Geology for the Environment (University of Tunis El Manar)\
+On site: May 2026 to July 2026 (3 months)\
+**Funding:** Mitacs Globalink Research Internship\
+**Co-supervisor:** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
+:::
+:::
+
+### Research internship — Bachelor's
+
+::: {.student}
+**Shreya Kumar** [(Supervisor)]{.role-tag} — Geostatistical Methods for Complex Earth Patterns: Internship in Data Analysis
+
+::: {.student-more}
+On site: May 2026 to August 2026 (3 months)\
+Main tasks: geostatistical analysis
+:::
+:::
+
+::: {.student}
+**Loris Pensa** [(Supervisor)]{.role-tag} — Surrogate modeling of hydrogeological systems using DeepONet
+
+::: {.student-more}
+Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur)\
+On site: June 2026 to August 2026 (2 months)\
+**Funding:** OPCO Scholarship
+:::
+:::
+
+::: {.student}
+**Maud Marconcini** [(Supervisor)]{.role-tag} — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
+
+::: {.student-more}
+Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur)\
+On site: June 2026 to August 2026 (2 months)
+:::
+:::
+
+::: {.student}
+**Mohamed Hfaithia** [(Supervisor)]{.role-tag} — Analysis of the influence of fracture network non-stationarity on flow in mining environments
+
+::: {.student-more}
+Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa)\
+On site: May 2026 to July 2026 (3 months)\
+**Funding:** Mitacs Globalink Research Internship\
+**Co-supervisor:** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
+:::
+:::
 
 ::: {.student}
 **Seonghoon Park** [(Supervisor)]{.role-tag} — Automated extraction of drilling data from PDF reports using OCR technology

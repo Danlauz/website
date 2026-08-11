@@ -13,7 +13,11 @@ Mon nom apparaît en gras. Un astérisque (\*) signale un·e étudiant·e que je
 :::
 
 ::: {.publication-item}
-Pugliese, E., **Lauzon, D.**, Gargini, A., Dematteis, A., Rodani, S., & Benedetti, G. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach. *Hydrogeology Journal*. [DOI](https://doi.org/10.1007/s10040-026-03102-6)
+Pugliese, E., **Lauzon, D.**, Dematteis, A., Rodani, S., Benedetti, G., & Gargini, A. (2026). Risk assessment of tunnelling-induced hydrogeological interference on springs using a machine learning approach. *Hydrogeology Journal*. [DOI](https://doi.org/10.1007/s10040-026-03102-6)
+:::
+
+::: {.publication-item}
+Liang, X. X., **Lauzon, D.**, Gloaguen, E., Straubhaar, J., & Renard, P. (2026). Evaluating the influence of temporal data resolution on the performance of deep neural networks for Karst groundwater forecasting. *Applied Computing and Geosciences*, 100393. [DOI](https://doi.org/10.1016/j.acags.2026.100393)
 :::
 
 ### 2025
@@ -77,11 +81,11 @@ Straubhaar, J., **Lauzon, D.**, & Renard, P. (2026). *Deep learning karst networ
 :::
 
 ::: {.publication-item}
-Dion, G., Pasquier, P., & **Lauzon, D.** (2026). *Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability*. IGSHPA 2026.
+Dion, G., Pasquier, P., & **Lauzon, D.** (2026). *Stochastic approach to ground heat exchanger sizing accounting for weather and ground property variability*. 15th IEA Heat Pump Conference (HPC 2026), Vienna, Austria. [lien](https://publications.polymtl.ca/80114/)
 :::
 
 ::: {.publication-item}
-Brisebois, O.\*, **Lauzon, D.**, & Pasquier, P. (2026). *Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for hydraulic conductivity profiling*. IGSHPA 2026.
+Brisebois, O.\*, **Lauzon, D.**, & Pasquier, P. (2026). *Investigation of a constructive geostatistical method to assimilate unused conventional data during geothermal drilling for hydraulic conductivity profiling*. 15th IEA Heat Pump Conference (HPC 2026), Vienna, Austria. [lien](https://publications.polymtl.ca/80112/)
 :::
 
 ::: {.publication-item}
@@ -93,7 +97,7 @@ Tagne Nkounga, I. B.\*, & **Lauzon, D.** (2026). *Automatic Spatial Inference of
 :::
 
 ::: {.publication-item}
-Kfoury, M., Roy, S., Langevin, M., **Lauzon, D.**, & Gosselin, Y. (2024). *Geostatistical analysis of geotechnical uncertainty: risk assessment in engineering projects*. GeoMTL 2024.
+Kfoury, M., Roy, S., Langevin, M., **Lauzon, D.**, & Gosselin, Y. (2024). *Geostatistical analysis of geotechnical uncertainty: risk assessment in engineering projects*. 77th Canadian Geotechnical Conference (GéoMontréal 2024), Montréal, Canada. [lien](https://publications.polymtl.ca/80111/)
 :::
 
 ::: {.publication-item}
@@ -137,7 +141,7 @@ Straubhaar, J., **Lauzon, D.**, & Renard, P. (2024). *Graph recurrent neural net
 ### Affiches
 
 ::: {.publication-item}
-Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic groundwater recharge modelling in the Harricana River sub-watershed, Québec*. IAH 2026, Canada.
+Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic groundwater recharge modelling in the Harricana River watershed, Québec, Canada*. CGU and IAH-CNC Annual Meeting 2026, Halifax, Nova Scotia. [lien](https://publications.polymtl.ca/80115/)
 :::
 
 ::: {.publication-item}
@@ -176,4 +180,4 @@ Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Conce
 
 ---
 
-*Publications: 33 · Dernière mise à jour: juin 2026*
+*Publications: 34 · Dernière mise à jour: août 2026*

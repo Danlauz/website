@@ -26,8 +26,11 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2024–2027). Programme d'appui au démarrage en recherche des nouveaux professeur·e·s — Polytechnique Montréal. — **60 000 $ / 3 ans**\
-*(titre du projet à compléter)*
+**Lauzon, D.** (2024–2027). *Coupler l'intelligence artificielle et la géostatistique pour la résolution de problèmes inverses.* Programme d'appui au démarrage en recherche des nouveaux professeur·e·s — Polytechnique Montréal. — **60 000 $ / 3 ans**
+:::
+
+::: {.publication-item}
+**Lauzon, D.** *Développement d'un modèle de substitution par intelligence artificielle pour améliorer la modélisation numérique du transport de contaminants.* Accélération Mitacs (GMS-100288), partenaire AtkinsRéalis. — **20 000 $ / 4 mois** · Stage postdoctoral
 :::
 
 ::: {.publication-item}
@@ -78,7 +81,7 @@ Trabelsi, H., Desjardins, A., **Lauzon, D.**, Ovalle, C. (2025). *Contextualisat
 
 | Statut | Chercheur principal | Co-chercheur | Total |
 |:--|--:|--:|--:|
-| **Obtenues** | 1 045 793 $ | 1 102 051 $ | 2 147 844 $ |
+| **Obtenues** | 1 065 793 $ | 1 102 051 $ | 2 167 844 $ |
 | **En évaluation** | 600 000 $ | — | 600 000 $ |
 
 *La subvention Mitacs–Orano (85 000 $), octroyée puis annulée, n'est pas comptabilisée dans les totaux.*
