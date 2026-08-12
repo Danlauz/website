@@ -19,7 +19,7 @@ Je suis ouvert à de nouvelles candidatures (B.ing., M.ing., M.Sc.A. et Ph.D.) p
 ### Doctorat (Ph.D.)
 
 ::: {.student}
-**Kassahun Aweke Arega** [(Dir.)]{.role-tag} — Approche géostatistique pour la modélisation de la recharge des eaux souterraines en Abitibi–Témiscamingue
+**Kassahun Aweke Arega** [(Dir.)]{.role-tag} — Approches géostatistiques pour la modélisation stochastique de la recharge et des eaux souterraines dans le sous-bassin de l'Harricana, Abitibi–Témiscamingue
 
 ::: {.student-more}
 Doctorat en génie minéral (Polytechnique Montréal)\
@@ -30,7 +30,7 @@ Présence : depuis septembre 2025\
 :::
 
 ::: {.student}
-**Innocent Boris Tagne Nkounga** [(Dir.)]{.role-tag} — Automatisation de la modélisation du sous-sol par géostatistique pour des applications en géotechnique
+**Innocent Boris Tagne Nkounga** [(Dir.)]{.role-tag} — Modélisation automatique du sous-sol par méthodes géostatistiques non-stationnaires pour des applications en géotechnique
 
 ::: {.student-more}
 Doctorat en génie minéral (Polytechnique Montréal)\
@@ -79,7 +79,8 @@ Présence : août 2026 à décembre 2026 (4 mois)\
 **Iqra Arshad Mehmood** [(Dir.)]{.role-tag} — Développement d'outils automatisés de modélisation géologique stochastique spécifiquement adaptés aux besoins de l'ingénierie géotechnique
 
 ::: {.student-more}
-Présence : juillet 2026 à septembre 2026 (3 mois)
+Présence : juillet 2026 à septembre 2026 (3 mois)\
+**Financement :** Bourse de recherche Globalink Mitacs
 :::
 :::
 
@@ -93,6 +94,8 @@ Présence : juillet 2026 à septembre 2026 (3 mois)
 ::: {.student-more}
 Maîtrise en génie informatique et logiciel (Polytechnique Montréal)\
 Diplômé : juin 2026\
+**Directeur :** [Daniel Aloise](https://www.polymtl.ca/expertises/aloise-daniel)\
+**Codirecteur :** [Charles L. Bérubé](https://www.polymtl.ca/expertises/berube-charles-l)\
 **Financement :** Mitacs Accelerate (Orano Mining)
 :::
 :::
@@ -105,7 +108,7 @@ Diplômé : juin 2026\
 ::: {.student-more}
 Mastère Géologie appliquée à l'environnement (Université de Tunis El Manar)\
 Présence : mai 2026 à juillet 2026 (3 mois)\
-**Financement :** Stage de recherche Globalink de Mitacs\
+**Financement :** Bourse de recherche Globalink Mitacs\
 **Co-encadrante :** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
 :::
 :::
@@ -113,10 +116,11 @@ Présence : mai 2026 à juillet 2026 (3 mois)\
 ### Stage de recherche — Baccalauréat
 
 ::: {.student}
-**Shreya Kumar** [(Dir.)]{.role-tag} — Méthodes géostatistiques pour les motifs complexes de la Terre : stage en analyse de données
+**Shreya Kumar** [(Dir.)]{.role-tag} — Étude des variogrammes et des transiogrammes des épaisseurs et des unités géologiques du Quaternaire des basses terres du Saint-Laurent
 
 ::: {.student-more}
 Présence : mai 2026 à août 2026 (3 mois)\
+**Financement :** Programme de stages de recherche d'été 2026 (SRIP 2026) du programme POINT de Polytechnique Montréal\
 Tâches principales : analyse géostatistique
 :::
 :::
@@ -132,11 +136,12 @@ Présence : juin 2026 à août 2026 (2 mois)\
 :::
 
 ::: {.student}
-**Maud Marconcini** [(Dir.)]{.role-tag} — Reconnaissance optique de caractères (OCR) et apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
+**Maud Marconcini** [(Dir.)]{.role-tag} — Assignation automatique de classe par apprentissage automatique pour l'enrichissement et la normalisation d'une base de données géotechnique
 
 ::: {.student-more}
 Baccalauréat en génie informatique (Polytech Nice Sophia — Université Côte d'Azur)\
-Présence : juin 2026 à août 2026 (2 mois)
+Présence : juin 2026 à août 2026 (2 mois)\
+**Financement :** CRSNG — Subvention à la découverte
 :::
 :::
 
@@ -146,7 +151,7 @@ Présence : juin 2026 à août 2026 (2 mois)
 ::: {.student-more}
 Génie chimique et minier (ENIGA — École nationale d'ingénieurs de Gafsa)\
 Présence : mai 2026 à juillet 2026 (3 mois)\
-**Financement :** Stage de recherche Globalink de Mitacs\
+**Financement :** Bourse de recherche Globalink Mitacs\
 **Co-superviseur :** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
 :::
 :::

@@ -232,11 +232,32 @@ def emit_flat(out, recs, lang):
     return n
 
 
+# Ancres des sections (pour le compteur) et libellés courts du compteur.
+ANCHOR = {"journal": "sec-articles", "conf_group": "sec-conferences",
+          "workshop": "sec-ateliers", "thesis": "sec-theses", "book": "sec-livres"}
+COUNTER = {
+  "fr": {"journal": "Articles de revue", "conf_group": "Communications de conférence",
+         "workshop": "Ateliers et formations", "thesis": "Thèses", "book": "Ressources pédagogiques"},
+  "en": {"journal": "Journal articles", "conf_group": "Conference contributions",
+         "workshop": "Workshops and training", "thesis": "Theses", "book": "Educational resources"},
+}
+
+
 def build_page(records, lang):
     t = TITLES[lang]
     today = time.localtime()
     months = MONTHS_FR if lang == "fr" else MONTHS_EN
     out = ["---", f'title: "{t["page"]}"', "---", "", t["legend"], ""]
+    # Compteur par type (liens vers chaque section)
+    chips = []
+    for item in LAYOUT:
+        key = item[1]
+        n = sum(1 for r in records if r["category"] == key) if item[0] == "simple" \
+            else sum(1 for r in records if r["category"] in item[2])
+        if n:
+            chips.append(f"[{COUNTER[lang][key]}](#{ANCHOR[key]}) ({n})")
+    if chips:
+        out += ["::: {.pub-counter}", " · ".join(chips), ":::", ""]
     total = 0
     for item in LAYOUT:
         if item[0] == "simple":
@@ -244,7 +265,7 @@ def build_page(records, lang):
             recs = [r for r in records if r["category"] == cat]
             if not recs:
                 continue
-            out.append(f"## {t[cat]}")
+            out.append(f"## {t[cat]} {{#{ANCHOR[cat]}}}")
             out.append("")
             total += emit_by_year(out, recs, lang)
         else:  # ("group", group_title_key, [sous-catégories])
@@ -252,7 +273,7 @@ def build_page(records, lang):
             grecs = [r for r in records if r["category"] in subs]
             if not grecs:
                 continue
-            out.append(f"## {t[gkey]}")
+            out.append(f"## {t[gkey]} {{#{ANCHOR[gkey]}}}")
             out.append("")
             for sub in subs:
                 srecs = [r for r in records if r["category"] == sub]

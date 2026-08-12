@@ -19,7 +19,7 @@ I am open to new applications (B.Eng., M.Eng., M.Sc.A. and Ph.D.) for research p
 ### Doctoral (Ph.D.)
 
 ::: {.student}
-**Kassahun Aweke Arega** [(Supervisor)]{.role-tag} — Geostatistical approach for modeling groundwater recharge in Abitibi–Témiscamingue
+**Kassahun Aweke Arega** [(Supervisor)]{.role-tag} — Geostatistical Approaches for Stochastic Recharge and Groundwater Modelling in the Harricana sub-Watershed, Abitibi–Témiscamingue
 
 ::: {.student-more}
 Ph.D. in Mineral Engineering (Polytechnique Montréal)\
@@ -30,7 +30,7 @@ On site: since September 2025\
 :::
 
 ::: {.student}
-**Innocent Boris Tagne Nkounga** [(Supervisor)]{.role-tag} — Automation of subsurface modeling using geostatistics for geotechnical applications
+**Innocent Boris Tagne Nkounga** [(Supervisor)]{.role-tag} — Automatic subsurface modeling using non-stationary geostatistical methods for geotechnical applications
 
 ::: {.student-more}
 Ph.D. in Mineral Engineering (Polytechnique Montréal)\
@@ -79,7 +79,8 @@ On site: August 2026 to December 2026 (4 months)\
 **Iqra Arshad Mehmood** [(Supervisor)]{.role-tag} — Development of Automated Stochastic Geological Modeling Tools Specifically Adapted to the Requirements of Geotechnical Engineering
 
 ::: {.student-more}
-On site: July 2026 to September 2026 (3 months)
+On site: July 2026 to September 2026 (3 months)\
+**Funding:** Mitacs Globalink Research Award
 :::
 :::
 
@@ -93,6 +94,8 @@ On site: July 2026 to September 2026 (3 months)
 ::: {.student-more}
 Master's in Software and Computer Engineering (Polytechnique Montréal)\
 Graduated: June 2026\
+**Supervisor:** [Daniel Aloise](https://www.polymtl.ca/expertises/aloise-daniel)\
+**Co-supervisor:** [Charles L. Bérubé](https://www.polymtl.ca/expertises/berube-charles-l)\
 **Funding:** Mitacs Accelerate (Orano Mining)
 :::
 :::
@@ -105,7 +108,7 @@ Graduated: June 2026\
 ::: {.student-more}
 Master's in Applied Geology for the Environment (University of Tunis El Manar)\
 On site: May 2026 to July 2026 (3 months)\
-**Funding:** Mitacs Globalink Research Internship\
+**Funding:** Mitacs Globalink Research Award\
 **Co-supervisor:** [Amina Mabrouk El Asmi](https://orcid.org/0000-0003-3255-369X)
 :::
 :::
@@ -113,10 +116,11 @@ On site: May 2026 to July 2026 (3 months)\
 ### Research internship — Bachelor's
 
 ::: {.student}
-**Shreya Kumar** [(Supervisor)]{.role-tag} — Geostatistical Methods for Complex Earth Patterns: Internship in Data Analysis
+**Shreya Kumar** [(Supervisor)]{.role-tag} — Study of variograms and transiograms of thicknesses and Quaternary geological units in the St. Lawrence Lowlands
 
 ::: {.student-more}
 On site: May 2026 to August 2026 (3 months)\
+**Funding:** 2026 Summer Research Internship Program (SRIP 2026), POINT Program, Polytechnique Montréal\
 Main tasks: geostatistical analysis
 :::
 :::
@@ -132,11 +136,12 @@ On site: June 2026 to August 2026 (2 months)\
 :::
 
 ::: {.student}
-**Maud Marconcini** [(Supervisor)]{.role-tag} — Optical character recognition (OCR) and machine learning for enrichment and standardization of a geotechnical database
+**Maud Marconcini** [(Supervisor)]{.role-tag} — Automatic class assignment using machine learning for the enrichment and standardization of a geotechnical database
 
 ::: {.student-more}
 Bachelor in Computer Engineering (Polytech Nice Sophia — Université Côte d'Azur)\
-On site: June 2026 to August 2026 (2 months)
+On site: June 2026 to August 2026 (2 months)\
+**Funding:** NSERC — Discovery Grant
 :::
 :::
 
@@ -146,7 +151,7 @@ On site: June 2026 to August 2026 (2 months)
 ::: {.student-more}
 Chemical and Mining Engineering (ENIGA — National School of Engineers of Gafsa)\
 On site: May 2026 to July 2026 (3 months)\
-**Funding:** Mitacs Globalink Research Internship\
+**Funding:** Mitacs Globalink Research Award\
 **Co-supervisor:** [Pedro Cacciari](https://www.polymtl.ca/expertises/cacciari-pedro)
 :::
 :::

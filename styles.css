@@ -122,6 +122,18 @@ html { scroll-behavior: smooth; }
   color: var(--gsp-accent, #0067a6);
   text-transform: uppercase; white-space: nowrap; margin: 0 .15rem;
 }
+/* Compteur de publications par type (haut de la page Publications) */
+.pub-counter {
+  margin: .25rem 0 2rem; padding: .7rem 1rem;
+  background: var(--gsp-surface, #f6f7f9);
+  border: 1px solid var(--gsp-line, #e6e8ec); border-radius: 8px;
+  font-size: .93rem; line-height: 2; color: var(--gsp-muted, #646c78);
+}
+.pub-counter a {
+  color: var(--gsp-ink, #15181d); font-weight: 600; text-decoration: none;
+  white-space: nowrap;
+}
+.pub-counter a:hover { color: var(--gsp-accent, #0067a6); }
 .student.collapsible > p:first-child { cursor: pointer; padding-right: 1.4rem; }
 .student.collapsible::after {
   content: ""; position: absolute; right: .3rem; top: 1.15rem;

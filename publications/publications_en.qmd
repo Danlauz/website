@@ -4,7 +4,11 @@ title: "Publications"
 
 My name appears in bold. An asterisk (\*) marks a student under my supervision.
 
-## Peer-reviewed journal articles
+::: {.pub-counter}
+[Journal articles](#sec-articles) (13) · [Conference contributions](#sec-conferences) (18) · [Workshops and training](#sec-ateliers) (1) · [Theses](#sec-theses) (1) · [Educational resources](#sec-livres) (1)
+:::
+
+## Peer-reviewed journal articles {#sec-articles}
 
 ### 2026
 
@@ -72,7 +76,7 @@ Liang, X. X., Gloaguen, E., Claprood, M., Paradis, D., & **Lauzon, D.** (2025). 
 **Lauzon, D.**, & Marcotte, D. (2019). Calibration of random fields by FFTMA-SA. *Computers & Geosciences*, 127, 99-110. [DOI](https://doi.org/10.1016/j.cageo.2019.03.003)
 :::
 
-## Conferences
+## Conferences {#sec-conferences}
 
 ### Peer-reviewed conference papers
 
@@ -154,7 +158,7 @@ Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic gr
 Dimitrakopoulos, R., & **Lauzon, D.** (2026). *Multi-point and High-order simulations*. IAMG 2026, Montréal, Canada.
 :::
 
-## Workshops and training
+## Workshops and training {#sec-ateliers}
 
 ### 2026
 
@@ -162,7 +166,7 @@ Dimitrakopoulos, R., & **Lauzon, D.** (2026). *Multi-point and High-order simula
 Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Concepts for Applied Geoscientists*. IAMG 2026, Montréal, Canada.
 :::
 
-## Theses
+## Theses {#sec-theses}
 
 ### 2022
 
@@ -170,7 +174,7 @@ Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Conce
 **Lauzon, D.** (2022). *Développement d'algorithmes pour le calage de modèles géologiques* [Thèse de doctorat, Polytechnique Montréal]. [link](https://publications.polymtl.ca/10318/)
 :::
 
-## Books and educational resources
+## Books and educational resources {#sec-livres}
 
 ### 2025
 

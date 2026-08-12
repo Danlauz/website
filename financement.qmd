@@ -10,6 +10,10 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 ### Chercheur principal
 
 ::: {.publication-item}
+**Lauzon, D.** (2025–2026). *Développement d'un modèle de substitution par intelligence artificielle pour améliorer la modélisation numérique du transport de contaminants.* Accélération Mitacs (GMS-100288), partenaire AtkinsRéalis. — **20 000 $ / 4 mois** · Stage postdoctoral
+:::
+
+::: {.publication-item}
 **Lauzon, D.**, Cacciari, P., Prieto Espinoza, M. (2026–2030). *Advanced Stochastic Modeling of Fracture Networks for Quantifying Uncertainty in Hydrogeological and Infrastructure Risk Assessments in Mining Contexts.* Subvention Alliance du CRSNG – Accélération Mitacs (ALLRP 615724-26), partenaire IAMGOLD. — **380 000 $ / 4 ans**
 :::
 
@@ -26,15 +30,11 @@ Subventions obtenues et demandes en évaluation, en recherche et en enseignement
 :::
 
 ::: {.publication-item}
-**Lauzon, D.** (2024–2027). *Coupler l'intelligence artificielle et la géostatistique pour la résolution de problèmes inverses.* Programme d'appui au démarrage en recherche des nouveaux professeur·e·s — Polytechnique Montréal. — **60 000 $ / 3 ans**
-:::
-
-::: {.publication-item}
-**Lauzon, D.** *Développement d'un modèle de substitution par intelligence artificielle pour améliorer la modélisation numérique du transport de contaminants.* Accélération Mitacs (GMS-100288), partenaire AtkinsRéalis. — **20 000 $ / 4 mois** · Stage postdoctoral
-:::
-
-::: {.publication-item}
 **Lauzon, D.**, Aloise, D., Bérubé-Lafrénière, C. (2025–2026). *Optimisation des stratégies d'exploration minière par apprentissage par renforcement.* Accélération Mitacs (IT47670), partenaire Orano Mining. — **85 000 $ / 1 an** · *octroyée, puis annulée*
+:::
+
+::: {.publication-item}
+**Lauzon, D.** (2024–2027). *Coupler l'intelligence artificielle et la géostatistique pour la résolution de problèmes inverses.* Programme d'appui au démarrage en recherche des nouveaux professeur·e·s — Polytechnique Montréal. — **60 000 $ / 3 ans**
 :::
 
 ### Co-chercheur
@@ -48,7 +48,7 @@ Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C.
 ### Chercheur principal
 
 ::: {.publication-item}
-**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Étude de cas multidisciplinaire en génie géologique en troisième année* (GLQ3100, GLQ3401, GLQ3425). Fonds d'actions pédagogiques stratégiques (FAPS). — **10 528,72 $ / 1 an**
+**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *De la théorie aux données réelles : apprendre la géostatistique par l'expérience* (GLQ3401, GLQ3651). Projet de création ou d'adaptation d'une REL disciplinaire (Fabrique REL). — **14 790,87 $ / 1 an**
 :::
 
 ::: {.publication-item}
@@ -56,7 +56,7 @@ Fabien-Ouellet, G., Bussière, B., Dimech, A., **Lauzon, D.**, Ovalle Ortega, C.
 :::
 
 ::: {.publication-item}
-**Lauzon, D.**, Fernandez-Pereda, O., Rivest, F. (2025). *De la théorie aux données réelles : apprendre la géostatistique par l'expérience* (GLQ3401, GLQ3651). Projet de création ou d'adaptation d'une REL disciplinaire (Fabrique REL). — **14 790,87 $ / 1 an**
+**Lauzon, D.**, Gervais, F., Cacciari, P. (2025). *Étude de cas multidisciplinaire en génie géologique en troisième année* (GLQ3100, GLQ3401, GLQ3425). Fonds d'actions pédagogiques stratégiques (FAPS). — **10 528,72 $ / 1 an**
 :::
 
 ### Co-chercheur
