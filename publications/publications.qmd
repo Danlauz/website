@@ -5,7 +5,7 @@ title: "Publications"
 Mon nom apparaît en gras. Un astérisque (\*) signale un·e étudiant·e que je supervise.
 
 ::: {.pub-counter}
-[Articles de revue](#sec-articles) (13) · [Communications de conférence](#sec-conferences) (18) · [Ateliers et formations](#sec-ateliers) (1) · [Thèses](#sec-theses) (1) · [Ressources pédagogiques](#sec-livres) (1)
+[Articles de revue](#sec-articles) (13) · [Communications de conférence](#sec-conferences) (19) · [Ateliers et formations](#sec-ateliers) (1) · [Thèses](#sec-theses) (1) · [Ressources pédagogiques](#sec-livres) (1)
 :::
 
 ## Articles de revue par les pairs {#sec-articles}
@@ -119,7 +119,7 @@ Burgoa Tanaka, A. P., Renard, P., Liang, X. X., Straubhaar, J., & **Lauzon, D.**
 :::
 
 ::: {.publication-item}
-Liang, X. X., **Lauzon, D.**, Gloaguen, E., Claprood, M., Straubhaar, J., & Renard, P. (2026). *Evaluating the influence of temporal data resolution on the performance of deep neural networks for karst groundwater forecasting*. IAMG 2026, Montréal, Canada.
+Liang, X. X., **Lauzon, D.**, Gloaguen, E., Claprood, M., Straubhaar, J., & Renard, P. (2026). *Evaluating the Influence of Temporal Data Resolution on the Performance of Deep Neural Networks for Karst Groundwater Forecasting*. IAMG 2026, Montréal, Canada.
 :::
 
 ::: {.publication-item}
@@ -152,10 +152,14 @@ Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic gr
 **Lauzon, D.**, & Marcotte, D. (2022). *On a constructive spectral method for conditioning pluriGaussian simulations (poster)*. GeoEnv 2022, Parma, Italia. [lien](https://publications.polymtl.ca/58581/)
 :::
 
-### Sessions organisées
+### Sessions présidées
 
 ::: {.publication-item}
 Dimitrakopoulos, R., & **Lauzon, D.** (2026). *Multi-point and High-order simulations*. IAMG 2026, Montréal, Canada.
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, & Gloaguen, E. (2026). *Inverse Problems*. IAMG 2026, Montréal, Canada.
 :::
 
 ## Ateliers et formations {#sec-ateliers}
@@ -184,4 +188,4 @@ Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Conce
 
 ---
 
-*Publications: 34 · Dernière mise à jour: août 2026*
+*Publications: 35 · Dernière mise à jour: août 2026*

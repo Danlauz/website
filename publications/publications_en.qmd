@@ -5,7 +5,7 @@ title: "Publications"
 My name appears in bold. An asterisk (\*) marks a student under my supervision.
 
 ::: {.pub-counter}
-[Journal articles](#sec-articles) (13) · [Conference contributions](#sec-conferences) (18) · [Workshops and training](#sec-ateliers) (1) · [Theses](#sec-theses) (1) · [Educational resources](#sec-livres) (1)
+[Journal articles](#sec-articles) (13) · [Conference contributions](#sec-conferences) (19) · [Workshops and training](#sec-ateliers) (1) · [Theses](#sec-theses) (1) · [Educational resources](#sec-livres) (1)
 :::
 
 ## Peer-reviewed journal articles {#sec-articles}
@@ -119,7 +119,7 @@ Burgoa Tanaka, A. P., Renard, P., Liang, X. X., Straubhaar, J., & **Lauzon, D.**
 :::
 
 ::: {.publication-item}
-Liang, X. X., **Lauzon, D.**, Gloaguen, E., Claprood, M., Straubhaar, J., & Renard, P. (2026). *Evaluating the influence of temporal data resolution on the performance of deep neural networks for karst groundwater forecasting*. IAMG 2026, Montréal, Canada.
+Liang, X. X., **Lauzon, D.**, Gloaguen, E., Claprood, M., Straubhaar, J., & Renard, P. (2026). *Evaluating the Influence of Temporal Data Resolution on the Performance of Deep Neural Networks for Karst Groundwater Forecasting*. IAMG 2026, Montréal, Canada.
 :::
 
 ::: {.publication-item}
@@ -152,10 +152,14 @@ Arega, K. A.\*, Benoit, N., **Lauzon, D.**, & Bédard, K. (2026). *Stochastic gr
 **Lauzon, D.**, & Marcotte, D. (2022). *On a constructive spectral method for conditioning pluriGaussian simulations (poster)*. GeoEnv 2022, Parma, Italia. [link](https://publications.polymtl.ca/58581/)
 :::
 
-### Convened sessions
+### Chaired sessions
 
 ::: {.publication-item}
 Dimitrakopoulos, R., & **Lauzon, D.** (2026). *Multi-point and High-order simulations*. IAMG 2026, Montréal, Canada.
+:::
+
+::: {.publication-item}
+**Lauzon, D.**, & Gloaguen, E. (2026). *Inverse Problems*. IAMG 2026, Montréal, Canada.
 :::
 
 ## Workshops and training {#sec-ateliers}
@@ -184,4 +188,4 @@ Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Conce
 
 ---
 
-*Publications: 34 · Last updated: August 2026*
+*Publications: 35 · Last updated: August 2026*
