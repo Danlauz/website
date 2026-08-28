@@ -197,7 +197,12 @@ def format_entry(rec, lang):
         if rec["venue"]:
             s += rec["venue"] + ". "
     if rec["url"]:
-        lbl = "DOI" if "doi.org" in rec["url"] else link
+        if "doi.org" in rec["url"]:
+            lbl = "DOI"
+        elif "github.com" in rec["url"]:
+            lbl = "GitHub"
+        else:
+            lbl = link
         s += f"[{lbl}]({rec['url']})"
     return s.strip()
 

@@ -167,7 +167,7 @@ Dimitrakopoulos, R., & **Lauzon, D.** (2026). *Multi-point and High-order simula
 ### 2026
 
 ::: {.publication-item}
-Liang, X. X., Wen, T., & **Lauzon, D.** (2026). *Fundamental Deep Learning Concepts for Applied Geoscientists*. IAMG 2026, Montréal, Canada.
+Liang, X. X., **Lauzon, D.**, & Wen, T. (2026). *Fundamental Deep Learning Concepts for Applied Geoscientists*. IAMG 2026, Montréal, Canada. [GitHub](https://github.com/Danlauz/iamg2026-dl-shortcourse)
 :::
 
 ## Thèses {#sec-theses}
